@@ -1,6 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "build": "node --no-warnings get-fraggers.mjs"
+    "build": "./run.sh"
   }
 }

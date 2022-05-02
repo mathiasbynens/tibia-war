@@ -1,31 +1,58 @@
 import * as fs from 'fs/promises';
 
-const getEnemies = async () => {
-  const response = await fetch('https://api.tibiadata.com/v3/guild/Gide+Lovers');
+const enemyGuildNames = process.argv.slice(2);
+
+function log(text) {
+  return process.stderr.write(`${text}\n`);
+}
+
+const slugify = (name) => {
+  const slug = name.replaceAll(' ', '+');
+  return slug;
+};
+
+const getEnemies = async (enemyGuildName) => {
+  log(`Processing enemy guild ${enemyGuildName}…`);
+  const response = await fetch(`https://api.tibiadata.com/v3/guild/${slugify(enemyGuildName)}`);
   const data = await response.json();
   return data;
 };
 
 const getDeaths = async (name) => {
-  console.log(`Processing enemy ${name}…`);
-  const slug = name.replaceAll(' ', '+');
-  const url = `https://api.tibiadata.com/v3/character/${slug}`;
+  log(`Processing enemy ${name}…`);
+  const url = `https://api.tibiadata.com/v3/character/${slugify(name)}`;
   const response = await fetch(url);
   const data = await response.json();
   const deaths = data.characters.deaths;
   return deaths;
 };
 
-const data = await getEnemies();
-const names = data.guilds.guild.members.map(entry => entry.name);
-const ENEMY_NAMES = new Set(names);
+const getEnemyNamesFromGuild = async (enemyGuildName) => {
+  const data = await getEnemies(enemyGuildName);
+  const names = data.guilds.guild.members.map(entry => entry.name);
+  return names;
+};
 
-const FRAGGERS = new Map();
+const getEnemyNamesFromGuilds = async (enemyGuildNames) => {
+  // Kick off all requests in parallel.
+  const enemyNamesPerGuild = enemyGuildNames.map(enemyGuildName => getEnemyNamesFromGuild(enemyGuildName));
+  await Promise.allSettled(enemyNamesPerGuild);
+  const enemyNames = new Set();
+  for await (const guildMembers of enemyNamesPerGuild) {
+    for (const guildMember of guildMembers) {
+      enemyNames.add(guildMember);
+    }
+  }
+  return enemyNames;
+};
+
+const ENEMY_NAMES = await getEnemyNamesFromGuilds(enemyGuildNames);
 
 // Kick off all requests in parallel.
-const deathsPerName = names.map(name => getDeaths(name));
+const deathsPerName = [...ENEMY_NAMES].map(name => getDeaths(name));
 await Promise.allSettled(deathsPerName);
 
+const FRAGGERS = new Map();
 for await (const deaths of deathsPerName) {
   if (!deaths) {
     continue;
@@ -55,5 +82,4 @@ const mapToJson = (map) => {
 };
 
 const json = mapToJson(FRAGGERS);
-const DATE_ID = new Date().toISOString().slice(0, 10);
-await fs.writeFile(`./data/fraggers-${DATE_ID}.json`, `${json}\n`);
+console.log(json);
