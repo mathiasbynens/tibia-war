@@ -27,8 +27,8 @@ jobs:
       - name: Update data
         run: |
           npm run build
-          git config user.name 'Mathias Bynens'
-          git config user.email 'mathias@qiwi.be'
+          git config user.name 'Tibia War bot'
+          git config user.email 'war@tibiamaps.io'
           # Update frag data.
           date=$(date +'%Y-%m-%d')
           git add data
