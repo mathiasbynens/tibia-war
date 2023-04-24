@@ -61,7 +61,10 @@ for await (const deaths of deathsPerName) {
     const killers = [...death.killers, ...death.assists];
     for (const killer of killers) {
       if (killer.player && !ENEMY_NAMES.has(killer.name)) {
-        const name = killer.name;
+        // Account for e.g. `sorcerer familiar of Player`.
+        // These are the only killer names that can start with a
+        // lowercase letter.
+        const name = killer.name.replace(/^[a-z ]+ of /, '');
         if (FRAGGERS.has(name)) {
           FRAGGERS.set(name, FRAGGERS.get(name) + 1);
         } else {
