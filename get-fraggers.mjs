@@ -13,23 +13,23 @@ const slugify = (name) => {
 
 const getEnemies = async (enemyGuildName) => {
   log(`Processing enemy guild ${enemyGuildName}…`);
-  const response = await fetch(`https://api.tibiadata.com/v3/guild/${slugify(enemyGuildName)}`);
+  const response = await fetch(`https://api.tibiadata.com/v4/guild/${slugify(enemyGuildName)}`);
   const data = await response.json();
   return data;
 };
 
 const getDeaths = async (name) => {
   log(`Processing enemy ${name}…`);
-  const url = `https://api.tibiadata.com/v3/character/${slugify(name)}`;
+  const url = `https://api.tibiadata.com/v4/character/${slugify(name)}`;
   const response = await fetch(url);
   const data = await response.json();
-  const deaths = data.characters.deaths;
+  const deaths = data.character.deaths;
   return deaths;
 };
 
 const getEnemyNamesFromGuild = async (enemyGuildName) => {
   const data = await getEnemies(enemyGuildName);
-  const names = data.guilds.guild.members.map(entry => entry.name);
+  const names = data.guild.members.map(entry => entry.name);
   return names;
 };
 
