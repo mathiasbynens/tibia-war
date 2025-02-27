@@ -28,7 +28,6 @@ const filePaths = await glob('data/*/fraggers-{2024,2025}-*.json');
 
 let sumTotal = 0;
 for (const filePath of filePaths) {
-  console.log(filePath)
   const combinedFragsThisWorldAndMonth = await getTotalFragsPerFile(filePath, charNames);
   sumTotal += combinedFragsThisWorldAndMonth;
 }
