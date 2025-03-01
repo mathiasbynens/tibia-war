@@ -1,6 +1,5 @@
 export const dateIds = new Set([
 	'2025-03-01',
-	'2025-02-27',
 	'2025-02-01',
 	'2025-01-01',
 	'2024-12-01',
@@ -38,10 +37,6 @@ export const frags = new Map([
 				'frags': 433
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 450
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 188
 			},
@@ -60,10 +55,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 410
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 404
 			},
 			{
 				'date': '2025-02-01',
@@ -124,10 +115,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 377
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 402
 			}
 		]
 	}],
@@ -140,10 +127,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 369
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 361
 			},
 			{
 				'date': '2025-02-01',
@@ -172,10 +155,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 355
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 346
 			},
 			{
 				'date': '2025-02-01',
@@ -242,10 +221,6 @@ export const frags = new Map([
 				'frags': 345
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 346
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 323
 			},
@@ -264,10 +239,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 303
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 333
 			},
 			{
 				'date': '2025-02-01',
@@ -302,10 +273,6 @@ export const frags = new Map([
 				'frags': 277
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 291
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 381
 			},
@@ -334,10 +301,6 @@ export const frags = new Map([
 				'frags': 276
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 295
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 478
 			},
@@ -360,10 +323,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 267
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 296
 			},
 			{
 				'date': '2025-02-01',
@@ -402,10 +361,6 @@ export const frags = new Map([
 				'frags': 262
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 263
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 337
 			},
@@ -424,10 +379,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 260
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 307
 			},
 			{
 				'date': '2025-02-01',
@@ -486,10 +437,6 @@ export const frags = new Map([
 				'frags': 254
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 262
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 160
 			},
@@ -508,10 +455,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 252
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 270
 			},
 			{
 				'date': '2025-02-01',
@@ -534,10 +477,6 @@ export const frags = new Map([
 				'frags': 249
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 254
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 210
 			},
@@ -556,10 +495,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 246
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 250
 			},
 			{
 				'date': '2025-02-01',
@@ -626,10 +561,6 @@ export const frags = new Map([
 				'frags': 242
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 242
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 70
 			},
@@ -648,10 +579,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 240
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 244
 			},
 			{
 				'date': '2025-02-01',
@@ -674,10 +601,6 @@ export const frags = new Map([
 				'frags': 232
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 244
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 184
 			},
@@ -698,10 +621,6 @@ export const frags = new Map([
 				'frags': 226
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 238
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 233
 			}
@@ -716,10 +635,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 226
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 242
 			},
 			{
 				'date': '2025-02-01',
@@ -786,10 +701,6 @@ export const frags = new Map([
 				'frags': 223
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 222
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 169
 			},
@@ -812,10 +723,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 222
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 253
 			},
 			{
 				'date': '2025-02-01',
@@ -874,10 +781,6 @@ export const frags = new Map([
 				'frags': 220
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 233
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 340
 			},
@@ -934,10 +837,6 @@ export const frags = new Map([
 				'frags': 216
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 243
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 290
 			},
@@ -958,10 +857,6 @@ export const frags = new Map([
 				'frags': 214
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 229
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 215
 			},
@@ -980,10 +875,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 214
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 190
 			}
 		]
 	}],
@@ -996,10 +887,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 212
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 203
 			},
 			{
 				'date': '2025-02-01',
@@ -1030,10 +917,6 @@ export const frags = new Map([
 				'frags': 209
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 240
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 163
 			},
@@ -1060,10 +943,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 205
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 210
 			},
 			{
 				'date': '2025-02-01',
@@ -1094,10 +973,6 @@ export const frags = new Map([
 				'frags': 204
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 225
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 227
 			},
@@ -1122,10 +997,6 @@ export const frags = new Map([
 				'frags': 195
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 198
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 92
 			},
@@ -1146,10 +1017,6 @@ export const frags = new Map([
 				'frags': 193
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 178
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 142
 			}
@@ -1164,10 +1031,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 191
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 212
 			},
 			{
 				'date': '2025-02-01',
@@ -1190,10 +1053,6 @@ export const frags = new Map([
 				'frags': 191
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 201
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 210
 			}
@@ -1208,10 +1067,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 188
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 189
 			},
 			{
 				'date': '2025-02-01',
@@ -1270,10 +1125,6 @@ export const frags = new Map([
 				'frags': 188
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 171
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 178
 			},
@@ -1300,10 +1151,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 187
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 179
 			}
 		]
 	}],
@@ -1316,10 +1163,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 186
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 178
 			}
 		]
 	}],
@@ -1332,10 +1175,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 186
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 182
 			},
 			{
 				'date': '2025-02-01',
@@ -1356,10 +1195,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 184
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 189
 			},
 			{
 				'date': '2025-02-01',
@@ -1414,10 +1249,6 @@ export const frags = new Map([
 				'frags': 183
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 182
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 55
 			}
@@ -1432,10 +1263,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 181
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 174
 			},
 			{
 				'date': '2025-02-01',
@@ -1456,10 +1283,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 175
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 191
 			},
 			{
 				'date': '2025-02-01',
@@ -1526,10 +1349,6 @@ export const frags = new Map([
 				'frags': 173
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 155
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 160
 			},
@@ -1554,10 +1373,6 @@ export const frags = new Map([
 				'frags': 172
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 182
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 225
 			},
@@ -1576,10 +1391,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 171
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 167
 			},
 			{
 				'date': '2025-02-01',
@@ -1602,10 +1413,6 @@ export const frags = new Map([
 				'frags': 170
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 170
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 120
 			},
@@ -1624,10 +1431,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 169
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 154
 			},
 			{
 				'date': '2025-02-01',
@@ -1684,10 +1487,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 163
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 164
 			},
 			{
 				'date': '2025-02-01',
@@ -1754,10 +1553,6 @@ export const frags = new Map([
 				'frags': 158
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 153
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 55
 			},
@@ -1780,10 +1575,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 155
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 169
 			},
 			{
 				'date': '2025-02-01',
@@ -1850,10 +1641,6 @@ export const frags = new Map([
 				'frags': 154
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 167
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 271
 			},
@@ -1872,10 +1659,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 153
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 165
 			},
 			{
 				'date': '2025-02-01',
@@ -1900,10 +1683,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 152
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 151
 			},
 			{
 				'date': '2025-02-01',
@@ -1954,10 +1733,6 @@ export const frags = new Map([
 				'frags': 150
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 155
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 218
 			},
@@ -1980,10 +1755,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 147
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 140
 			},
 			{
 				'date': '2025-02-01',
@@ -2010,10 +1781,6 @@ export const frags = new Map([
 				'frags': 145
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 138
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 81
 			}
@@ -2028,10 +1795,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 142
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 112
 			},
 			{
 				'date': '2025-02-01',
@@ -2054,10 +1817,6 @@ export const frags = new Map([
 				'frags': 142
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 171
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 200
 			},
@@ -2076,10 +1835,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 139
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 148
 			},
 			{
 				'date': '2025-02-01',
@@ -2146,10 +1901,6 @@ export const frags = new Map([
 				'frags': 138
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 134
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 99
 			},
@@ -2184,10 +1935,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 137
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 141
 			},
 			{
 				'date': '2025-02-01',
@@ -2226,10 +1973,6 @@ export const frags = new Map([
 				'frags': 135
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 136
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 215
 			},
@@ -2252,10 +1995,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 134
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 166
 			},
 			{
 				'date': '2025-02-01',
@@ -2314,10 +2053,6 @@ export const frags = new Map([
 				'frags': 134
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 149
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 73
 			},
@@ -2374,10 +2109,6 @@ export const frags = new Map([
 				'frags': 132
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 132
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 200
 			},
@@ -2399,10 +2130,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 132
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 132
 			},
 			{
@@ -2428,10 +2155,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 132
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 128
 			},
 			{
 				'date': '2025-02-01',
@@ -2486,10 +2209,6 @@ export const frags = new Map([
 				'frags': 131
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 130
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 93
 			},
@@ -2507,10 +2226,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 131
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 131
 			},
 			{
@@ -2546,10 +2261,6 @@ export const frags = new Map([
 				'frags': 131
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 140
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 269
 			},
@@ -2572,10 +2283,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 131
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 137
 			},
 			{
 				'date': '2025-02-01',
@@ -2614,10 +2321,6 @@ export const frags = new Map([
 				'frags': 130
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 131
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 96
 			},
@@ -2636,10 +2339,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 130
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 145
 			},
 			{
 				'date': '2025-02-01',
@@ -2666,10 +2365,6 @@ export const frags = new Map([
 				'frags': 129
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 123
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 275
 			},
@@ -2694,10 +2389,6 @@ export const frags = new Map([
 				'frags': 128
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 126
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 150
 			},
@@ -2716,10 +2407,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 127
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 111
 			},
 			{
 				'date': '2025-02-01',
@@ -2748,10 +2435,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 127
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 136
 			},
 			{
 				'date': '2025-02-01',
@@ -2818,10 +2501,6 @@ export const frags = new Map([
 				'frags': 126
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 111
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 260
 			},
@@ -2843,10 +2522,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 126
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 126
 			},
 			{
@@ -2906,10 +2581,6 @@ export const frags = new Map([
 				'frags': 125
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 123
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 207
 			},
@@ -2958,10 +2629,6 @@ export const frags = new Map([
 				'frags': 125
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 131
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 251
 			},
@@ -2998,10 +2665,6 @@ export const frags = new Map([
 				'frags': 124
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 128
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 223
 			},
@@ -3020,10 +2683,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 123
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 121
 			},
 			{
 				'date': '2025-02-01',
@@ -3076,10 +2735,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 123
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 123
 			}
 		]
 	}],
@@ -3092,10 +2747,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 122
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 158
 			},
 			{
 				'date': '2025-02-01',
@@ -3118,10 +2769,6 @@ export const frags = new Map([
 				'frags': 121
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 124
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 287
 			},
@@ -3139,10 +2786,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 121
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 121
 			},
 			{
@@ -3202,10 +2845,6 @@ export const frags = new Map([
 				'frags': 120
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 122
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 323
 			}
@@ -3220,10 +2859,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 120
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 140
 			},
 			{
 				'date': '2025-02-01',
@@ -3247,10 +2882,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 119
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 119
 			},
 			{
@@ -3280,10 +2911,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 118
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 119
 			},
 			{
 				'date': '2025-02-01',
@@ -3322,10 +2949,6 @@ export const frags = new Map([
 				'frags': 117
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 107
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 173
 			}
@@ -3339,10 +2962,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 117
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 117
 			},
 			{
@@ -3386,10 +3005,6 @@ export const frags = new Map([
 				'frags': 116
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 117
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 152
 			},
@@ -3408,10 +3023,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 116
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 129
 			},
 			{
 				'date': '2025-02-01',
@@ -3438,10 +3049,6 @@ export const frags = new Map([
 				'frags': 114
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 96
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 204
 			},
@@ -3459,10 +3066,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 114
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 114
 			},
 			{
@@ -3486,10 +3089,6 @@ export const frags = new Map([
 				'frags': 112
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 104
-			},
-			{
 				'date': '2024-05-01',
 				'frags': 6
 			},
@@ -3510,10 +3109,6 @@ export const frags = new Map([
 				'frags': 112
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 102
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 60
 			},
@@ -3532,10 +3127,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 111
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 123
 			},
 			{
 				'date': '2025-02-01',
@@ -3582,10 +3173,6 @@ export const frags = new Map([
 				'frags': 111
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 139
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 117
 			}
@@ -3599,10 +3186,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 111
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 111
 			},
 			{
@@ -3640,10 +3223,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 110
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 113
 			},
 			{
 				'date': '2025-02-01',
@@ -3694,10 +3273,6 @@ export const frags = new Map([
 				'frags': 108
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 108
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 177
 			},
@@ -3730,10 +3305,6 @@ export const frags = new Map([
 				'frags': 107
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 105
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 84
 			},
@@ -3762,10 +3333,6 @@ export const frags = new Map([
 				'frags': 107
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 97
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 271
 			},
@@ -3786,10 +3353,6 @@ export const frags = new Map([
 				'frags': 106
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 122
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 56
 			}
@@ -3804,10 +3367,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 106
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 106
 			}
 		]
 	}],
@@ -3820,10 +3379,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 105
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 104
 			},
 			{
 				'date': '2025-02-01',
@@ -3868,10 +3423,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 104
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 107
 			},
 			{
 				'date': '2025-02-01',
@@ -3930,10 +3481,6 @@ export const frags = new Map([
 				'frags': 104
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 99
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 78
 			},
@@ -3954,10 +3501,6 @@ export const frags = new Map([
 				'frags': 104
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 103
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 173
 			},
@@ -3975,10 +3518,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 103
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 103
 			},
 			{
@@ -4010,10 +3549,6 @@ export const frags = new Map([
 				'frags': 103
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 102
-			},
-			{
 				'date': '2024-06-01',
 				'frags': 10
 			}
@@ -4028,10 +3563,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 103
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 107
 			},
 			{
 				'date': '2025-02-01',
@@ -4082,10 +3613,6 @@ export const frags = new Map([
 				'frags': 103
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 107
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 111
 			},
@@ -4110,10 +3637,6 @@ export const frags = new Map([
 				'frags': 102
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 99
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 232
 			},
@@ -4134,10 +3657,6 @@ export const frags = new Map([
 				'frags': 102
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 116
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 262
 			}
@@ -4152,10 +3671,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 101
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 80
 			},
 			{
 				'date': '2025-02-01',
@@ -4226,10 +3741,6 @@ export const frags = new Map([
 				'frags': 100
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 100
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 127
 			},
@@ -4270,10 +3781,6 @@ export const frags = new Map([
 				'frags': 97
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 100
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 116
 			},
@@ -4296,10 +3803,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 96
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 94
 			}
 		]
 	}],
@@ -4312,10 +3815,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 96
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 99
 			},
 			{
 				'date': '2025-02-01',
@@ -4336,10 +3835,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 96
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 93
 			},
 			{
 				'date': '2025-02-01',
@@ -4364,10 +3859,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 95
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 123
 			},
 			{
 				'date': '2025-02-01',
@@ -4422,10 +3913,6 @@ export const frags = new Map([
 				'frags': 94
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 99
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 1
 			}
@@ -4442,10 +3929,6 @@ export const frags = new Map([
 				'frags': 94
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 91
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			}
@@ -4460,10 +3943,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 94
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 93
 			},
 			{
 				'date': '2025-02-01',
@@ -4483,10 +3962,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 92
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 92
 			},
 			{
@@ -4550,10 +4025,6 @@ export const frags = new Map([
 				'frags': 91
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 88
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 48
 			}
@@ -4567,10 +4038,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 91
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 91
 			},
 			{
@@ -4610,10 +4077,6 @@ export const frags = new Map([
 				'frags': 90
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 90
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 65
 			},
@@ -4631,10 +4094,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 90
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 90
 			},
 			{
@@ -4694,10 +4153,6 @@ export const frags = new Map([
 				'frags': 89
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 95
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 91
 			},
@@ -4715,10 +4170,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 89
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 89
 			},
 			{
@@ -4742,10 +4193,6 @@ export const frags = new Map([
 				'frags': 88
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 129
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 307
 			},
@@ -4766,10 +4213,6 @@ export const frags = new Map([
 				'frags': 88
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 98
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 136
 			}
@@ -4783,10 +4226,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 88
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 88
 			},
 			{
@@ -4850,10 +4289,6 @@ export const frags = new Map([
 				'frags': 87
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 91
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 90
 			},
@@ -4906,10 +4341,6 @@ export const frags = new Map([
 				'frags': 87
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 86
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 120
 			},
@@ -4928,10 +4359,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 86
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 82
 			},
 			{
 				'date': '2025-02-01',
@@ -4970,10 +4397,6 @@ export const frags = new Map([
 				'frags': 86
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 86
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 61
 			},
@@ -4991,10 +4414,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 86
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 86
 			},
 			{
@@ -5018,10 +4437,6 @@ export const frags = new Map([
 				'frags': 86
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 84
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 49
 			},
@@ -5040,10 +4455,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 85
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 76
 			},
 			{
 				'date': '2025-02-01',
@@ -5074,10 +4485,6 @@ export const frags = new Map([
 				'frags': 85
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 82
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 129
 			},
@@ -5096,10 +4503,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 85
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 79
 			},
 			{
 				'date': '2025-02-01',
@@ -5142,10 +4545,6 @@ export const frags = new Map([
 				'frags': 83
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 84
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 152
 			},
@@ -5172,10 +4571,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 83
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 97
 			},
 			{
 				'date': '2025-02-01',
@@ -5216,10 +4611,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 83
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 94
 			},
 			{
 				'date': '2025-02-01',
@@ -5264,10 +4655,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 83
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 94
 			},
 			{
 				'date': '2025-02-01',
@@ -5322,10 +4709,6 @@ export const frags = new Map([
 				'frags': 83
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 71
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 176
 			},
@@ -5343,10 +4726,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 82
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 82
 			},
 			{
@@ -5396,10 +4775,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 82
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 98
 			},
 			{
 				'date': '2025-02-01',
@@ -5458,10 +4833,6 @@ export const frags = new Map([
 				'frags': 82
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 82
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 236
 			},
@@ -5490,10 +4861,6 @@ export const frags = new Map([
 				'frags': 82
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 82
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 88
 			},
@@ -5514,10 +4881,6 @@ export const frags = new Map([
 				'frags': 81
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 77
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			},
@@ -5536,10 +4899,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 81
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 87
 			},
 			{
 				'date': '2025-02-01',
@@ -5572,10 +4931,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 81
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 78
 			},
 			{
 				'date': '2025-02-01',
@@ -5618,10 +4973,6 @@ export const frags = new Map([
 				'frags': 80
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 83
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 44
 			},
@@ -5648,10 +4999,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 79
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 98
 			},
 			{
 				'date': '2025-02-01',
@@ -5690,10 +5037,6 @@ export const frags = new Map([
 				'frags': 78
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 78
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 29
 			},
@@ -5711,10 +5054,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 78
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 78
 			},
 			{
@@ -5736,10 +5075,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 78
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 81
 			},
 			{
 				'date': '2025-02-01',
@@ -5798,10 +5133,6 @@ export const frags = new Map([
 				'frags': 78
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 82
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 148
 			},
@@ -5820,10 +5151,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 78
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 79
 			},
 			{
 				'date': '2025-02-01',
@@ -5855,10 +5182,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 77
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 77
 			},
 			{
@@ -5922,10 +5245,6 @@ export const frags = new Map([
 				'frags': 77
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 79
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 150
 			},
@@ -5984,10 +5303,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 77
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 73
 			},
 			{
 				'date': '2025-02-01',
@@ -6054,10 +5369,6 @@ export const frags = new Map([
 				'frags': 76
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 74
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 176
 			},
@@ -6076,10 +5387,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 76
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 81
 			},
 			{
 				'date': '2025-02-01',
@@ -6122,10 +5429,6 @@ export const frags = new Map([
 				'frags': 76
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 74
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 155
 			},
@@ -6143,10 +5446,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 76
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 76
 			},
 			{
@@ -6172,10 +5471,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 76
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 73
 			},
 			{
 				'date': '2025-02-01',
@@ -6224,10 +5519,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 75
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 74
 			}
 		]
 	}],
@@ -6240,10 +5531,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 75
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 83
 			},
 			{
 				'date': '2025-02-01',
@@ -6310,10 +5597,6 @@ export const frags = new Map([
 				'frags': 75
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 75
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 88
 			},
@@ -6338,10 +5621,6 @@ export const frags = new Map([
 				'frags': 75
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 69
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 115
 			},
@@ -6362,10 +5641,6 @@ export const frags = new Map([
 				'frags': 75
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 73
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 76
 			}
@@ -6380,10 +5655,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 75
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 71
 			},
 			{
 				'date': '2025-02-01',
@@ -6422,10 +5693,6 @@ export const frags = new Map([
 				'frags': 74
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 72
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 38
 			},
@@ -6444,10 +5711,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 74
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 82
 			},
 			{
 				'date': '2025-02-01',
@@ -6514,10 +5777,6 @@ export const frags = new Map([
 				'frags': 74
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 74
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 116
 			},
@@ -6566,10 +5825,6 @@ export const frags = new Map([
 				'frags': 74
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 96
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 175
 			},
@@ -6596,10 +5851,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 73
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 67
 			},
 			{
 				'date': '2025-02-01',
@@ -6644,10 +5895,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 73
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 73
 			}
 		]
 	}],
@@ -6660,10 +5907,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 73
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 68
 			},
 			{
 				'date': '2025-02-01',
@@ -6686,10 +5929,6 @@ export const frags = new Map([
 				'frags': 73
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 71
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 68
 			},
@@ -6710,10 +5949,6 @@ export const frags = new Map([
 				'frags': 73
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 71
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 44
 			}
@@ -6728,10 +5963,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 73
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 82
 			},
 			{
 				'date': '2025-02-01',
@@ -6794,10 +6025,6 @@ export const frags = new Map([
 				'frags': 72
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 72
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 130
 			},
@@ -6816,10 +6043,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 72
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 90
 			},
 			{
 				'date': '2025-02-01',
@@ -6882,10 +6105,6 @@ export const frags = new Map([
 				'frags': 72
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 90
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 205
 			}
@@ -6899,10 +6118,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 72
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 72
 			},
 			{
@@ -6943,10 +6158,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 71
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 71
 			},
 			{
@@ -6998,10 +6209,6 @@ export const frags = new Map([
 				'frags': 71
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 73
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 53
 			},
@@ -7022,10 +6229,6 @@ export const frags = new Map([
 				'frags': 71
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 75
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 149
 			}
@@ -7039,10 +6242,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 70
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 70
 			},
 			{
@@ -7110,10 +6309,6 @@ export const frags = new Map([
 				'frags': 70
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 81
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 144
 			},
@@ -7160,10 +6355,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 70
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 66
 			},
 			{
 				'date': '2025-02-01',
@@ -7230,10 +6421,6 @@ export const frags = new Map([
 				'frags': 69
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 69
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 44
 			},
@@ -7260,10 +6447,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 69
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 80
 			},
 			{
 				'date': '2025-02-01',
@@ -7316,10 +6499,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 69
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 54
 			},
 			{
 				'date': '2025-02-01',
@@ -7378,10 +6557,6 @@ export const frags = new Map([
 				'frags': 68
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 68
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 126
 			},
@@ -7400,10 +6575,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 68
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 68
 			}
 		]
 	}],
@@ -7416,10 +6587,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 68
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 76
 			},
 			{
 				'date': '2025-02-01',
@@ -7435,10 +6602,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 68
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 68
 			},
 			{
@@ -7470,10 +6633,6 @@ export const frags = new Map([
 				'frags': 68
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 68
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 53
 			},
@@ -7498,10 +6657,6 @@ export const frags = new Map([
 				'frags': 68
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 79
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 145
 			},
@@ -7519,10 +6674,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 67
 			},
 			{
@@ -7546,10 +6697,6 @@ export const frags = new Map([
 				'frags': 67
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 67
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 17
 			}
@@ -7564,10 +6711,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 71
 			}
 		]
 	}],
@@ -7580,10 +6723,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 65
 			},
 			{
 				'date': '2025-02-01',
@@ -7616,10 +6755,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 79
 			},
 			{
 				'date': '2025-02-01',
@@ -7662,10 +6797,6 @@ export const frags = new Map([
 				'frags': 67
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 74
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 117
 			},
@@ -7684,10 +6815,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 66
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 84
 			},
 			{
 				'date': '2025-02-01',
@@ -7734,10 +6861,6 @@ export const frags = new Map([
 				'frags': 66
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 74
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 148
 			},
@@ -7760,10 +6883,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 66
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 67
 			},
 			{
 				'date': '2025-02-01',
@@ -7826,10 +6945,6 @@ export const frags = new Map([
 				'frags': 65
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 65
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 153
 			},
@@ -7886,10 +7001,6 @@ export const frags = new Map([
 				'frags': 65
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 63
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 194
 			},
@@ -7908,10 +7019,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 65
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 73
 			},
 			{
 				'date': '2025-02-01',
@@ -7938,10 +7045,6 @@ export const frags = new Map([
 				'frags': 65
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 62
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 64
 			},
@@ -7960,10 +7063,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 65
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 64
 			},
 			{
 				'date': '2025-02-01',
@@ -8030,10 +7129,6 @@ export const frags = new Map([
 				'frags': 65
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 63
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 40
 			},
@@ -8051,10 +7146,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 65
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 65
 			},
 			{
@@ -8086,10 +7177,6 @@ export const frags = new Map([
 				'frags': 65
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 81
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 128
 			},
@@ -8108,10 +7195,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 64
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 54
 			},
 			{
 				'date': '2025-02-01',
@@ -8178,10 +7261,6 @@ export const frags = new Map([
 				'frags': 64
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 71
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 87
 			},
@@ -8219,10 +7298,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 64
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 64
 			},
 			{
@@ -8282,10 +7357,6 @@ export const frags = new Map([
 				'frags': 64
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 64
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 61
 			},
@@ -8311,10 +7382,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 64
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 64
 			},
 			{
@@ -8354,10 +7421,6 @@ export const frags = new Map([
 				'frags': 64
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 73
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 33
 			}
@@ -8371,10 +7434,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 63
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 63
 			},
 			{
@@ -8438,10 +7497,6 @@ export const frags = new Map([
 				'frags': 63
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 63
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 132
 			},
@@ -8459,10 +7514,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 63
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 63
 			},
 			{
@@ -8524,10 +7575,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 63
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 69
 			},
 			{
 				'date': '2025-02-01',
@@ -8592,10 +7639,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 62
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			}
 		]
 	}],
@@ -8607,10 +7650,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 62
 			},
 			{
@@ -8638,10 +7677,6 @@ export const frags = new Map([
 				'frags': 62
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 71
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 135
 			},
@@ -8660,10 +7695,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 62
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 69
 			},
 			{
 				'date': '2025-02-01',
@@ -8690,10 +7721,6 @@ export const frags = new Map([
 				'frags': 62
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 63
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 60
 			},
@@ -8715,10 +7742,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 62
 			},
 			{
@@ -8754,10 +7777,6 @@ export const frags = new Map([
 				'frags': 61
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 57
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			},
@@ -8776,10 +7795,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 61
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 60
 			},
 			{
 				'date': '2024-10-01',
@@ -8814,10 +7829,6 @@ export const frags = new Map([
 				'frags': 61
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 61
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 43
 			}
@@ -8832,10 +7843,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 60
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 68
 			},
 			{
 				'date': '2025-02-01',
@@ -8882,10 +7889,6 @@ export const frags = new Map([
 				'frags': 60
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 60
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 47
 			},
@@ -8903,10 +7906,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 60
 			},
 			{
@@ -8942,10 +7941,6 @@ export const frags = new Map([
 				'frags': 59
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 64
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 133
 			},
@@ -8966,10 +7961,6 @@ export const frags = new Map([
 				'frags': 59
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 50
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 5
 			}
@@ -8984,10 +7975,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 59
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 58
 			}
 		]
 	}],
@@ -9000,10 +7987,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 59
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 82
 			},
 			{
 				'date': '2025-02-01',
@@ -9070,10 +8053,6 @@ export const frags = new Map([
 				'frags': 59
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 59
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 70
 			},
@@ -9126,10 +8105,6 @@ export const frags = new Map([
 				'frags': 59
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 70
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 213
 			},
@@ -9172,10 +8147,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 59
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 53
 			}
 		]
 	}],
@@ -9188,10 +8159,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 59
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 69
 			},
 			{
 				'date': '2025-02-01',
@@ -9248,10 +8215,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 58
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 55
 			}
 		]
 	}],
@@ -9263,10 +8226,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 58
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 58
 			},
 			{
@@ -9296,10 +8255,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 58
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 65
 			},
 			{
 				'date': '2025-02-01',
@@ -9344,10 +8299,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 58
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 46
 			},
 			{
 				'date': '2025-02-01',
@@ -9402,10 +8353,6 @@ export const frags = new Map([
 				'frags': 57
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 59
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 132
 			},
@@ -9444,10 +8391,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 57
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 56
 			}
 		]
 	}],
@@ -9460,10 +8403,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 57
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 70
 			},
 			{
 				'date': '2025-02-01',
@@ -9486,10 +8425,6 @@ export const frags = new Map([
 				'frags': 57
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 57
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 32
 			}
@@ -9504,10 +8439,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 57
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 53
 			},
 			{
 				'date': '2025-02-01',
@@ -9527,10 +8458,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 57
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 57
 			},
 			{
@@ -9598,10 +8525,6 @@ export const frags = new Map([
 				'frags': 57
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 59
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 65
 			},
@@ -9654,10 +8577,6 @@ export const frags = new Map([
 				'frags': 56
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 61
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 65
 			},
@@ -9676,10 +8595,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 56
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 55
 			},
 			{
 				'date': '2025-02-01',
@@ -9712,10 +8627,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 55
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 58
 			},
 			{
 				'date': '2025-02-01',
@@ -9762,10 +8673,6 @@ export const frags = new Map([
 				'frags': 55
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 55
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 48
 			},
@@ -9798,10 +8705,6 @@ export const frags = new Map([
 				'frags': 55
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 55
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			},
@@ -9820,10 +8723,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 55
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 54
 			},
 			{
 				'date': '2025-02-01',
@@ -9882,10 +8781,6 @@ export const frags = new Map([
 				'frags': 55
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 52
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 30
 			},
@@ -9906,10 +8801,6 @@ export const frags = new Map([
 				'frags': 55
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 69
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 93
 			},
@@ -9928,10 +8819,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 55
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 61
 			},
 			{
 				'date': '2025-02-01',
@@ -9996,10 +8883,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 55
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 51
 			}
 		]
 	}],
@@ -10011,10 +8894,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 54
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 54
 			},
 			{
@@ -10066,10 +8945,6 @@ export const frags = new Map([
 				'frags': 54
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 67
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 160
 			},
@@ -10092,10 +8967,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 54
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 52
 			},
 			{
 				'date': '2025-02-01',
@@ -10162,10 +9033,6 @@ export const frags = new Map([
 				'frags': 54
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 45
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 36
 			},
@@ -10190,10 +9057,6 @@ export const frags = new Map([
 				'frags': 54
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 54
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 46
 			}
@@ -10210,10 +9073,6 @@ export const frags = new Map([
 				'frags': 54
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 54
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 60
 			}
@@ -10227,10 +9086,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 53
 			},
 			{
@@ -10251,10 +9106,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 53
 			},
 			{
@@ -10302,10 +9153,6 @@ export const frags = new Map([
 				'frags': 53
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 53
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			},
@@ -10331,10 +9178,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 53
 			},
 			{
@@ -10402,10 +9245,6 @@ export const frags = new Map([
 				'frags': 53
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 54
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			},
@@ -10424,10 +9263,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 52
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 57
 			},
 			{
 				'date': '2025-02-01',
@@ -10494,10 +9329,6 @@ export const frags = new Map([
 				'frags': 52
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 52
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			},
@@ -10554,10 +9385,6 @@ export const frags = new Map([
 				'frags': 52
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 52
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 150
 			},
@@ -10586,10 +9413,6 @@ export const frags = new Map([
 				'frags': 52
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 52
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -10608,10 +9431,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 52
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 57
 			},
 			{
 				'date': '2025-02-01',
@@ -10670,10 +9489,6 @@ export const frags = new Map([
 				'frags': 52
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 60
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			},
@@ -10724,10 +9539,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 52
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 53
 			},
 			{
 				'date': '2025-02-01',
@@ -10784,10 +9595,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 52
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 55
 			},
 			{
 				'date': '2025-02-01',
@@ -10854,10 +9661,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 126
 			},
@@ -10883,10 +9686,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 51
 			},
 			{
@@ -10923,10 +9722,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 51
 			},
 			{
@@ -10978,10 +9773,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 63
 			},
@@ -11002,10 +9793,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			},
@@ -11023,10 +9810,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 51
 			},
 			{
@@ -11086,10 +9869,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 109
 			},
@@ -11146,10 +9925,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			},
@@ -11167,10 +9942,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 51
 			},
 			{
@@ -11195,10 +9966,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 51
 			},
 			{
@@ -11238,10 +10005,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 57
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 93
 			},
@@ -11262,10 +10025,6 @@ export const frags = new Map([
 				'frags': 50
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 50
-			},
-			{
 				'date': '2024-02-01',
 				'frags': 4
 			}
@@ -11280,10 +10039,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 50
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 41
 			},
 			{
 				'date': '2025-02-01',
@@ -11302,10 +10057,6 @@ export const frags = new Map([
 				'frags': 50
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 50
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 108
 			}
@@ -11319,10 +10070,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 50
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 50
 			},
 			{
@@ -11348,10 +10095,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 49
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 58
 			},
 			{
 				'date': '2025-02-01',
@@ -11390,10 +10133,6 @@ export const frags = new Map([
 				'frags': 49
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 48
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 26
 			},
@@ -11412,10 +10151,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 49
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 68
 			},
 			{
 				'date': '2025-02-01',
@@ -11466,10 +10201,6 @@ export const frags = new Map([
 				'frags': 49
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 49
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 3
 			},
@@ -11510,10 +10241,6 @@ export const frags = new Map([
 				'frags': 49
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 49
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 35
 			},
@@ -11538,10 +10265,6 @@ export const frags = new Map([
 				'frags': 49
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 56
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -11560,10 +10283,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 49
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 38
 			}
 		]
 	}],
@@ -11576,10 +10295,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 49
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 60
 			},
 			{
 				'date': '2025-02-01',
@@ -11602,10 +10317,6 @@ export const frags = new Map([
 				'frags': 49
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 54
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 61
 			},
@@ -11626,10 +10337,6 @@ export const frags = new Map([
 				'frags': 49
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 57
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 73
 			},
@@ -11647,10 +10354,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 48
 			},
 			{
@@ -11699,10 +10402,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 48
 			},
 			{
@@ -11762,10 +10461,6 @@ export const frags = new Map([
 				'frags': 48
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 37
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 63
 			},
@@ -11794,10 +10489,6 @@ export const frags = new Map([
 				'frags': 48
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 48
-			},
-			{
 				'date': '2024-01-01',
 				'frags': 18
 			},
@@ -11822,10 +10513,6 @@ export const frags = new Map([
 				'frags': 48
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 47
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 48
 			},
@@ -11843,10 +10530,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 48
 			},
 			{
@@ -11910,10 +10593,6 @@ export const frags = new Map([
 				'frags': 48
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 48
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 29
 			},
@@ -11970,10 +10649,6 @@ export const frags = new Map([
 				'frags': 48
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 63
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 41
 			},
@@ -11992,10 +10667,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 48
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 43
 			},
 			{
 				'date': '2025-02-01',
@@ -12039,10 +10710,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 47
 			},
 			{
@@ -12096,10 +10763,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 47
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			}
 		]
 	}],
@@ -12111,10 +10774,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 47
 			},
 			{
@@ -12150,10 +10809,6 @@ export const frags = new Map([
 				'frags': 47
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 62
 			}
@@ -12167,10 +10822,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 47
 			},
 			{
@@ -12200,10 +10851,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 47
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 39
 			},
 			{
 				'date': '2025-02-01',
@@ -12266,10 +10913,6 @@ export const frags = new Map([
 				'frags': 46
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 56
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 152
 			},
@@ -12324,10 +10967,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 46
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 45
 			},
 			{
 				'date': '2025-02-01',
@@ -12386,10 +11025,6 @@ export const frags = new Map([
 				'frags': 46
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 58
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 100
 			},
@@ -12442,10 +11077,6 @@ export const frags = new Map([
 				'frags': 46
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 46
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 78
 			},
@@ -12466,10 +11097,6 @@ export const frags = new Map([
 				'frags': 46
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 46
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 34
 			}
@@ -12484,10 +11111,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 46
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 45
 			},
 			{
 				'date': '2025-02-01',
@@ -12530,10 +11153,6 @@ export const frags = new Map([
 				'frags': 45
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 46
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 74
 			}
@@ -12547,10 +11166,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 45
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 45
 			},
 			{
@@ -12568,10 +11183,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 45
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 52
 			},
 			{
 				'date': '2025-02-01',
@@ -12598,10 +11209,6 @@ export const frags = new Map([
 				'frags': 45
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 32
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 32
 			},
@@ -12626,10 +11233,6 @@ export const frags = new Map([
 				'frags': 45
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 45
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 64
 			},
@@ -12650,10 +11253,6 @@ export const frags = new Map([
 				'frags': 45
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 44
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 159
 			},
@@ -12671,10 +11270,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 45
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 45
 			},
 			{
@@ -12734,10 +11329,6 @@ export const frags = new Map([
 				'frags': 44
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 44
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			},
@@ -12786,10 +11377,6 @@ export const frags = new Map([
 				'frags': 44
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 40
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 142
 			},
@@ -12810,10 +11397,6 @@ export const frags = new Map([
 				'frags': 44
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 41
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 26
 			}
@@ -12827,10 +11410,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 44
 			},
 			{
@@ -12870,10 +11449,6 @@ export const frags = new Map([
 				'frags': 44
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 44
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 64
 			},
@@ -12894,10 +11469,6 @@ export const frags = new Map([
 				'frags': 44
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 60
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			}
@@ -12914,10 +11485,6 @@ export const frags = new Map([
 				'frags': 44
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			}
@@ -12932,10 +11499,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 44
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 55
 			},
 			{
 				'date': '2025-02-01',
@@ -13002,10 +11565,6 @@ export const frags = new Map([
 				'frags': 44
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 44
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			}
@@ -13020,10 +11579,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 44
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 64
 			},
 			{
 				'date': '2025-02-01',
@@ -13090,10 +11645,6 @@ export const frags = new Map([
 				'frags': 43
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 48
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 49
 			},
@@ -13128,10 +11679,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 43
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 44
 			},
 			{
 				'date': '2025-02-01',
@@ -13196,10 +11743,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 43
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 41
 			}
 		]
 	}],
@@ -13211,10 +11754,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 43
 			},
 			{
@@ -13236,10 +11775,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 43
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 36
 			},
 			{
 				'date': '2025-02-01',
@@ -13266,10 +11801,6 @@ export const frags = new Map([
 				'frags': 43
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 55
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 57
 			},
@@ -13288,10 +11819,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 43
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 41
 			},
 			{
 				'date': '2025-02-01',
@@ -13320,10 +11847,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 43
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 47
 			},
 			{
 				'date': '2025-02-01',
@@ -13370,10 +11893,6 @@ export const frags = new Map([
 				'frags': 42
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 44
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 52
 			}
@@ -13388,10 +11907,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 42
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 47
 			},
 			{
 				'date': '2025-02-01',
@@ -13458,10 +11973,6 @@ export const frags = new Map([
 				'frags': 42
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 42
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 46
 			},
@@ -13482,10 +11993,6 @@ export const frags = new Map([
 				'frags': 42
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 42
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 79
 			}
@@ -13499,10 +12006,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 42
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 42
 			},
 			{
@@ -13544,10 +12047,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 42
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 41
 			}
 		]
 	}],
@@ -13560,10 +12059,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 41
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 49
 			},
 			{
 				'date': '2025-02-01',
@@ -13588,10 +12083,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 41
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 39
 			},
 			{
 				'date': '2025-02-01',
@@ -13652,10 +12143,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 41
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 45
 			},
 			{
 				'date': '2025-02-01',
@@ -13722,10 +12209,6 @@ export const frags = new Map([
 				'frags': 41
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 41
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 90
 			},
@@ -13747,10 +12230,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 41
 			},
 			{
@@ -13794,10 +12273,6 @@ export const frags = new Map([
 				'frags': 41
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 42
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			},
@@ -13818,10 +12293,6 @@ export const frags = new Map([
 				'frags': 41
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 41
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 12
 			}
@@ -13835,10 +12306,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 41
 			},
 			{
@@ -13906,10 +12373,6 @@ export const frags = new Map([
 				'frags': 41
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 52
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 137
 			},
@@ -13928,10 +12391,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 38
 			},
 			{
 				'date': '2025-02-01',
@@ -13954,10 +12413,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 37
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 71
 			},
@@ -13976,10 +12431,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 38
 			}
 		]
 	}],
@@ -13992,10 +12443,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 35
 			},
 			{
 				'date': '2025-02-01',
@@ -14031,10 +12478,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 40
 			},
 			{
@@ -14102,10 +12545,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 40
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 54
 			}
@@ -14119,10 +12558,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 40
 			},
 			{
@@ -14170,10 +12605,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 50
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			},
@@ -14212,10 +12643,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 41
 			},
 			{
 				'date': '2025-02-01',
@@ -14282,10 +12709,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 40
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 76
 			},
@@ -14334,10 +12757,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 40
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 17
 			}
@@ -14352,10 +12771,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 48
 			},
 			{
 				'date': '2025-02-01',
@@ -14422,10 +12837,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 40
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 37
 			},
@@ -14488,10 +12899,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			}
 		]
 	}],
@@ -14504,10 +12911,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 34
 			},
 			{
 				'date': '2025-02-01',
@@ -14542,10 +12945,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 40
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 55
 			},
@@ -14566,10 +12965,6 @@ export const frags = new Map([
 				'frags': 39
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 39
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			}
@@ -14584,10 +12979,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 39
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 46
 			},
 			{
 				'date': '2025-02-01',
@@ -14623,10 +13014,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 39
 			},
 			{
@@ -14694,10 +13081,6 @@ export const frags = new Map([
 				'frags': 39
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 46
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 34
 			},
@@ -14758,10 +13141,6 @@ export const frags = new Map([
 				'frags': 39
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 40
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 119
 			},
@@ -14798,10 +13177,6 @@ export const frags = new Map([
 				'frags': 39
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 45
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 40
 			},
@@ -14834,10 +13209,6 @@ export const frags = new Map([
 				'frags': 38
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 38
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 34
 			}
@@ -14854,10 +13225,6 @@ export const frags = new Map([
 				'frags': 38
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 49
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 55
 			}
@@ -14872,10 +13239,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 38
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 44
 			},
 			{
 				'date': '2025-02-01',
@@ -14942,10 +13305,6 @@ export const frags = new Map([
 				'frags': 38
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 38
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 22
 			},
@@ -14964,10 +13323,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 38
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 43
 			},
 			{
 				'date': '2025-02-01',
@@ -14994,10 +13349,6 @@ export const frags = new Map([
 				'frags': 38
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 49
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 45
 			},
@@ -15015,10 +13366,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 38
 			},
 			{
@@ -15048,10 +13395,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			},
 			{
 				'date': '2025-02-01',
@@ -15107,10 +13450,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 37
 			},
 			{
@@ -15174,10 +13513,6 @@ export const frags = new Map([
 				'frags': 37
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 35
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 34
 			}
@@ -15192,10 +13527,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 35
 			},
 			{
 				'date': '2025-02-01',
@@ -15215,10 +13546,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 37
 			},
 			{
@@ -15242,10 +13569,6 @@ export const frags = new Map([
 				'frags': 37
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 45
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 12
 			},
@@ -15264,10 +13587,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 56
 			}
 		]
 	}],
@@ -15279,10 +13598,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 37
 			},
 			{
@@ -15314,10 +13629,6 @@ export const frags = new Map([
 				'frags': 37
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 36
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 37
 			},
@@ -15340,10 +13651,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			},
 			{
 				'date': '2025-02-01',
@@ -15390,10 +13697,6 @@ export const frags = new Map([
 				'frags': 37
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 37
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 77
 			},
@@ -15430,10 +13733,6 @@ export const frags = new Map([
 				'frags': 37
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 48
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 41
 			},
@@ -15462,10 +13761,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 36
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 52
 			},
@@ -15486,10 +13781,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 27
 			},
@@ -15508,10 +13799,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 36
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			},
 			{
 				'date': '2025-02-01',
@@ -15578,10 +13865,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 36
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 22
 			}
@@ -15595,10 +13878,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 36
 			},
 			{
@@ -15658,10 +13937,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 36
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 48
 			},
@@ -15710,10 +13985,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 36
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -15746,10 +14017,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 45
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 90
 			}
@@ -15763,10 +14030,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 36
 			},
 			{
@@ -15834,10 +14097,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 37
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 62
 			},
@@ -15898,10 +14157,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 36
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 9
 			},
@@ -15922,10 +14177,6 @@ export const frags = new Map([
 				'frags': 36
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 26
 			},
@@ -15944,10 +14195,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 36
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 45
 			},
 			{
 				'date': '2025-02-01',
@@ -16012,10 +14259,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 36
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 21
 			}
 		]
 	}],
@@ -16027,10 +14270,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 36
 			},
 			{
@@ -16082,10 +14321,6 @@ export const frags = new Map([
 				'frags': 35
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 58
 			},
@@ -16106,10 +14341,6 @@ export const frags = new Map([
 				'frags': 35
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 37
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			}
@@ -16124,10 +14355,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 35
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			},
 			{
 				'date': '2025-02-01',
@@ -16170,10 +14397,6 @@ export const frags = new Map([
 				'frags': 35
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 35
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 38
 			},
@@ -16191,10 +14414,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 35
 			},
 			{
@@ -16250,10 +14469,6 @@ export const frags = new Map([
 				'frags': 35
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 35
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 35
 			},
@@ -16279,10 +14494,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 35
 			},
 			{
@@ -16342,10 +14553,6 @@ export const frags = new Map([
 				'frags': 35
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 35
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 15
 			},
@@ -16367,10 +14574,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 35
 			},
 			{
@@ -16434,10 +14637,6 @@ export const frags = new Map([
 				'frags': 35
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 35
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 44
 			}
@@ -16451,10 +14650,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 35
 			},
 			{
@@ -16522,10 +14717,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 50
 			},
@@ -16582,10 +14773,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 28
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 35
 			},
@@ -16636,10 +14823,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 34
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 39
 			},
 			{
 				'date': '2025-02-01',
@@ -16706,10 +14889,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 26
 			},
@@ -16762,10 +14941,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			},
@@ -16792,10 +14967,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 34
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 33
 			},
 			{
 				'date': '2025-02-01',
@@ -16862,10 +15033,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 41
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 105
 			},
@@ -16886,10 +15053,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			}
@@ -16903,10 +15066,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 34
 			},
 			{
@@ -16974,10 +15133,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 125
 			},
@@ -16995,10 +15150,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 34
 			},
 			{
@@ -17020,10 +15171,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 34
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 35
 			},
 			{
 				'date': '2025-02-01',
@@ -17078,10 +15225,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 35
 			},
@@ -17114,10 +15257,6 @@ export const frags = new Map([
 				'frags': 34
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 38
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 275
 			},
@@ -17148,10 +15287,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			},
 			{
 				'date': '2025-01-01',
@@ -17210,10 +15345,6 @@ export const frags = new Map([
 				'frags': 33
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 4
 			},
@@ -17231,10 +15362,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 33
 			},
 			{
@@ -17258,10 +15385,6 @@ export const frags = new Map([
 				'frags': 33
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 23
 			}
@@ -17275,10 +15398,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 33
 			},
 			{
@@ -17296,10 +15415,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 33
 			}
 		]
 	}],
@@ -17312,10 +15427,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 38
 			},
 			{
 				'date': '2025-02-01',
@@ -17340,10 +15451,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			},
 			{
 				'date': '2024-10-01',
@@ -17374,10 +15481,6 @@ export const frags = new Map([
 				'frags': 33
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 83
 			},
@@ -17402,10 +15505,6 @@ export const frags = new Map([
 				'frags': 33
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 96
 			}
@@ -17419,10 +15518,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 33
 			},
 			{
@@ -17482,10 +15577,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 49
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 166
 			},
@@ -17504,10 +15595,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 32
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			},
 			{
 				'date': '2025-02-01',
@@ -17544,10 +15631,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 32
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 35
 			},
 			{
 				'date': '2025-02-01',
@@ -17614,10 +15697,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 32
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 56
 			},
@@ -17638,10 +15717,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 62
 			}
@@ -17658,10 +15733,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 138
 			}
@@ -17676,10 +15747,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 32
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			}
 		]
 	}],
@@ -17692,10 +15759,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 32
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 45
 			},
 			{
 				'date': '2025-02-01',
@@ -17754,10 +15817,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 29
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 170
 			},
@@ -17810,10 +15869,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 41
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 15
 			},
@@ -17834,10 +15889,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 38
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 38
 			},
@@ -17855,10 +15906,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 32
 			},
 			{
@@ -17910,10 +15957,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 32
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 37
 			},
@@ -17942,10 +15985,6 @@ export const frags = new Map([
 				'frags': 32
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 32
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			},
@@ -17964,10 +16003,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 20
 			}
 		]
 	}],
@@ -17980,10 +16015,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			},
 			{
 				'date': '2025-02-01',
@@ -18010,10 +16041,6 @@ export const frags = new Map([
 				'frags': 31
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 71
 			},
@@ -18036,10 +16063,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			},
 			{
 				'date': '2025-02-01',
@@ -18078,10 +16101,6 @@ export const frags = new Map([
 				'frags': 31
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 60
 			},
@@ -18103,10 +16122,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 31
 			},
 			{
@@ -18170,10 +16185,6 @@ export const frags = new Map([
 				'frags': 31
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -18192,10 +16203,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 45
 			},
 			{
 				'date': '2025-02-01',
@@ -18219,10 +16226,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 31
 			},
 			{
@@ -18252,10 +16255,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 31
 			}
 		]
 	}],
@@ -18268,10 +16267,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2025-02-01',
@@ -18291,10 +16286,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 31
 			},
 			{
@@ -18326,10 +16317,6 @@ export const frags = new Map([
 				'frags': 31
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 32
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 12
 			},
@@ -18348,10 +16335,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 34
 			},
 			{
 				'date': '2025-02-01',
@@ -18386,10 +16369,6 @@ export const frags = new Map([
 				'frags': 31
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 46
 			},
@@ -18411,10 +16390,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 30
 			},
 			{
@@ -18464,10 +16439,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 30
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 30
 			}
 		]
 	}],
@@ -18479,10 +16450,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 30
 			},
 			{
@@ -18546,10 +16513,6 @@ export const frags = new Map([
 				'frags': 30
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 30
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 31
 			},
@@ -18567,10 +16530,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 30
 			},
 			{
@@ -18638,10 +16597,6 @@ export const frags = new Map([
 				'frags': 30
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 30
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 75
 			},
@@ -18678,10 +16633,6 @@ export const frags = new Map([
 				'frags': 30
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 30
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 81
 			},
@@ -18708,10 +16659,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 30
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 35
 			},
 			{
 				'date': '2025-02-01',
@@ -18762,10 +16709,6 @@ export const frags = new Map([
 				'frags': 30
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 44
 			},
@@ -18783,10 +16726,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 30
 			},
 			{
@@ -18834,10 +16773,6 @@ export const frags = new Map([
 				'frags': 30
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 29
 			}
@@ -18852,10 +16787,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 29
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 29
 			}
 		]
 	}],
@@ -18868,10 +16799,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 29
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 28
 			},
 			{
 				'date': '2025-02-01',
@@ -18926,10 +16853,6 @@ export const frags = new Map([
 				'frags': 29
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 29
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			},
@@ -18979,10 +16902,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 29
 			},
 			{
@@ -19050,10 +16969,6 @@ export const frags = new Map([
 				'frags': 29
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 26
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 44
 			},
@@ -19098,10 +17013,6 @@ export const frags = new Map([
 				'frags': 29
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 29
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 37
 			},
@@ -19124,10 +17035,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 29
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 27
 			},
 			{
 				'date': '2025-02-01',
@@ -19163,10 +17070,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 29
 			},
 			{
@@ -19212,10 +17115,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 29
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2025-02-01',
@@ -19282,10 +17181,6 @@ export const frags = new Map([
 				'frags': 28
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 28
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 48
 			},
@@ -19304,10 +17199,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 28
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 28
 			}
 		]
 	}],
@@ -19319,10 +17210,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 28
 			},
 			{
@@ -19344,10 +17231,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 28
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2025-02-01',
@@ -19406,10 +17289,6 @@ export const frags = new Map([
 				'frags': 28
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 46
 			},
@@ -19439,10 +17318,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 28
 			},
 			{
@@ -19498,10 +17373,6 @@ export const frags = new Map([
 				'frags': 28
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 58
 			},
@@ -19523,10 +17394,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 28
 			},
 			{
@@ -19594,10 +17461,6 @@ export const frags = new Map([
 				'frags': 28
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			}
@@ -19614,10 +17477,6 @@ export const frags = new Map([
 				'frags': 28
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2024-05-01',
 				'frags': 33
 			}
@@ -19632,10 +17491,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 28
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 34
 			},
 			{
 				'date': '2025-02-01',
@@ -19655,10 +17510,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 28
 			},
 			{
@@ -19722,10 +17573,6 @@ export const frags = new Map([
 				'frags': 28
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 92
 			},
@@ -19750,10 +17597,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 34
 			},
@@ -19772,10 +17615,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 26
 			},
 			{
 				'date': '2025-02-01',
@@ -19834,10 +17673,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2024-11-01',
 				'frags': 8
 			}
@@ -19852,10 +17687,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 36
 			},
 			{
 				'date': '2025-02-01',
@@ -19902,10 +17733,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 22
 			},
@@ -19923,10 +17750,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 27
 			},
 			{
@@ -19951,10 +17774,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 27
 			},
 			{
@@ -20014,10 +17833,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 49
 			},
@@ -20036,10 +17851,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 38
 			},
 			{
 				'date': '2025-02-01',
@@ -20066,10 +17877,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 5
 			},
@@ -20092,10 +17899,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			},
 			{
 				'date': '2025-02-01',
@@ -20158,10 +17961,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 58
 			},
@@ -20214,10 +18013,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 41
 			},
@@ -20239,10 +18034,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 27
 			},
 			{
@@ -20306,10 +18097,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 126
 			},
@@ -20328,10 +18115,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 29
 			},
 			{
 				'date': '2025-02-01',
@@ -20379,10 +18162,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 27
 			},
 			{
@@ -20438,10 +18217,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 28
 			},
@@ -20460,10 +18235,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 31
 			},
 			{
 				'date': '2025-02-01',
@@ -20519,10 +18290,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 26
 			},
 			{
@@ -20590,10 +18357,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			},
@@ -20658,10 +18421,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 26
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			},
@@ -20679,10 +18438,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 26
 			},
 			{
@@ -20710,10 +18465,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 26
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 11
 			},
@@ -20736,10 +18487,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			}
 		]
 	}],
@@ -20751,10 +18498,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 26
 			},
 			{
@@ -20818,10 +18561,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 26
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			},
@@ -20839,10 +18578,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 26
 			},
 			{
@@ -20892,10 +18627,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			},
 			{
 				'date': '2025-02-01',
@@ -20950,10 +18681,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 38
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 77
 			},
@@ -21003,10 +18730,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 26
 			},
 			{
@@ -21066,10 +18789,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 14
 			},
@@ -21122,10 +18841,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 68
 			},
@@ -21143,10 +18858,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 26
 			},
 			{
@@ -21214,10 +18925,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 35
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 75
 			},
@@ -21278,10 +18985,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 26
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 119
 			},
@@ -21334,10 +19037,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2024-10-01',
 				'frags': 7
 			},
@@ -21380,10 +19079,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			}
 		]
 	}],
@@ -21396,10 +19091,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 17
 			},
 			{
 				'date': '2025-01-01',
@@ -21416,10 +19107,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 26
 			},
 			{
 				'date': '2025-02-01',
@@ -21442,10 +19129,6 @@ export const frags = new Map([
 				'frags': 25
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 2
 			}
@@ -21459,10 +19142,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 25
 			},
 			{
@@ -21483,10 +19162,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 25
 			},
 			{
@@ -21526,10 +19201,6 @@ export const frags = new Map([
 				'frags': 25
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			}
@@ -21544,10 +19215,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 42
 			},
 			{
 				'date': '2025-02-01',
@@ -21590,10 +19257,6 @@ export const frags = new Map([
 				'frags': 25
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 23
 			},
@@ -21628,10 +19291,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			},
 			{
 				'date': '2025-02-01',
@@ -21671,10 +19330,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 25
 			},
 			{
@@ -21738,10 +19393,6 @@ export const frags = new Map([
 				'frags': 25
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 156
 			},
@@ -21762,10 +19413,6 @@ export const frags = new Map([
 				'frags': 25
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 32
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			},
@@ -21784,10 +19431,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			}
 		]
 	}],
@@ -21800,10 +19443,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			},
 			{
 				'date': '2025-02-01',
@@ -21824,10 +19463,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 28
 			},
 			{
 				'date': '2025-02-01',
@@ -21892,10 +19527,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			}
 		]
 	}],
@@ -21907,10 +19538,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 25
 			},
 			{
@@ -21939,10 +19566,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 25
 			},
 			{
@@ -22010,10 +19633,6 @@ export const frags = new Map([
 				'frags': 25
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 32
 			},
@@ -22031,10 +19650,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 25
 			},
 			{
@@ -22074,10 +19689,6 @@ export const frags = new Map([
 				'frags': 25
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			}
@@ -22092,10 +19703,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 52
 			},
 			{
 				'date': '2025-02-01',
@@ -22120,10 +19727,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 30
 			},
 			{
 				'date': '2025-02-01',
@@ -22190,10 +19793,6 @@ export const frags = new Map([
 				'frags': 24
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 42
 			},
@@ -22215,10 +19814,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 24
 			},
 			{
@@ -22272,10 +19867,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 24
 			}
 		]
 	}],
@@ -22287,10 +19878,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 24
 			},
 			{
@@ -22314,10 +19901,6 @@ export const frags = new Map([
 				'frags': 24
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 82
 			},
@@ -22336,10 +19919,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 34
 			},
 			{
 				'date': '2025-02-01',
@@ -22406,10 +19985,6 @@ export const frags = new Map([
 				'frags': 24
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -22452,10 +20027,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2025-02-01',
@@ -22514,10 +20085,6 @@ export const frags = new Map([
 				'frags': 24
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 36
 			},
@@ -22539,10 +20106,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 24
 			},
 			{
@@ -22610,10 +20173,6 @@ export const frags = new Map([
 				'frags': 24
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			},
@@ -22652,10 +20211,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 38
 			},
 			{
 				'date': '2025-02-01',
@@ -22722,10 +20277,6 @@ export const frags = new Map([
 				'frags': 24
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 37
 			},
@@ -22788,10 +20339,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 22
 			}
 		]
 	}],
@@ -22803,10 +20350,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -22874,10 +20417,6 @@ export const frags = new Map([
 				'frags': 23
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 66
 			},
@@ -22895,10 +20434,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -22924,10 +20459,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			}
 		]
 	}],
@@ -22939,10 +20470,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -23006,10 +20533,6 @@ export const frags = new Map([
 				'frags': 23
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 23
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 71
 			}
@@ -23023,10 +20546,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -23051,10 +20570,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -23106,10 +20621,6 @@ export const frags = new Map([
 				'frags': 23
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 23
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 36
 			},
@@ -23156,10 +20667,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 21
 			},
 			{
 				'date': '2025-02-01',
@@ -23216,10 +20723,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			}
 		]
 	}],
@@ -23231,10 +20734,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -23255,10 +20754,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -23322,10 +20817,6 @@ export const frags = new Map([
 				'frags': 23
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 23
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 52
 			},
@@ -23359,10 +20850,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -23414,10 +20901,6 @@ export const frags = new Map([
 				'frags': 23
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			},
@@ -23458,10 +20941,6 @@ export const frags = new Map([
 				'frags': 23
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			}
@@ -23476,10 +20955,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 22
 			},
 			{
 				'date': '2025-02-01',
@@ -23526,10 +21001,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2024-09-01',
 				'frags': 1
 			}
@@ -23543,10 +21014,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 22
 			},
 			{
@@ -23610,10 +21077,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			},
@@ -23640,10 +21103,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 22
 			}
 		]
 	}],
@@ -23655,10 +21114,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 22
 			},
 			{
@@ -23682,10 +21137,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 6
 			}
@@ -23700,10 +21151,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 22
 			}
 		]
 	}],
@@ -23716,10 +21163,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			},
 			{
 				'date': '2025-02-01',
@@ -23746,10 +21189,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			}
@@ -23764,10 +21203,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 34
 			},
 			{
 				'date': '2025-02-01',
@@ -23822,10 +21257,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 33
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 43
 			},
@@ -23871,10 +21302,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 22
 			},
 			{
@@ -23938,10 +21365,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			},
@@ -23962,10 +21385,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 28
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 69
 			},
@@ -23984,10 +21403,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 19
 			},
 			{
 				'date': '2025-02-01',
@@ -24042,10 +21457,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 25
 			},
@@ -24078,10 +21489,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 31
 			},
@@ -24103,10 +21510,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 22
 			},
 			{
@@ -24158,10 +21561,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 45
 			},
@@ -24202,10 +21601,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 3
 			}
@@ -24220,10 +21615,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 17
 			}
 		]
 	}],
@@ -24236,10 +21627,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 31
 			},
 			{
 				'date': '2025-02-01',
@@ -24259,10 +21646,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 21
 			},
 			{
@@ -24290,10 +21673,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 22
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 47
 			},
@@ -24318,10 +21697,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 98
 			},
@@ -24339,10 +21714,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 21
 			},
 			{
@@ -24410,10 +21781,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 25
 			},
@@ -24451,10 +21818,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 21
 			},
 			{
@@ -24510,10 +21873,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			},
@@ -24542,10 +21901,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 85
 			},
@@ -24564,10 +21919,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 26
 			},
 			{
 				'date': '2025-02-01',
@@ -24626,10 +21977,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 9
 			},
@@ -24666,10 +22013,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 23
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 25
 			},
@@ -24692,10 +22035,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 21
 			}
 		]
 	}],
@@ -24708,10 +22047,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 27
 			},
 			{
 				'date': '2025-02-01',
@@ -24766,10 +22101,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 14
 			},
@@ -24814,10 +22145,6 @@ export const frags = new Map([
 				'frags': 21
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 3
 			}
@@ -24832,10 +22159,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 21
 			}
 		]
 	}],
@@ -24847,10 +22170,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 21
 			},
 			{
@@ -24912,10 +22231,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 20
 			}
 		]
 	}],
@@ -24928,10 +22243,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 16
 			}
 		]
 	}],
@@ -24943,10 +22254,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 20
 			},
 			{
@@ -25014,10 +22321,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 11
 			},
@@ -25046,10 +22349,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 44
 			}
@@ -25064,10 +22363,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 19
 			},
 			{
 				'date': '2025-02-01',
@@ -25095,10 +22390,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 20
 			},
 			{
@@ -25162,10 +22453,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 23
 			},
@@ -25202,10 +22489,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 21
 			},
@@ -25228,10 +22511,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 26
 			},
 			{
 				'date': '2025-02-01',
@@ -25274,10 +22553,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 35
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 97
 			},
@@ -25311,10 +22586,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 20
 			},
 			{
@@ -25355,10 +22626,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 20
 			},
 			{
@@ -25406,10 +22673,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 36
 			},
@@ -25428,10 +22691,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			}
 		]
 	}],
@@ -25443,10 +22702,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 20
 			},
 			{
@@ -25484,10 +22739,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 20
 			}
 		]
 	}],
@@ -25499,10 +22750,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 20
 			},
 			{
@@ -25546,10 +22793,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 74
 			},
@@ -25567,10 +22810,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 20
 			},
 			{
@@ -25594,10 +22833,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			}
@@ -25611,10 +22846,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 19
 			},
 			{
@@ -25682,10 +22913,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 36
 			},
@@ -25730,10 +22957,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 145
 			},
@@ -25760,10 +22983,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 11
 			}
 		]
 	}],
@@ -25775,10 +22994,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 19
 			},
 			{
@@ -25804,10 +23019,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 17
 			}
 		]
 	}],
@@ -25820,10 +23031,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 19
 			}
 		]
 	}],
@@ -25835,10 +23042,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 19
 			},
 			{
@@ -25890,10 +23093,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			},
@@ -25916,10 +23115,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 29
 			},
 			{
 				'date': '2025-02-01',
@@ -25986,10 +23181,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 126
 			},
@@ -26030,10 +23221,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			},
@@ -26055,10 +23242,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 19
 			},
 			{
@@ -26126,10 +23309,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 17
 			},
@@ -26186,10 +23365,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 4
 			},
@@ -26215,10 +23390,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 19
 			},
 			{
@@ -26248,10 +23419,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			},
 			{
 				'date': '2025-02-01',
@@ -26318,10 +23485,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 95
 			},
@@ -26347,10 +23510,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 19
 			},
 			{
@@ -26386,10 +23545,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 28
 			},
@@ -26416,10 +23571,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 19
 			}
 		]
 	}],
@@ -26432,10 +23583,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			},
 			{
 				'date': '2025-02-01',
@@ -26502,10 +23649,6 @@ export const frags = new Map([
 				'frags': 19
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 32
 			},
@@ -26566,10 +23709,6 @@ export const frags = new Map([
 				'frags': 18
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 49
 			},
@@ -26587,10 +23726,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 18
 			},
 			{
@@ -26640,10 +23775,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 30
 			},
 			{
 				'date': '2025-02-01',
@@ -26702,10 +23833,6 @@ export const frags = new Map([
 				'frags': 18
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 49
 			}
@@ -26720,10 +23847,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 19
 			},
 			{
 				'date': '2025-02-01',
@@ -26780,10 +23903,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			}
 		]
 	}],
@@ -26796,10 +23915,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 21
 			},
 			{
 				'date': '2025-02-01',
@@ -26815,10 +23930,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 18
 			},
 			{
@@ -26850,10 +23961,6 @@ export const frags = new Map([
 				'frags': 18
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 31
 			},
@@ -26872,10 +23979,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 28
 			},
 			{
 				'date': '2025-02-01',
@@ -26934,10 +24037,6 @@ export const frags = new Map([
 				'frags': 18
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 106
 			}
@@ -26963,10 +24062,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 18
 			},
 			{
@@ -27034,10 +24129,6 @@ export const frags = new Map([
 				'frags': 18
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 11
 			},
@@ -27059,10 +24150,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 18
 			},
 			{
@@ -27106,10 +24193,6 @@ export const frags = new Map([
 				'frags': 18
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 23
 			},
@@ -27134,10 +24217,6 @@ export const frags = new Map([
 				'frags': 18
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 23
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 53
 			}
@@ -27152,10 +24231,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2025-02-01',
@@ -27186,10 +24261,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			},
@@ -27215,10 +24286,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27251,10 +24318,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27322,10 +24385,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 98
 			},
@@ -27368,10 +24427,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			}
 		]
 	}],
@@ -27383,10 +24438,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27446,10 +24497,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 46
 			},
@@ -27479,10 +24526,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27526,10 +24569,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 34
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 105
 			}
@@ -27543,10 +24582,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27568,10 +24603,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 14
 			},
 			{
 				'date': '2025-02-01',
@@ -27599,10 +24630,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27650,10 +24677,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 41
 			}
@@ -27667,10 +24690,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27695,10 +24714,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27758,10 +24773,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 58
 			},
@@ -27779,10 +24790,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27819,10 +24826,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27866,10 +24869,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 22
 			},
@@ -27900,10 +24899,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 9
 			}
 		]
 	}],
@@ -27915,10 +24910,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 17
 			},
 			{
@@ -27950,10 +24941,6 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 137
 			},
@@ -27980,10 +24967,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 17
 			}
 		]
 	}],
@@ -27995,10 +24978,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 16
 			},
 			{
@@ -28018,10 +24997,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 60
 			},
@@ -28039,10 +25014,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 16
 			},
 			{
@@ -28074,10 +25045,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 30
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 45
 			},
@@ -28106,10 +25073,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 23
 			},
@@ -28127,10 +25090,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 16
 			},
 			{
@@ -28178,10 +25137,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 40
 			},
@@ -28203,10 +25158,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 16
 			},
 			{
@@ -28234,10 +25185,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 4
 			}
@@ -28251,10 +25198,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 16
 			},
 			{
@@ -28290,10 +25233,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 30
 			},
@@ -28319,10 +25258,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 16
 			},
 			{
@@ -28370,10 +25305,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 72
 			},
@@ -28392,10 +25323,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 17
 			},
 			{
 				'date': '2025-02-01',
@@ -28466,10 +25393,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 10
 			}
@@ -28484,10 +25407,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			},
 			{
 				'date': '2025-02-01',
@@ -28508,10 +25427,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 16
 			}
 		]
 	}],
@@ -28523,10 +25438,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 16
 			},
 			{
@@ -28578,10 +25489,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			},
@@ -28614,10 +25521,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			}
@@ -28632,10 +25535,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 16
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			},
 			{
 				'date': '2025-02-01',
@@ -28691,10 +25590,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 15
 			},
 			{
@@ -28756,10 +25651,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			}
 		]
 	}],
@@ -28771,10 +25662,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 15
 			},
 			{
@@ -28842,10 +25729,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 42
 			},
@@ -28908,10 +25791,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			}
 		]
 	}],
@@ -28923,10 +25802,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 15
 			},
 			{
@@ -28943,10 +25818,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 15
 			},
 			{
@@ -28972,10 +25843,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			}
 		]
 	}],
@@ -28988,10 +25855,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 14
 			},
 			{
 				'date': '2025-02-01',
@@ -29030,10 +25893,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 63
 			},
@@ -29054,10 +25913,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			}
@@ -29071,10 +25926,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 15
 			},
 			{
@@ -29104,10 +25955,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 14
 			},
 			{
 				'date': '2025-01-01',
@@ -29158,10 +26005,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 38
 			},
@@ -29200,10 +26043,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 16
 			},
 			{
 				'date': '2025-02-01',
@@ -29262,10 +26101,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 41
 			},
@@ -29306,10 +26141,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 25
 			},
@@ -29344,10 +26175,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			}
 		]
 	}],
@@ -29360,10 +26187,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 11
 			}
 		]
 	}],
@@ -29376,10 +26199,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			},
 			{
 				'date': '2025-02-01',
@@ -29406,10 +26225,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 11
 			}
@@ -29423,10 +26238,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -29482,10 +26293,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			},
@@ -29504,10 +26311,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			},
 			{
 				'date': '2025-02-01',
@@ -29550,10 +26353,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 45
 			},
@@ -29574,10 +26373,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 11
 			},
@@ -29595,10 +26390,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -29662,10 +26453,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 29
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 39
 			}
@@ -29679,10 +26466,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -29702,10 +26485,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 124
 			}
@@ -29720,10 +26499,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			},
 			{
 				'date': '2025-02-01',
@@ -29767,10 +26542,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -29830,10 +26601,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			},
@@ -29870,10 +26637,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 29
 			},
@@ -29895,10 +26658,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -29962,10 +26721,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 1
 			},
@@ -30018,10 +26773,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			},
@@ -30039,10 +26790,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -30090,10 +26837,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			}
@@ -30107,10 +26850,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -30134,10 +26873,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 70
 			},
@@ -30155,10 +26890,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -30191,10 +26922,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -30242,10 +26969,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 134
 			},
@@ -30266,10 +26989,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 28
 			}
@@ -30283,10 +27002,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30346,10 +27061,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 15
 			}
@@ -30364,10 +27075,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			}
 		]
 	}],
@@ -30379,10 +27086,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30399,10 +27102,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30423,10 +27122,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30486,10 +27181,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -30546,10 +27237,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 66
 			},
@@ -30576,10 +27263,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 20
 			},
 			{
 				'date': '2025-02-01',
@@ -30619,10 +27302,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30682,10 +27361,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 8
 			},
@@ -30730,10 +27405,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 45
 			},
@@ -30754,10 +27425,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 39
 			},
@@ -30776,10 +27443,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -30791,10 +27454,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30820,10 +27479,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2025-02-01',
@@ -30870,10 +27525,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 66
 			}
@@ -30887,10 +27538,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30923,10 +27570,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -30986,10 +27629,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 29
 			},
@@ -31030,10 +27669,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 87
 			},
@@ -31067,10 +27702,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -31116,10 +27747,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -31132,10 +27759,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 11
 			},
 			{
 				'date': '2025-02-01',
@@ -31151,10 +27774,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -31174,10 +27793,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 33
 			}
@@ -31191,10 +27806,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -31220,10 +27831,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			}
 		]
 	}],
@@ -31236,10 +27843,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			},
 			{
 				'date': '2025-02-01',
@@ -31274,10 +27877,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 16
 			},
@@ -31300,10 +27899,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			},
 			{
 				'date': '2025-02-01',
@@ -31354,10 +27949,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 17
 			}
@@ -31371,10 +27962,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -31402,10 +27989,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 31
 			}
@@ -31419,10 +28002,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -31490,10 +28069,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 15
 			},
@@ -31536,10 +28111,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			},
 			{
 				'date': '2025-02-01',
@@ -31598,10 +28169,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			}
@@ -31618,10 +28185,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 49
 			}
@@ -31635,10 +28198,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -31659,10 +28218,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -31718,10 +28273,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 26
 			},
@@ -31770,10 +28321,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 38
 			}
@@ -31787,10 +28334,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -31819,10 +28362,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -31886,10 +28425,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 22
 			},
@@ -31910,10 +28445,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			},
@@ -31932,10 +28463,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			},
 			{
 				'date': '2025-02-01',
@@ -31994,10 +28521,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 12
 			}
@@ -32011,10 +28534,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32078,10 +28597,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 66
 			},
@@ -32102,10 +28617,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 36
 			}
@@ -32119,10 +28630,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32188,10 +28695,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -32203,10 +28706,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32274,10 +28773,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			},
@@ -32296,10 +28791,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 9
 			},
 			{
 				'date': '2025-02-01',
@@ -32362,10 +28853,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 67
 			},
@@ -32419,10 +28906,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32490,10 +28973,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			},
@@ -32534,10 +29013,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 17
 			},
@@ -32562,10 +29037,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 67
 			},
@@ -32584,10 +29055,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			},
 			{
 				'date': '2025-02-01',
@@ -32654,10 +29121,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 28
 			},
@@ -32703,10 +29166,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32758,10 +29217,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 55
 			},
@@ -32791,10 +29246,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32852,10 +29303,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 11
 			}
 		]
 	}],
@@ -32867,10 +29314,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32895,10 +29338,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -32966,10 +29405,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			},
@@ -33003,10 +29438,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -33066,10 +29497,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			},
@@ -33088,10 +29515,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			},
 			{
 				'date': '2025-02-01',
@@ -33130,10 +29553,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 8
 			},
@@ -33154,10 +29573,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			}
@@ -33174,10 +29589,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-09-01',
 				'frags': 8
 			}
@@ -33192,10 +29603,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 11
 			},
 			{
 				'date': '2025-02-01',
@@ -33216,10 +29623,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -33231,10 +29634,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -33255,10 +29654,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -33303,10 +29698,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -33358,10 +29749,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 98
 			},
@@ -33403,10 +29790,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -33466,10 +29849,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 25
 			},
@@ -33488,10 +29867,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 29
 			},
 			{
 				'date': '2025-02-01',
@@ -33546,10 +29921,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 6
 			},
@@ -33584,10 +29955,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -33600,10 +29967,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			},
 			{
 				'date': '2025-02-01',
@@ -33660,10 +30023,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			},
 			{
 				'date': '2025-02-01',
@@ -33730,10 +30089,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 4
 			},
@@ -33752,10 +30107,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -33767,10 +30118,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -33814,10 +30161,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 17
 			},
@@ -33836,10 +30179,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			},
 			{
 				'date': '2025-02-01',
@@ -33878,10 +30217,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 201
 			},
@@ -33906,10 +30241,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 37
 			},
@@ -33931,10 +30262,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -33983,10 +30310,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -34054,10 +30377,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 24
 			},
@@ -34104,10 +30423,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 16
 			},
 			{
 				'date': '2025-02-01',
@@ -34168,10 +30483,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -34183,10 +30494,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34216,10 +30523,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 9
 			}
 		]
 	}],
@@ -34231,10 +30534,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34255,10 +30554,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34318,10 +30613,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 31
 			},
@@ -34354,10 +30645,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 31
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 43
 			}
@@ -34372,10 +30659,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 9
 			}
 		]
 	}],
@@ -34388,10 +30671,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -34403,10 +30682,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34430,10 +30705,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 15
 			},
@@ -34451,10 +30722,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34494,10 +30761,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			},
@@ -34520,10 +30783,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			},
 			{
 				'date': '2025-02-01',
@@ -34568,10 +30827,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			},
 			{
 				'date': '2025-02-01',
@@ -34630,10 +30885,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 11
 			},
@@ -34666,10 +30917,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 17
 			},
@@ -34698,10 +30945,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2024-05-01',
 				'frags': 2
 			}
@@ -34715,10 +30958,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34742,10 +30981,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			},
@@ -34763,10 +30998,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34788,10 +31019,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 9
 			}
 		]
 	}],
@@ -34803,10 +31030,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34894,10 +31117,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			},
@@ -34934,10 +31153,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 15
 			}
@@ -34951,10 +31166,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -34978,10 +31189,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 68
 			}
@@ -34995,10 +31202,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -35066,10 +31269,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 9
 			}
@@ -35084,10 +31283,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			}
 		]
 	}],
@@ -35100,10 +31295,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			}
 		]
 	}],
@@ -35115,10 +31306,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -35178,10 +31365,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 47
 			},
@@ -35210,10 +31393,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			},
@@ -35235,10 +31414,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -35302,10 +31477,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			},
@@ -35346,10 +31517,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 2
 			},
@@ -35378,10 +31545,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 9
 			}
@@ -35395,10 +31558,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -35428,10 +31587,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -35443,10 +31598,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -35500,10 +31651,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -35515,10 +31662,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -35582,10 +31725,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 75
 			},
@@ -35611,10 +31750,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -35682,10 +31817,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			},
@@ -35718,10 +31849,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 57
 			}
@@ -35748,10 +31875,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			},
 			{
 				'date': '2025-02-01',
@@ -35788,10 +31911,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			}
 		]
 	}],
@@ -35803,10 +31922,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -35836,10 +31951,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			},
 			{
 				'date': '2025-02-01',
@@ -35890,10 +32001,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			},
@@ -35938,10 +32045,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			},
@@ -35962,10 +32065,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 53
 			}
@@ -35979,10 +32078,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -36026,10 +32121,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 71
 			},
@@ -36056,10 +32147,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			}
 		]
 	}],
@@ -36071,10 +32158,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -36107,10 +32190,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -36174,10 +32253,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 7
 			},
@@ -36218,10 +32293,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 41
 			},
@@ -36239,10 +32310,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36286,10 +32353,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 7
 			},
@@ -36324,10 +32387,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			}
 		]
 	}],
@@ -36339,10 +32398,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			}
 		]
@@ -36356,10 +32411,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			}
 		]
 	}],
@@ -36372,10 +32423,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			}
 		]
 	}],
@@ -36387,10 +32434,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36446,10 +32489,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 51
 			},
@@ -36486,10 +32525,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			},
@@ -36514,10 +32549,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			},
@@ -36539,10 +32570,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36602,10 +32629,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 5
 			},
@@ -36654,10 +32677,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 23
 			},
@@ -36675,10 +32694,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36706,10 +32721,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 28
 			},
@@ -36728,10 +32739,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			},
 			{
 				'date': '2025-02-01',
@@ -36782,10 +32789,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 12
 			}
@@ -36799,10 +32802,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36826,10 +32825,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			}
@@ -36843,10 +32838,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36868,10 +32859,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			}
 		]
 	}],
@@ -36883,10 +32870,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36907,10 +32890,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -36970,10 +32949,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			},
@@ -37014,10 +32989,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 4
 			},
@@ -37044,10 +33015,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			},
 			{
 				'date': '2025-02-01',
@@ -37110,10 +33077,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 4
 			},
@@ -37158,10 +33121,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 3
 			},
@@ -37200,10 +33159,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			}
 		]
 	}],
@@ -37215,10 +33170,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -37274,10 +33225,6 @@ export const frags = new Map([
 				'frags': 6
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 86
 			},
@@ -37304,10 +33251,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			}
 		]
 	}],
@@ -37320,10 +33263,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			},
 			{
 				'date': '2025-02-01',
@@ -37344,10 +33283,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			}
 		]
 	}],
@@ -37359,10 +33294,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37391,10 +33322,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37482,10 +33409,6 @@ export const frags = new Map([
 				'frags': 6
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			},
@@ -37550,10 +33473,6 @@ export const frags = new Map([
 				'frags': 6
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			}
@@ -37570,10 +33489,6 @@ export const frags = new Map([
 				'frags': 6
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 4
 			}
@@ -37587,10 +33502,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37612,10 +33523,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			}
 		]
 	}],
@@ -37627,10 +33534,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37672,10 +33575,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			}
 		]
 	}],
@@ -37687,10 +33586,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37739,10 +33634,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37806,10 +33697,6 @@ export const frags = new Map([
 				'frags': 6
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -37836,10 +33723,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			}
 		]
 	}],
@@ -37851,10 +33734,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37882,10 +33761,6 @@ export const frags = new Map([
 				'frags': 6
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 5
 			},
@@ -37903,10 +33778,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -37936,10 +33807,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -37951,10 +33818,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -37975,10 +33838,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38007,10 +33866,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38058,10 +33913,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-10-01',
 				'frags': 41
 			},
@@ -38100,10 +33951,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -38115,10 +33962,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38186,10 +34029,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			}
@@ -38203,10 +34042,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38238,10 +34073,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 40
 			}
@@ -38256,10 +34087,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -38271,10 +34098,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38298,10 +34121,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 15
 			},
@@ -38319,10 +34138,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38374,10 +34189,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 118
 			},
@@ -38403,10 +34214,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			}
 		]
@@ -38434,10 +34241,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			}
@@ -38451,10 +34254,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38474,10 +34273,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 27
 			}
@@ -38492,10 +34287,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -38508,10 +34299,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -38523,10 +34310,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38547,10 +34330,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38583,10 +34362,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38638,10 +34413,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 21
 			},
@@ -38659,10 +34430,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38711,10 +34478,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38778,10 +34541,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 2
 			},
@@ -38828,10 +34587,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -38843,10 +34598,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -38894,10 +34645,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 24
 			},
@@ -38931,10 +34678,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -39002,10 +34745,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 11
 			},
@@ -39026,10 +34765,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			},
@@ -39047,10 +34782,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39116,10 +34847,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39132,10 +34859,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39147,10 +34870,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39175,10 +34894,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39214,10 +34929,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 10
 			},
@@ -39238,10 +34949,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			}
@@ -39256,10 +34963,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39272,10 +34975,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39287,10 +34986,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39307,10 +35002,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39348,10 +35039,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39363,10 +35050,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39384,10 +35067,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			},
 			{
 				'date': '2025-02-01',
@@ -39450,10 +35129,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			},
@@ -39510,10 +35185,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 20
 			},
@@ -39556,10 +35227,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39572,10 +35239,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39587,10 +35250,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39612,10 +35271,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39627,10 +35282,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39659,10 +35310,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39702,10 +35349,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 14
 			}
@@ -39720,10 +35363,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			},
 			{
 				'date': '2025-02-01',
@@ -39766,10 +35405,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			}
@@ -39784,10 +35419,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39800,10 +35431,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			},
 			{
 				'date': '2025-02-01',
@@ -39820,10 +35447,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -39835,10 +35458,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39870,10 +35489,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 25
 			},
@@ -39894,10 +35509,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 18
 			}
@@ -39911,10 +35522,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -39952,10 +35559,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -39968,10 +35571,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			},
 			{
 				'date': '2025-02-01',
@@ -40023,10 +35622,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40082,10 +35677,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 22
 			},
@@ -40124,10 +35715,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -40139,10 +35726,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40186,10 +35769,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 8
 			},
@@ -40212,10 +35791,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			},
 			{
 				'date': '2025-02-01',
@@ -40282,10 +35857,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 27
 			},
@@ -40346,10 +35917,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			}
@@ -40363,10 +35930,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40390,10 +35953,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 39
 			}
@@ -40407,10 +35966,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40434,10 +35989,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			}
@@ -40452,10 +36003,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			},
 			{
 				'date': '2025-02-01',
@@ -40506,10 +36053,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 59
 			}
@@ -40523,10 +36066,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40558,10 +36097,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			},
@@ -40580,10 +36115,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -40595,10 +36126,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40618,10 +36145,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 8
 			}
@@ -40635,10 +36158,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40659,10 +36178,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40714,10 +36229,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 70
 			},
@@ -40764,10 +36275,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -40779,10 +36286,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40818,10 +36321,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 17
 			},
@@ -40851,10 +36350,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40898,10 +36393,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 8
 			}
@@ -40918,10 +36409,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			}
@@ -40935,10 +36422,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -40998,10 +36481,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2024-11-01',
 				'frags': 1
 			},
@@ -41042,10 +36521,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2024-06-01',
 				'frags': 16
 			}
@@ -41059,10 +36534,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -41114,10 +36585,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			},
@@ -41135,10 +36602,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -41186,10 +36649,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 4
 			},
@@ -41230,10 +36689,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 22
 			}
@@ -41247,10 +36702,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -41282,10 +36733,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 34
 			},
@@ -41314,10 +36761,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 3
 			},
@@ -41343,10 +36786,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -41406,10 +36845,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			},
@@ -41427,10 +36862,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			}
 		]
@@ -41463,10 +36894,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -41526,10 +36953,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 52
 			},
@@ -41558,10 +36981,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 14
 			}
@@ -41575,10 +36994,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -41610,10 +37025,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			},
@@ -41639,10 +37050,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -41686,10 +37093,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			},
@@ -41707,10 +37110,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -41739,10 +37138,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -41794,10 +37189,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 2
 			},
@@ -41835,10 +37226,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -41906,10 +37293,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 101
 			},
@@ -41936,10 +37319,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -41951,10 +37330,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42018,10 +37393,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2024-08-01',
 				'frags': 22
 			},
@@ -42072,10 +37443,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			},
 			{
 				'date': '2025-02-01',
@@ -42130,10 +37497,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 58
 			}
@@ -42148,10 +37511,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			},
 			{
 				'date': '2025-02-01',
@@ -42174,10 +37533,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			}
@@ -42191,10 +37546,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42226,10 +37577,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			}
@@ -42243,10 +37590,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42282,10 +37625,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2024-09-01',
 				'frags': 3
 			},
@@ -42307,10 +37646,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42362,10 +37697,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			},
@@ -42414,10 +37745,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 17
 			},
@@ -42458,10 +37785,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 19
 			},
@@ -42490,10 +37813,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 26
 			},
@@ -42519,10 +37838,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42588,10 +37903,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -42604,10 +37915,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -42619,10 +37926,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42639,10 +37942,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42706,10 +38005,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2024-10-01',
 				'frags': 60
 			}
@@ -42726,10 +38021,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 12
 			}
@@ -42743,10 +38034,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -42780,10 +38067,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			},
 			{
 				'date': '2025-02-01',
@@ -42826,10 +38109,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 4
 			}
@@ -42843,10 +38122,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -42868,10 +38143,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -42884,10 +38155,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			},
 			{
 				'date': '2025-02-01',
@@ -42903,10 +38170,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -42932,10 +38195,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -42947,10 +38206,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -42967,10 +38222,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43004,10 +38255,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43019,10 +38266,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43060,10 +38303,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43075,10 +38314,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -43092,10 +38327,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43107,10 +38338,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43132,10 +38359,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43147,10 +38370,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43178,10 +38397,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			},
@@ -43202,10 +38417,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 13
 			}
@@ -43219,10 +38430,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43240,10 +38447,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43255,10 +38458,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -43272,10 +38471,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43287,10 +38482,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43307,10 +38498,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43331,10 +38518,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43375,10 +38558,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43470,10 +38649,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 6
 			},
@@ -43500,10 +38675,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43515,10 +38686,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43542,10 +38709,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 2
 			},
@@ -43563,10 +38726,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43590,10 +38749,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			}
@@ -43607,10 +38762,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43666,10 +38817,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			},
@@ -43710,10 +38857,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 37
 			}
@@ -43746,10 +38889,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 43
 			},
@@ -43774,10 +38913,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 12
 			},
@@ -43795,10 +38930,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43844,10 +38975,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43859,10 +38986,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -43906,10 +39029,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2024-06-01',
 				'frags': 5
 			},
@@ -43942,10 +39061,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 7
 			},
@@ -43966,10 +39081,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-01-01',
 				'frags': 7
 			}
@@ -43984,10 +39095,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -43999,10 +39106,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44031,10 +39134,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44078,10 +39177,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 33
 			}
@@ -44111,10 +39206,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44154,10 +39245,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 28
 			},
@@ -44178,10 +39265,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			},
@@ -44199,10 +39282,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44236,10 +39315,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -44251,10 +39326,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44274,10 +39345,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 21
 			}
@@ -44291,10 +39358,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44323,10 +39386,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44376,10 +39435,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -44392,10 +39447,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -44407,10 +39458,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44474,10 +39521,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 10
 			},
@@ -44514,10 +39557,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 5
 			},
@@ -44550,10 +39589,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			}
@@ -44567,10 +39602,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44588,10 +39619,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -44603,10 +39630,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44670,10 +39693,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 146
 			}
@@ -44687,10 +39706,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44711,10 +39726,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44742,10 +39753,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 1
 			},
@@ -44768,10 +39775,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -44784,10 +39787,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 16
 			},
 			{
 				'date': '2025-02-01',
@@ -44818,10 +39817,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 55
 			},
@@ -44839,10 +39834,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44872,10 +39863,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			},
 			{
 				'date': '2025-02-01',
@@ -44916,10 +39903,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -44931,10 +39914,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44958,10 +39937,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 30
 			}
@@ -44975,10 +39950,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -44996,10 +39967,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45011,10 +39978,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45034,10 +39997,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2024-10-01',
 				'frags': 3
 			}
@@ -45051,10 +40010,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45084,10 +40039,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45099,10 +40050,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45124,10 +40071,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			},
 			{
 				'date': '2025-02-01',
@@ -45160,10 +40103,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45175,10 +40114,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45195,10 +40130,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45224,10 +40155,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45239,10 +40166,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -45256,10 +40179,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45271,10 +40190,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45304,10 +40219,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45320,10 +40231,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			},
 			{
 				'date': '2025-02-01',
@@ -45343,10 +40250,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45396,10 +40299,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45411,10 +40310,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45431,10 +40326,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45472,10 +40363,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45487,10 +40374,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -45504,10 +40387,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45519,10 +40398,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45539,10 +40414,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45572,10 +40443,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -45587,10 +40454,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -45618,10 +40481,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2025-02-01',
 				'frags': 33
 			},
@@ -45647,1154 +40506,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['helixyz', {
-		'meta': {
-			'name': 'Helixyz',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 150
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 165
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 155
-			}
-		]
-	}],
-	['shibasakii', {
-		'meta': {
-			'name': 'Shibasakii',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 91
-			}
-		]
-	}],
-	['bruxos loves', {
-		'meta': {
-			'name': 'Bruxos Loves',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 1
-			}
-		]
-	}],
-	['agob the destroyerr', {
-		'meta': {
-			'name': 'Agob The Destroyerr',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 106
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 84
-			}
-		]
-	}],
-	['heinzwrld', {
-		'meta': {
-			'name': 'Heinzwrld',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 109
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 35
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 4
-			}
-		]
-	}],
-	['feri mister', {
-		'meta': {
-			'name': 'Feri Mister',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 45
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 36
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 22
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 80
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 63
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 22
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 61
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 51
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 56
-			}
-		]
-	}],
-	['padziaczek', {
-		'meta': {
-			'name': 'Padziaczek',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 50
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 43
-			}
-		]
-	}],
-	['willdrunk onlyfraggs', {
-		'meta': {
-			'name': 'Willdrunk Onlyfraggs',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 35
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 159
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 175
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 6
-			}
-		]
-	}],
-	['dunderprutten', {
-		'meta': {
-			'name': 'Dunderprutten',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 35
-			}
-		]
-	}],
-	['lil swagy', {
-		'meta': {
-			'name': 'Lil Swagy',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 5
-			}
-		]
-	}],
-	['paralyzer afa', {
-		'meta': {
-			'name': 'Paralyzer Afa',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 33
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 54
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 12
-			}
-		]
-	}],
-	['swiety toxic', {
-		'meta': {
-			'name': 'Swiety Toxic',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 27
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 25
-			}
-		]
-	}],
-	['cayleigh', {
-		'meta': {
-			'name': 'Cayleigh',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 20
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 23
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 14
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 8
-			}
-		]
-	}],
-	['karratums', {
-		'meta': {
-			'name': 'Karratums',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 20
-			}
-		]
-	}],
-	['magico macabru', {
-		'meta': {
-			'name': 'Magico Macabru',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 87
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 44
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 24
-			}
-		]
-	}],
-	['mijha gi', {
-		'meta': {
-			'name': 'Mijha Gi',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 54
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 63
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 54
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 4
-			}
-		]
-	}],
-	['roffanoob', {
-		'meta': {
-			'name': 'Roffanoob',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 14
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 54
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 39
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 43
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 11
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 6
-			}
-		]
-	}],
-	['psykoz reapers', {
-		'meta': {
-			'name': 'Psykoz Reapers',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 92
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 68
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 31
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 35
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 36
-			}
-		]
-	}],
-	['gouxak harbour', {
-		'meta': {
-			'name': 'Gouxak Harbour',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 3
-			}
-		]
-	}],
-	['simply kolecho', {
-		'meta': {
-			'name': 'Simply Kolecho',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 22
-			}
-		]
-	}],
-	['galo camisadez', {
-		'meta': {
-			'name': 'Galo Camisadez',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 49
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 36
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 119
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 61
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 33
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 70
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 76
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 105
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 82
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 1
-			}
-		]
-	}],
-	['kamiikatzee', {
-		'meta': {
-			'name': 'Kamiikatzee',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 38
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 20
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 18
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 37
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 28
-			}
-		]
-	}],
-	['ssdchar peloria', {
-		'meta': {
-			'name': 'Ssdchar Peloria',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 57
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 41
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 6
-			}
-		]
-	}],
-	['frenchcore', {
-		'meta': {
-			'name': 'Frenchcore',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 3
-			}
-		]
-	}],
-	['niftty', {
-		'meta': {
-			'name': 'Niftty',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 79
-			}
-		]
-	}],
-	['blokomir', {
-		'meta': {
-			'name': 'Blokomir',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 26
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 39
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 36
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 17
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 2
-			}
-		]
-	}],
-	['axelthi', {
-		'meta': {
-			'name': 'Axelthi',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 1
-			}
-		]
-	}],
-	['ttrevertt', {
-		'meta': {
-			'name': 'Ttrevertt',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 1
-			}
-		]
-	}],
-	['zzaoss', {
-		'meta': {
-			'name': 'Zzaoss',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['kubul', {
-		'meta': {
-			'name': 'Kubul',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 1
-			}
-		]
-	}],
-	['winter monkey', {
-		'meta': {
-			'name': 'Winter Monkey',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 26
-			}
-		]
-	}],
-	['xardas legend', {
-		'meta': {
-			'name': 'Xardas Legend',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['palistina', {
-		'meta': {
-			'name': 'Palistina',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['elite barneyo', {
-		'meta': {
-			'name': 'Elite Barneyo',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['wojtek cieple kalesony', {
-		'meta': {
-			'name': 'Wojtek cieple kalesony',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['elite azura warrior', {
-		'meta': {
-			'name': 'Elite Azura Warrior',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['adi rounds', {
-		'meta': {
-			'name': 'Adi Rounds',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['sakakabana', {
-		'meta': {
-			'name': 'Sakakabana',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['fat natally', {
-		'meta': {
-			'name': 'Fat Natally',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 15
-			}
-		]
-	}],
-	['uzman', {
-		'meta': {
-			'name': 'Uzman',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['gaddar and knight familiar of white mesmo', {
-		'meta': {
-			'name': 'Gaddar and knight familiar of White mesmo',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			}
-		]
-	}],
-	['tearys boyfriend', {
-		'meta': {
-			'name': 'Tearys boyfriend',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 2
-			}
-		]
-	}],
-	['drekek', {
-		'meta': {
-			'name': 'Drekek',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 41
-			}
-		]
-	}],
-	['ttutancamon and paladin familiar of wolf of fury', {
-		'meta': {
-			'name': 'Ttutancamon and paladin familiar of Wolf of fury',
-			'world': 'Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -46828,6 +40539,22 @@ export const frags = new Map([
 			{
 				'date': '2025-01-01',
 				'frags': 202
+			}
+		]
+	}],
+	['helixyz', {
+		'meta': {
+			'name': 'Helixyz',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 165
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 155
 			}
 		]
 	}],
@@ -46999,6 +40726,46 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['heinzwrld', {
+		'meta': {
+			'name': 'Heinzwrld',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 109
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 35
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 4
+			}
+		]
+	}],
+	['agob the destroyerr', {
+		'meta': {
+			'name': 'Agob The Destroyerr',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 106
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 84
+			}
+		]
+	}],
 	['yoshimitszu', {
 		'meta': {
 			'name': 'Yoshimitszu',
@@ -47143,6 +40910,46 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['shibasakii', {
+		'meta': {
+			'name': 'Shibasakii',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 91
+			}
+		]
+	}],
+	['magico macabru', {
+		'meta': {
+			'name': 'Magico Macabru',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 87
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 44
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 24
+			}
+		]
+	}],
 	['nosoulwar primal rottenblood', {
 		'meta': {
 			'name': 'Nosoulwar Primal Rottenblood',
@@ -47152,6 +40959,18 @@ export const frags = new Map([
 			{
 				'date': '2025-02-01',
 				'frags': 83
+			}
+		]
+	}],
+	['niftty', {
+		'meta': {
+			'name': 'Niftty',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 79
 			}
 		]
 	}],
@@ -47411,6 +41230,50 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['bruxos loves', {
+		'meta': {
+			'name': 'Bruxos Loves',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 62
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 1
+			}
+		]
+	}],
+	['willdrunk onlyfraggs', {
+		'meta': {
+			'name': 'Willdrunk Onlyfraggs',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 62
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 35
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 159
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 175
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 6
+			}
+		]
+	}],
 	['nosoulwar allaccess', {
 		'meta': {
 			'name': 'Nosoulwar allaccess',
@@ -47528,6 +41391,42 @@ export const frags = new Map([
 			{
 				'date': '2025-02-01',
 				'frags': 58
+			}
+		]
+	}],
+	['ssdchar peloria', {
+		'meta': {
+			'name': 'Ssdchar Peloria',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 57
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 41
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 6
 			}
 		]
 	}],
@@ -47759,6 +41658,22 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['padziaczek', {
+		'meta': {
+			'name': 'Padziaczek',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 50
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 43
+			}
+		]
+	}],
 	['gaami ed', {
 		'meta': {
 			'name': 'Gaami ed',
@@ -47863,6 +41778,102 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['mijha gi', {
+		'meta': {
+			'name': 'Mijha Gi',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 48
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 54
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 63
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 54
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 4
+			}
+		]
+	}],
+	['feri mister', {
+		'meta': {
+			'name': 'Feri Mister',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 45
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 36
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 22
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 80
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 63
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 22
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 61
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 51
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 56
+			}
+		]
+	}],
 	['jens erik', {
 		'meta': {
 			'name': 'Jens Erik',
@@ -47872,6 +41883,18 @@ export const frags = new Map([
 			{
 				'date': '2025-02-01',
 				'frags': 42
+			}
+		]
+	}],
+	['drekek', {
+		'meta': {
+			'name': 'Drekek',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 41
 			}
 		]
 	}],
@@ -48039,6 +42062,110 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['swiety toxic', {
+		'meta': {
+			'name': 'Swiety Toxic',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 27
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 25
+			}
+		]
+	}],
+	['psykoz reapers', {
+		'meta': {
+			'name': 'Psykoz Reapers',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 92
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 68
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 31
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 35
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 36
+			}
+		]
+	}],
 	['sprytny last dance', {
 		'meta': {
 			'name': 'Sprytny Last Dance',
@@ -48052,6 +42179,82 @@ export const frags = new Map([
 			{
 				'date': '2025-01-01',
 				'frags': 20
+			}
+		]
+	}],
+	['cayleigh', {
+		'meta': {
+			'name': 'Cayleigh',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 20
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 23
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 14
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 8
+			}
+		]
+	}],
+	['paralyzer afa', {
+		'meta': {
+			'name': 'Paralyzer Afa',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 33
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 54
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 12
 			}
 		]
 	}],
@@ -48092,6 +42295,58 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 98
+			}
+		]
+	}],
+	['kamiikatzee', {
+		'meta': {
+			'name': 'Kamiikatzee',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 38
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 20
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 18
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 37
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 28
 			}
 		]
 	}],
@@ -48248,6 +42503,18 @@ export const frags = new Map([
 			{
 				'date': '2024-07-01',
 				'frags': 89
+			}
+		]
+	}],
+	['dunderprutten', {
+		'meta': {
+			'name': 'Dunderprutten',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 35
 			}
 		]
 	}],
@@ -48484,6 +42751,58 @@ export const frags = new Map([
 			{
 				'date': '2024-08-01',
 				'frags': 40
+			}
+		]
+	}],
+	['roffanoob', {
+		'meta': {
+			'name': 'Roffanoob',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 14
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 54
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 39
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 43
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 11
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 6
 			}
 		]
 	}],
@@ -48807,6 +43126,22 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['gouxak harbour', {
+		'meta': {
+			'name': 'Gouxak Harbour',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 3
+			}
+		]
+	}],
 	['zster itz back', {
 		'meta': {
 			'name': 'Zster Itz Back',
@@ -49099,6 +43434,18 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['simply kolecho', {
+		'meta': {
+			'name': 'Simply Kolecho',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 22
+			}
+		]
+	}],
 	['shot laele', {
 		'meta': {
 			'name': 'Shot Laele',
@@ -49387,6 +43734,18 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['karratums', {
+		'meta': {
+			'name': 'Karratums',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 20
+			}
+		]
+	}],
 	['xxabc', {
 		'meta': {
 			'name': 'Xxabc',
@@ -49556,6 +43915,34 @@ export const frags = new Map([
 			{
 				'date': '2024-05-01',
 				'frags': 11
+			}
+		]
+	}],
+	['lil swagy', {
+		'meta': {
+			'name': 'Lil Swagy',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 5
 			}
 		]
 	}],
@@ -50027,6 +44414,62 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['blokomir', {
+		'meta': {
+			'name': 'Blokomir',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 26
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 39
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 36
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 17
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 2
+			}
+		]
+	}],
 	['cunning dodger', {
 		'meta': {
 			'name': 'Cunning Dodger',
@@ -50264,6 +44707,58 @@ export const frags = new Map([
 			{
 				'date': '2024-03-01',
 				'frags': 2
+			}
+		]
+	}],
+	['galo camisadez', {
+		'meta': {
+			'name': 'Galo Camisadez',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 49
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 36
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 119
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 61
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 33
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 70
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 76
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 105
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 82
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 1
 			}
 		]
 	}],
@@ -53243,6 +47738,18 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['frenchcore', {
+		'meta': {
+			'name': 'Frenchcore',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 3
+			}
+		]
+	}],
 	['lalim boomvelor', {
 		'meta': {
 			'name': 'Lalim boomvelor',
@@ -54019,6 +48526,18 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['tearys boyfriend', {
+		'meta': {
+			'name': 'Tearys boyfriend',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 2
+			}
+		]
+	}],
 	['niekukaj', {
 		'meta': {
 			'name': 'Niekukaj',
@@ -54530,6 +49049,18 @@ export const frags = new Map([
 	['max zika', {
 		'meta': {
 			'name': 'Max Zika',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2025-02-01',
+				'frags': 1
+			}
+		]
+	}],
+	['axelthi', {
+		'meta': {
+			'name': 'Axelthi',
 			'world': 'Peloria'
 		},
 		'fragData': [
@@ -65168,6 +59699,26 @@ export const frags = new Map([
 			{
 				'date': '2024-12-01',
 				'frags': 9
+			}
+		]
+	}],
+	['fat natally', {
+		'meta': {
+			'name': 'Fat Natally',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2024-12-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 15
 			}
 		]
 	}],
@@ -86363,6 +80914,18 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['winter monkey', {
+		'meta': {
+			'name': 'Winter Monkey',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2024-05-01',
+				'frags': 26
+			}
+		]
+	}],
 	['najkontojo', {
 		'meta': {
 			'name': 'Najkontojo',
@@ -93483,6 +88046,18 @@ export const frags = new Map([
 			}
 		]
 	}],
+	['kubul', {
+		'meta': {
+			'name': 'Kubul',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2024-04-01',
+				'frags': 1
+			}
+		]
+	}],
 	['dudizs', {
 		'meta': {
 			'name': 'Dudizs',
@@ -95635,6 +90210,22 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2024-03-01',
+				'frags': 1
+			}
+		]
+	}],
+	['ttrevertt', {
+		'meta': {
+			'name': 'Ttrevertt',
+			'world': 'Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2024-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-02-01',
 				'frags': 1
 			}
 		]
@@ -97900,10 +92491,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 171
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 172
 			}
 		]
 	}],
@@ -97916,10 +92503,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 157
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 159
 			},
 			{
 				'date': '2024-04-01',
@@ -97948,10 +92531,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 145
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 147
 			}
 		]
 	}],
@@ -97964,10 +92543,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 129
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 130
 			},
 			{
 				'date': '2024-04-01',
@@ -98026,10 +92601,6 @@ export const frags = new Map([
 				'frags': 126
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 126
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 137
 			},
@@ -98064,10 +92635,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 123
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 125
 			},
 			{
 				'date': '2024-04-01',
@@ -98128,10 +92695,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 121
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 123
 			}
 		]
 	}],
@@ -98144,10 +92707,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 114
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 118
 			}
 		]
 	}],
@@ -98160,10 +92719,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 112
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 114
 			},
 			{
 				'date': '2024-02-01',
@@ -98212,10 +92767,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 109
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 111
 			}
 		]
 	}],
@@ -98228,10 +92779,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 109
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 104
 			},
 			{
 				'date': '2024-04-01',
@@ -98268,10 +92815,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 108
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 109
 			},
 			{
 				'date': '2024-04-01',
@@ -98320,10 +92863,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 108
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 110
 			},
 			{
 				'date': '2024-04-01',
@@ -98382,10 +92921,6 @@ export const frags = new Map([
 				'frags': 107
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 109
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 24
 			},
@@ -98410,10 +92945,6 @@ export const frags = new Map([
 				'frags': 106
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 109
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 5
 			},
@@ -98436,10 +92967,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 103
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 99
 			},
 			{
 				'date': '2024-03-01',
@@ -98494,10 +93021,6 @@ export const frags = new Map([
 				'frags': 102
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 103
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 52
 			},
@@ -98543,10 +93066,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 102
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 102
 			},
 			{
@@ -98606,10 +93125,6 @@ export const frags = new Map([
 				'frags': 101
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 103
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 1
 			},
@@ -98650,10 +93165,6 @@ export const frags = new Map([
 				'frags': 101
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 103
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 267
 			},
@@ -98684,10 +93195,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 100
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 101
 			},
 			{
 				'date': '2024-04-01',
@@ -98740,10 +93247,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 98
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 100
 			}
 		]
 	}],
@@ -98755,10 +93258,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 94
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 94
 			},
 			{
@@ -98798,10 +93297,6 @@ export const frags = new Map([
 				'frags': 92
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 94
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 354
 			},
@@ -98820,10 +93315,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 92
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 85
 			}
 		]
 	}],
@@ -98836,10 +93327,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 91
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 92
 			},
 			{
 				'date': '2024-04-01',
@@ -98886,10 +93373,6 @@ export const frags = new Map([
 				'frags': 90
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 84
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 31
 			},
@@ -98927,10 +93410,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 89
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 89
 			},
 			{
@@ -98986,10 +93465,6 @@ export const frags = new Map([
 				'frags': 89
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 91
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 19
 			},
@@ -99008,10 +93483,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 88
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 90
 			},
 			{
 				'date': '2024-12-01',
@@ -99064,10 +93535,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 88
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 89
 			},
 			{
 				'date': '2024-12-01',
@@ -99124,10 +93591,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 88
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 88
 			}
 		]
 	}],
@@ -99140,10 +93603,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 87
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 89
 			},
 			{
 				'date': '2024-04-01',
@@ -99202,10 +93661,6 @@ export const frags = new Map([
 				'frags': 87
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 89
-			},
-			{
 				'date': '2023-05-01',
 				'frags': 21
 			},
@@ -99226,10 +93681,6 @@ export const frags = new Map([
 				'frags': 84
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 88
-			},
-			{
 				'date': '2023-11-01',
 				'frags': 104
 			}
@@ -99244,10 +93695,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 84
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 85
 			},
 			{
 				'date': '2024-03-01',
@@ -99280,10 +93727,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 83
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 85
 			}
 		]
 	}],
@@ -99296,10 +93739,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 83
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 86
 			},
 			{
 				'date': '2024-04-01',
@@ -99346,10 +93785,6 @@ export const frags = new Map([
 				'frags': 82
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 76
-			},
-			{
 				'date': '2024-02-01',
 				'frags': 8
 			},
@@ -99378,10 +93813,6 @@ export const frags = new Map([
 				'frags': 81
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 81
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 140
 			}
@@ -99396,10 +93827,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 80
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 82
 			},
 			{
 				'date': '2023-11-01',
@@ -99440,10 +93867,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 79
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 83
 			},
 			{
 				'date': '2024-04-01',
@@ -99502,10 +93925,6 @@ export const frags = new Map([
 				'frags': 79
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 78
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 6
 			},
@@ -99552,10 +93971,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 79
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 82
 			}
 		]
 	}],
@@ -99568,10 +93983,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 78
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 72
 			}
 		]
 	}],
@@ -99584,10 +93995,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 77
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 79
 			}
 		]
 	}],
@@ -99600,10 +94007,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 77
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 78
 			},
 			{
 				'date': '2024-03-01',
@@ -99644,10 +94047,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 76
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 76
 			}
 		]
 	}],
@@ -99660,10 +94059,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 75
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 76
 			},
 			{
 				'date': '2024-04-01',
@@ -99702,10 +94097,6 @@ export const frags = new Map([
 				'frags': 74
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 76
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 8
 			},
@@ -99732,10 +94123,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 72
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 74
 			}
 		]
 	}],
@@ -99748,10 +94135,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 71
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 72
 			}
 		]
 	}],
@@ -99764,10 +94147,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 71
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 66
 			},
 			{
 				'date': '2024-03-01',
@@ -99808,10 +94187,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 69
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 73
 			}
 		]
 	}],
@@ -99824,10 +94199,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 69
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 70
 			}
 		]
 	}],
@@ -99839,10 +94210,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 67
 			},
 			{
@@ -99882,10 +94249,6 @@ export const frags = new Map([
 				'frags': 67
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 70
-			},
-			{
 				'date': '2023-07-01',
 				'frags': 219
 			},
@@ -99907,10 +94270,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 67
 			},
 			{
@@ -99964,10 +94323,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 59
 			}
 		]
 	}],
@@ -99980,10 +94335,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 67
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 69
 			},
 			{
 				'date': '2024-04-01',
@@ -100038,10 +94389,6 @@ export const frags = new Map([
 				'frags': 66
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 68
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 64
 			},
@@ -100092,10 +94439,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 63
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 64
 			}
 		]
 	}],
@@ -100108,10 +94451,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 61
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 60
 			},
 			{
 				'date': '2024-04-01',
@@ -100166,10 +94505,6 @@ export const frags = new Map([
 				'frags': 61
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 57
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 36
 			}
@@ -100184,10 +94519,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 61
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 56
 			},
 			{
 				'date': '2024-04-01',
@@ -100212,10 +94543,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 60
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 62
 			},
 			{
 				'date': '2024-03-01',
@@ -100252,10 +94579,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 59
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 61
 			}
 		]
 	}],
@@ -100268,10 +94591,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 58
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 61
 			},
 			{
 				'date': '2024-04-01',
@@ -100300,10 +94619,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 58
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 52
 			},
 			{
 				'date': '2024-04-01',
@@ -100350,10 +94665,6 @@ export const frags = new Map([
 				'frags': 57
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 59
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 10
 			},
@@ -100372,10 +94683,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 57
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 58
 			},
 			{
 				'date': '2024-03-01',
@@ -100399,10 +94706,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 56
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 56
 			},
 			{
@@ -100454,10 +94757,6 @@ export const frags = new Map([
 				'frags': 56
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 56
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 123
 			},
@@ -100502,10 +94801,6 @@ export const frags = new Map([
 				'frags': 55
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 57
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 7
 			},
@@ -100524,10 +94819,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 54
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 55
 			},
 			{
 				'date': '2024-03-01',
@@ -100559,10 +94850,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 54
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 54
 			},
 			{
@@ -100606,10 +94893,6 @@ export const frags = new Map([
 				'frags': 52
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 52
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 3
 			}
@@ -100623,10 +94906,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 52
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 52
 			},
 			{
@@ -100672,10 +94951,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 53
 			},
 			{
 				'date': '2024-04-01',
@@ -100734,10 +95009,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 201
 			},
@@ -100780,10 +95051,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 52
 			},
 			{
 				'date': '2024-04-01',
@@ -100838,10 +95105,6 @@ export const frags = new Map([
 				'frags': 51
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 52
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 15
 			}
@@ -100856,10 +95119,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 51
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 52
 			},
 			{
 				'date': '2024-04-01',
@@ -100892,10 +95151,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 50
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 50
 			}
 		]
 	}],
@@ -100908,10 +95163,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 50
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 51
 			},
 			{
 				'date': '2024-04-01',
@@ -100968,10 +95219,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 50
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 51
 			}
 		]
 	}],
@@ -100984,10 +95231,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 49
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 51
 			},
 			{
 				'date': '2024-04-01',
@@ -101046,10 +95289,6 @@ export const frags = new Map([
 				'frags': 49
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 51
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 11
 			},
@@ -101104,10 +95343,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 48
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 50
 			}
 		]
 	}],
@@ -101120,10 +95355,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 48
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 49
 			}
 		]
 	}],
@@ -101136,10 +95367,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 47
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 49
 			},
 			{
 				'date': '2024-03-01',
@@ -101186,10 +95413,6 @@ export const frags = new Map([
 				'frags': 47
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 47
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 63
 			},
@@ -101224,10 +95447,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 46
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 47
 			}
 		]
 	}],
@@ -101240,10 +95459,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 46
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 47
 			},
 			{
 				'date': '2024-04-01',
@@ -101272,10 +95487,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 45
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 46
 			},
 			{
 				'date': '2024-04-01',
@@ -101322,10 +95533,6 @@ export const frags = new Map([
 				'frags': 45
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 45
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 7
 			},
@@ -101360,10 +95567,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 43
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 44
 			},
 			{
 				'date': '2024-02-01',
@@ -101410,10 +95613,6 @@ export const frags = new Map([
 				'frags': 43
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 44
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 7
 			},
@@ -101458,10 +95657,6 @@ export const frags = new Map([
 				'frags': 43
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 44
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 2
 			}
@@ -101476,10 +95671,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 41
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 42
 			},
 			{
 				'date': '2024-04-01',
@@ -101516,10 +95707,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 41
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 33
 			},
 			{
 				'date': '2024-04-01',
@@ -101578,10 +95765,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 41
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 20
 			},
@@ -101622,10 +95805,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 41
-			},
-			{
 				'date': '2024-02-01',
 				'frags': 45
 			},
@@ -101652,10 +95831,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			}
 		]
 	}],
@@ -101667,10 +95842,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 40
 			},
 			{
@@ -101730,10 +95901,6 @@ export const frags = new Map([
 				'frags': 40
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 32
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 6
 			},
@@ -101756,10 +95923,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 40
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 33
 			}
 		]
 	}],
@@ -101771,10 +95934,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 39
 			},
 			{
@@ -101802,10 +95961,6 @@ export const frags = new Map([
 				'frags': 39
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 39
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 5
 			}
@@ -101820,10 +95975,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 38
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 34
 			}
 		]
 	}],
@@ -101836,10 +95987,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 38
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 40
 			},
 			{
 				'date': '2024-04-01',
@@ -101888,10 +96035,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 37
 			}
 		]
 	}],
@@ -101903,10 +96046,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 37
 			}
 		]
@@ -101920,10 +96059,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 37
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 37
 			}
 		]
 	}],
@@ -101936,10 +96071,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 36
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 37
 			},
 			{
 				'date': '2024-04-01',
@@ -101998,10 +96129,6 @@ export const frags = new Map([
 				'frags': 35
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 36
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 19
 			},
@@ -102028,10 +96155,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 35
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 35
 			}
 		]
 	}],
@@ -102044,10 +96167,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 34
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 36
 			}
 		]
 	}],
@@ -102060,10 +96179,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 34
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 35
 			}
 		]
 	}],
@@ -102075,10 +96190,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 33
 			}
 		]
@@ -102092,10 +96203,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 33
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 34
 			},
 			{
 				'date': '2024-03-01',
@@ -102144,10 +96251,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 32
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 28
 			}
 		]
 	}],
@@ -102160,10 +96263,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 32
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 33
 			},
 			{
 				'date': '2023-07-01',
@@ -102188,10 +96287,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 23
 			},
 			{
 				'date': '2024-04-01',
@@ -102223,10 +96318,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 31
 			},
 			{
@@ -102276,10 +96367,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 31
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 31
 			}
 		]
 	}],
@@ -102292,10 +96379,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 30
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 32
 			},
 			{
 				'date': '2024-04-01',
@@ -102354,10 +96437,6 @@ export const frags = new Map([
 				'frags': 30
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 30
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 261
 			},
@@ -102402,10 +96481,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 67
 			},
@@ -102438,10 +96513,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 19
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 8
 			},
@@ -102463,10 +96534,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 27
 			},
 			{
@@ -102510,10 +96577,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 28
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 5
 			},
@@ -102554,10 +96617,6 @@ export const frags = new Map([
 				'frags': 27
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 28
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 61
 			},
@@ -102588,10 +96647,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 19
 			}
 		]
 	}],
@@ -102604,10 +96659,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 27
 			},
 			{
 				'date': '2024-04-01',
@@ -102662,10 +96713,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 27
-			},
-			{
 				'date': '2024-02-01',
 				'frags': 121
 			},
@@ -102691,10 +96738,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 26
 			},
 			{
@@ -102738,10 +96781,6 @@ export const frags = new Map([
 				'frags': 26
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 26
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 59
 			},
@@ -102763,10 +96802,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 25
 			},
 			{
@@ -102800,10 +96835,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2024-04-01',
@@ -102854,10 +96885,6 @@ export const frags = new Map([
 				'frags': 24
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 24
-			},
-			{
 				'date': '2023-05-01',
 				'frags': 6
 			}
@@ -102872,10 +96899,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 24
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 25
 			},
 			{
 				'date': '2024-02-01',
@@ -102899,10 +96922,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 23
 			},
 			{
@@ -102952,10 +96971,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 23
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 26
 			}
 		]
 	}],
@@ -102967,10 +96982,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 22
 			},
 			{
@@ -103026,10 +97037,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 26
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 49
 			},
@@ -103078,10 +97085,6 @@ export const frags = new Map([
 				'frags': 22
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 17
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 32
 			},
@@ -103100,10 +97103,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 21
 			}
 		]
 	}],
@@ -103115,10 +97114,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 21
 			},
 			{
@@ -103140,10 +97135,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 21
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 16
 			},
 			{
 				'date': '2024-03-01',
@@ -103178,10 +97169,6 @@ export const frags = new Map([
 				'frags': 20
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 20
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 63
 			},
@@ -103208,10 +97195,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 20
 			},
 			{
 				'date': '2024-03-01',
@@ -103252,10 +97235,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			}
 		]
 	}],
@@ -103268,10 +97247,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 19
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 20
 			},
 			{
 				'date': '2024-03-01',
@@ -103320,10 +97295,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -103336,10 +97307,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			}
 		]
 	}],
@@ -103351,10 +97318,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 18
 			},
 			{
@@ -103404,10 +97367,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 18
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			}
 		]
 	}],
@@ -103420,10 +97379,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 17
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 18
 			},
 			{
 				'date': '2024-03-01',
@@ -103466,10 +97421,6 @@ export const frags = new Map([
 				'frags': 16
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2024-02-01',
 				'frags': 295
 			},
@@ -103508,10 +97459,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			}
 		]
 	}],
@@ -103524,10 +97471,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 16
 			},
 			{
 				'date': '2024-04-01',
@@ -103566,10 +97509,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 16
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 3
 			},
@@ -103598,10 +97537,6 @@ export const frags = new Map([
 				'frags': 15
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2023-07-01',
 				'frags': 95
 			},
@@ -103620,10 +97555,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 15
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			}
 		]
 	}],
@@ -103636,10 +97567,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 14
 			}
 		]
 	}],
@@ -103651,10 +97578,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -103680,10 +97603,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 14
 			}
 		]
 	}],
@@ -103695,10 +97614,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -103734,10 +97649,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 1
 			},
@@ -103767,10 +97678,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -103830,10 +97737,6 @@ export const frags = new Map([
 				'frags': 14
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 14
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 5
 			},
@@ -103888,10 +97791,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 14
 			}
 		]
 	}],
@@ -103904,10 +97803,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 15
 			},
 			{
 				'date': '2024-02-01',
@@ -103927,10 +97822,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 14
 			},
 			{
@@ -103976,10 +97867,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			}
 		]
 	}],
@@ -103992,10 +97879,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			},
 			{
 				'date': '2024-04-01',
@@ -104050,10 +97933,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 11
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 36
 			},
@@ -104087,10 +97966,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -104138,10 +98013,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2023-07-01',
 				'frags': 51
 			},
@@ -104166,10 +98037,6 @@ export const frags = new Map([
 				'frags': 13
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 13
-			},
-			{
 				'date': '2024-01-01',
 				'frags': 3
 			},
@@ -104187,10 +98054,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -104236,10 +98099,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			}
 		]
 	}],
@@ -104251,10 +98110,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -104304,10 +98159,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			}
 		]
 	}],
@@ -104320,10 +98171,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			},
 			{
 				'date': '2024-03-01',
@@ -104367,10 +98214,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 13
 			},
 			{
@@ -104420,10 +98263,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			}
 		]
 	}],
@@ -104436,10 +98275,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 13
 			},
 			{
 				'date': '2024-02-01',
@@ -104472,10 +98307,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			}
 		]
 	}],
@@ -104487,10 +98318,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -104536,10 +98363,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -104551,10 +98374,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			},
 			{
@@ -104594,10 +98413,6 @@ export const frags = new Map([
 				'frags': 12
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 7
 			}
@@ -104612,10 +98427,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 12
 			}
 		]
 	}],
@@ -104627,10 +98438,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 12
 			}
 		]
@@ -104644,10 +98451,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 11
 			}
 		]
 	}],
@@ -104660,10 +98463,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 11
 			}
 		]
 	}],
@@ -104675,10 +98474,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -104710,10 +98505,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 6
-			},
-			{
 				'date': '2023-10-01',
 				'frags': 18
 			},
@@ -104743,10 +98534,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -104806,10 +98593,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 2
 			},
@@ -104848,10 +98631,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 6
 			},
 			{
 				'date': '2024-03-01',
@@ -104902,10 +98681,6 @@ export const frags = new Map([
 				'frags': 11
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 12
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 3
 			},
@@ -104939,10 +98714,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 11
 			},
 			{
@@ -104983,10 +98754,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -105042,10 +98809,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2023-11-01',
 				'frags': 1
 			},
@@ -105067,10 +98830,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -105103,10 +98862,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -105150,10 +98905,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 65
 			},
@@ -105180,10 +98931,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 10
 			}
 		]
 	}],
@@ -105195,10 +98942,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 10
 			},
 			{
@@ -105254,10 +98997,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 10
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 15
 			},
@@ -105284,10 +99023,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			},
 			{
 				'date': '2024-03-01',
@@ -105320,10 +99055,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 10
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			},
 			{
 				'date': '2024-04-01',
@@ -105382,10 +99113,6 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 22
 			},
@@ -105440,10 +99167,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -105456,10 +99179,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 9
 			}
 		]
 	}],
@@ -105471,10 +99190,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -105491,10 +99206,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -105546,10 +99257,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 4
 			},
@@ -105568,10 +99275,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			},
 			{
 				'date': '2024-03-01',
@@ -105622,10 +99325,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 14
 			},
@@ -105651,10 +99350,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 9
 			},
 			{
@@ -105694,10 +99389,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 154
 			},
@@ -105730,10 +99421,6 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 9
-			},
-			{
 				'date': '2023-10-01',
 				'frags': 3
 			}
@@ -105747,10 +99434,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -105810,10 +99493,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 227
 			},
@@ -105858,10 +99537,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2023-10-01',
 				'frags': 2
 			},
@@ -105891,10 +99566,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 8
 			},
 			{
@@ -105928,10 +99599,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			},
 			{
 				'date': '2024-04-01',
@@ -106046,10 +99713,6 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 8
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 1
 			}
@@ -106064,10 +99727,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 8
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 8
 			}
 		]
 	}],
@@ -106079,10 +99738,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -106108,10 +99763,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 7
 			}
 		]
 	}],
@@ -106123,10 +99774,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			}
 		]
@@ -106226,10 +99873,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2024-12-01',
 				'frags': 1
 			}
@@ -106243,10 +99886,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -106282,10 +99921,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2023-10-01',
 				'frags': 28
 			}
@@ -106302,10 +99937,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 11
 			}
@@ -106319,10 +99950,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 7
 			},
 			{
@@ -106370,10 +99997,6 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 7
-			},
-			{
 				'date': '2024-02-01',
 				'frags': 1
 			},
@@ -106395,10 +100018,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 6
 			},
 			{
@@ -106470,10 +100089,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-01-01',
 				'frags': 15
 			},
@@ -106496,10 +100111,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -106511,10 +100122,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -106536,10 +100143,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -106551,10 +100154,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -106575,10 +100174,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -106638,10 +100233,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 2
 			},
@@ -106690,10 +100281,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 16
 			},
@@ -106723,10 +100310,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -106786,10 +100369,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 8
 			},
@@ -106815,10 +100394,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -106862,10 +100437,6 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 5
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 3
 			},
@@ -106900,10 +100471,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -106915,10 +100482,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -106944,10 +100507,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -106959,10 +100518,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 5
 			},
 			{
@@ -107000,10 +100555,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 5
 			}
 		]
 	}],
@@ -107015,10 +100566,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			}
 		]
@@ -107032,10 +100579,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -107047,10 +100590,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -107095,10 +100634,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			},
 			{
@@ -107150,10 +100685,6 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 4
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 1
 			},
@@ -107184,10 +100715,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -107199,10 +100726,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 4
 			}
 		]
@@ -107216,10 +100739,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 4
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -107232,10 +100751,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -107248,10 +100763,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -107263,10 +100774,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -107310,10 +100817,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 2
 			},
@@ -107336,10 +100839,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -107352,10 +100851,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -107367,10 +100862,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -107412,10 +100903,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -107427,10 +100914,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -107479,10 +100962,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -107538,10 +101017,6 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 3
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 18
 			},
@@ -107571,10 +101046,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -107612,10 +101083,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 3
 			}
 		]
 	}],
@@ -107627,10 +101094,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 3
 			},
 			{
@@ -107668,10 +101131,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 3
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 4
 			}
 		]
 	}],
@@ -107683,10 +101142,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -107711,10 +101166,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -107752,10 +101203,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -107767,10 +101214,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -107806,10 +101249,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2023-11-01',
 				'frags': 2
 			},
@@ -107839,10 +101278,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -107898,10 +101333,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2024-02-01',
 				'frags': 1
 			},
@@ -107920,10 +101351,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -107936,10 +101363,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -107951,10 +101374,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -107994,10 +101413,6 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 2
-			},
-			{
 				'date': '2024-01-01',
 				'frags': 3
 			}
@@ -108012,10 +101427,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -108028,10 +101439,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			},
 			{
 				'date': '2024-04-01',
@@ -108063,10 +101470,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 2
 			},
 			{
@@ -108108,10 +101511,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 2
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 2
 			}
 		]
 	}],
@@ -108123,10 +101522,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108150,10 +101545,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2024-03-01',
 				'frags': 27
 			},
@@ -108172,10 +101563,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108188,10 +101575,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108203,10 +101586,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108252,10 +101631,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108267,10 +101642,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -108284,10 +101655,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108299,10 +101666,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -108316,10 +101679,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108331,10 +101690,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -108348,10 +101703,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108363,10 +101714,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -108380,10 +101727,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108395,10 +101738,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108415,10 +101754,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108452,10 +101787,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108467,10 +101798,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108530,10 +101857,6 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
 				'date': '2024-04-01',
 				'frags': 10
 			},
@@ -108571,10 +101894,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108616,10 +101935,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108631,10 +101946,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108672,10 +101983,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108687,10 +101994,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			}
 		]
@@ -108727,10 +102030,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108788,10 +102087,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108803,10 +102098,6 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
 				'frags': 1
 			},
 			{
@@ -108876,10 +102167,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 1
-			},
-			{
-				'date': '2025-02-27',
-				'frags': 1
 			}
 		]
 	}],
@@ -108904,26 +102191,6 @@ export const frags = new Map([
 			{
 				'date': '2023-04-01',
 				'frags': 2
-			}
-		]
-	}],
-	['non levato', {
-		'meta': {
-			'name': 'Non Levato',
-			'world': 'Retalia'
-		},
-		'fragData': [
-			{
-				'date': '2025-02-27',
-				'frags': 1
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 77
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 7
 			}
 		]
 	}],
@@ -120120,6 +113387,22 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 23
+			}
+		]
+	}],
+	['non levato', {
+		'meta': {
+			'name': 'Non Levato',
+			'world': 'Retalia'
+		},
+		'fragData': [
+			{
+				'date': '2024-03-01',
+				'frags': 77
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 7
 			}
 		]
 	}],
