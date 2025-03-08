@@ -3,7 +3,7 @@ import fs from 'node:fs/promises';
 import {glob} from 'glob';
 import jsesc from 'jsesc';
 
-const filePaths = await glob('data/{peloria,retalia}/fraggers-*.json');
+const filePaths = await glob('data/{vunira,peloria,retalia}/fraggers-*.json');
 
 const readJson = async (filePath) => {
 	const json = await fs.readFile(`./${filePath}`, 'utf8');
