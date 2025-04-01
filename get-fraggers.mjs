@@ -7,7 +7,7 @@ function log(text) {
 }
 
 const slugify = (name) => {
-  const slug = name.replaceAll(' ', '+');
+  const slug = name.replaceAll(' ', '%20');
   return slug;
 };
 
