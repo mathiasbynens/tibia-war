@@ -1,23 +1,24 @@
-import fs from 'node:fs/promises';
+import fs from "node:fs/promises";
 
-import {glob} from 'glob';
-import jsesc from 'jsesc';
+import { glob } from "glob";
+import jsesc from "jsesc";
 
-const filePaths = await glob('data/{vunira,peloria,retalia}/fraggers-*.json');
+const filePaths = await glob("data/{vunira,peloria,retalia}/fraggers-*.json");
 
 const readJson = async (filePath) => {
-	const json = await fs.readFile(`./${filePath}`, 'utf8');
+	const json = await fs.readFile(`./${filePath}`, "utf8");
 	const data = JSON.parse(json);
 	return data;
 };
 
-const re = /^data\/(?<world>[^\/]+)\/fraggers-(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})\.json$/;
+const re =
+	/^data\/(?<world>[^\/]+)\/fraggers-(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})\.json$/;
 
 const map = new Map();
 const dateIds = new Set();
 
 for (const filePath of filePaths) {
-	const {world, year, month, day} = re.exec(filePath).groups;
+	const { world, year, month, day } = re.exec(filePath).groups;
 	const niceWorld = world.at(0).toUpperCase() + world.slice(1);
 	const dateId = `${year}-${month}-${day}`;
 	dateIds.add(dateId);
@@ -37,7 +38,6 @@ for (const filePath of filePaths) {
 			map.set(normalizedName, {
 				meta: {
 					name: characterName,
-					world: niceWorld,
 				},
 				fragData: [fragsEntry],
 			});
@@ -52,5 +52,7 @@ const stringify = (data) => {
 };
 
 const sortedDateIds = new Set(Array.from(dateIds).sort().reverse());
-const sourceText = `export const dateIds = ${stringify(sortedDateIds)};\n\nexport const frags = ${stringify(map)};\n`;
-await fs.writeFile('./data/frags.mjs', sourceText);
+const sourceText = `export const dateIds = ${stringify(
+	sortedDateIds
+)};\n\nexport const frags = ${stringify(map)};\n`;
+await fs.writeFile("./data/frags.mjs", sourceText);
