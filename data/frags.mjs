@@ -1,4 +1,5 @@
 export const dateIds = new Set([
+	'2026-07-01',
 	'2026-06-01',
 	'2026-05-01',
 	'2026-04-01',
@@ -1705,6 +1706,10 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 7
 			},
@@ -3339,6 +3344,10 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 12
 			},
@@ -3735,6 +3744,10 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 12
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 32
 			},
@@ -4091,6 +4104,10 @@ export const frags = new Map([
 				'frags': 9
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 7
 			},
@@ -4132,6 +4149,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 97
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 9
 			},
 			{
 				'date': '2026-06-01',
@@ -4992,6 +5013,10 @@ export const frags = new Map([
 			{
 				'date': '2025-07-01',
 				'frags': 5
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 4
 			},
 			{
 				'date': '2026-05-01',
@@ -9474,6 +9499,10 @@ export const frags = new Map([
 				'frags': 144
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 6
 			},
@@ -12676,6 +12705,10 @@ export const frags = new Map([
 				'frags': 54
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 10
 			},
@@ -13773,6 +13806,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 254
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 14
 			},
 			{
 				'date': '2026-06-01',
@@ -17556,6 +17593,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 24
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 19
 			},
@@ -18926,6 +18967,10 @@ export const frags = new Map([
 				'frags': 17
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 4
 			},
@@ -19129,6 +19174,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 15
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 8
 			},
 			{
 				'date': '2026-06-01',
@@ -20317,6 +20366,10 @@ export const frags = new Map([
 				'frags': 10
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
 				'date': '2026-05-01',
 				'frags': 8
 			},
@@ -20850,6 +20903,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 9
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 2
 			},
 			{
 				'date': '2026-06-01',
@@ -21639,6 +21696,10 @@ export const frags = new Map([
 				'frags': 8
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 12
 			},
@@ -22063,6 +22124,10 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 14
 			},
@@ -22335,6 +22400,10 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 49
 			},
@@ -22523,6 +22592,10 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
 				'date': '2026-05-01',
 				'frags': 45
 			},
@@ -22663,6 +22736,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 7
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 5
 			},
 			{
 				'date': '2026-06-01',
@@ -23094,6 +23171,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 6
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 7
 			},
 			{
 				'date': '2026-06-01',
@@ -23651,6 +23732,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 6
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 4
 			},
 			{
 				'date': '2026-04-01',
@@ -24507,6 +24592,10 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 15
 			},
@@ -25070,6 +25159,10 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 10
 			},
@@ -25143,6 +25236,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 5
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 26
 			},
 			{
 				'date': '2026-06-01',
@@ -25367,6 +25464,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 5
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 2
 			},
 			{
 				'date': '2026-05-01',
@@ -25834,6 +25935,10 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-05-01',
 				'frags': 5
 			},
@@ -26079,6 +26184,10 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 2
 			},
@@ -26199,6 +26308,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 5
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 1
 			},
 			{
 				'date': '2026-06-01',
@@ -27061,6 +27174,10 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 3
 			},
@@ -27552,6 +27669,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 4
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 1
 			},
 			{
 				'date': '2026-06-01',
@@ -28286,6 +28407,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 4
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 6
 			},
 			{
 				'date': '2026-05-01',
@@ -29235,6 +29360,10 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-07-01',
 				'frags': 3
 			},
 			{
@@ -30251,6 +30380,10 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 9
 			},
@@ -30335,6 +30468,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 3
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 11
 			},
 			{
 				'date': '2026-06-01',
@@ -31168,6 +31305,10 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 1
 			},
@@ -31657,6 +31798,10 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 12
 			},
@@ -32044,6 +32189,10 @@ export const frags = new Map([
 				'frags': 3
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 7
 			},
@@ -32117,6 +32266,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 3
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 10
 			},
 			{
 				'date': '2026-06-01',
@@ -33665,6 +33818,10 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 6
 			},
@@ -33809,6 +33966,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 4
 			},
 			{
 				'date': '2026-06-01',
@@ -33979,6 +34140,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 1
 			},
 			{
 				'date': '2026-05-01',
@@ -34694,6 +34859,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 8
 			},
 			{
 				'date': '2026-06-01',
@@ -36225,6 +36394,10 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 5
 			},
@@ -36312,6 +36485,10 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 4
 			},
@@ -36381,6 +36558,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 6
 			},
 			{
 				'date': '2026-06-01',
@@ -37442,6 +37623,10 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 3
 			},
@@ -37667,6 +37852,10 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 15
 			},
@@ -37770,6 +37959,10 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
 				'frags': 2
 			},
 			{
@@ -38653,6 +38846,10 @@ export const frags = new Map([
 				'frags': 2
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 1
 			},
@@ -38769,6 +38966,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 16
 			},
 			{
 				'date': '2026-06-01',
@@ -38892,6 +39093,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 13
 			},
 			{
 				'date': '2026-06-01',
@@ -39141,6 +39346,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 2
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 5
 			},
 			{
 				'date': '2026-06-01',
@@ -39958,6 +40167,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 7
 			},
@@ -40536,6 +40749,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 1
 			},
@@ -40657,6 +40874,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 11
 			},
 			{
 				'date': '2026-06-01',
@@ -41044,6 +41265,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
 				'date': '2026-05-01',
 				'frags': 1
 			},
@@ -41147,6 +41372,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 8
 			},
@@ -41243,6 +41472,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 18
 			},
 			{
 				'date': '2026-06-01',
@@ -41397,6 +41630,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 6
 			},
 			{
 				'date': '2026-06-01',
@@ -42301,6 +42538,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 8
 			},
@@ -43063,6 +43304,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 4
 			},
 			{
 				'date': '2026-05-01',
@@ -44114,6 +44359,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 22
 			},
@@ -44480,6 +44729,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 2
 			},
 			{
 				'date': '2026-06-01',
@@ -45442,6 +45695,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
 				'date': '2025-04-01',
 				'frags': 21
 			}
@@ -45584,6 +45841,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 1
 			},
@@ -45705,6 +45966,10 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 2
 			},
 			{
 				'date': '2026-05-01',
@@ -45901,6 +46166,10 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
 				'frags': 1
 			},
 			{
@@ -46502,6 +46771,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 2
 			},
@@ -47088,6 +47361,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-05-01',
 				'frags': 16
 			},
@@ -47587,6 +47864,10 @@ export const frags = new Map([
 				'frags': 1
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 27
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 23
 			},
@@ -47952,6 +48233,10 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-07-01',
 				'frags': 1
 			},
 			{
@@ -49497,6 +49782,10 @@ export const frags = new Map([
 				'frags': 4
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 19
 			},
@@ -50600,6 +50889,10 @@ export const frags = new Map([
 				'frags': 5
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 9
 			},
@@ -51308,6 +51601,10 @@ export const frags = new Map([
 			{
 				'date': '2023-04-01',
 				'frags': 16
+			},
+			{
+				'date': '2026-07-01',
+				'frags': 12
 			},
 			{
 				'date': '2026-06-01',
@@ -55064,6 +55361,10 @@ export const frags = new Map([
 				'frags': 7
 			},
 			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 1
 			},
@@ -56788,41 +57089,210 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['kaskaader mike', {
+	['ambuzimm', {
 		'meta': {
-			'name': 'Kaskaader Mike'
+			'name': 'Ambuzimm'
 		},
 		'fragData': [
 			{
-				'date': '2026-06-01',
-				'frags': 37
-			},
-			{
-				'date': '2026-05-01',
+				'date': '2026-07-01',
 				'frags': 35
 			},
 			{
-				'date': '2026-04-01',
-				'frags': 58
+				'date': '2026-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 3
 			}
 		]
 	}],
-	['not inrage', {
+	['mitoozx', {
 		'meta': {
-			'name': 'Not Inrage'
+			'name': 'Mitoozx'
 		},
 		'fragData': [
 			{
+				'date': '2026-07-01',
+				'frags': 34
+			},
+			{
 				'date': '2026-06-01',
-				'frags': 32
+				'frags': 4
+			}
+		]
+	}],
+	['weston reapers', {
+		'meta': {
+			'name': 'Weston Reapers'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 8
+			}
+		]
+	}],
+	['not sekus', {
+		'meta': {
+			'name': 'Not Sekus'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			}
+		]
+	}],
+	['paralizebs', {
+		'meta': {
+			'name': 'Paralizebs'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			}
+		]
+	}],
+	['ari rayen', {
+		'meta': {
+			'name': 'Ari Rayen'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
 			},
 			{
 				'date': '2026-05-01',
-				'frags': 43
+				'frags': 52
 			},
 			{
 				'date': '2026-04-01',
-				'frags': 12
+				'frags': 39
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 1
+			}
+		]
+	}],
+	['ahudini', {
+		'meta': {
+			'name': 'Ahudini'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			}
+		]
+	}],
+	['krimb', {
+		'meta': {
+			'name': 'Krimb'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			}
+		]
+	}],
+	['xxbom', {
+		'meta': {
+			'name': 'Xxbom'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 25
 			},
 			{
 				'date': '2026-03-01',
@@ -56830,42 +57300,710 @@ export const frags = new Map([
 			},
 			{
 				'date': '2026-02-01',
-				'frags': 55
+				'frags': 62
 			},
 			{
 				'date': '2026-01-01',
-				'frags': 45
+				'frags': 12
 			},
 			{
 				'date': '2025-12-01',
-				'frags': 13
+				'frags': 6
 			},
 			{
 				'date': '2025-11-01',
-				'frags': 8
+				'frags': 38
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 42
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 47
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 72
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 5
 			}
 		]
 	}],
-	['mini koupar', {
+	['hugi dabeast', {
 		'meta': {
-			'name': 'Mini Koupar'
+			'name': 'Hugi Dabeast'
 		},
 		'fragData': [
 			{
+				'date': '2026-07-01',
+				'frags': 17
+			},
+			{
 				'date': '2026-06-01',
-				'frags': 31
+				'frags': 19
 			},
 			{
 				'date': '2026-05-01',
-				'frags': 89
+				'frags': 4
 			},
 			{
 				'date': '2026-04-01',
-				'frags': 54
+				'frags': 24
 			},
 			{
 				'date': '2026-03-01',
+				'frags': 54
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 126
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 11
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 5
+			}
+		]
+	}],
+	['petynerozx', {
+		'meta': {
+			'name': 'Petynerozx'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 34
+			}
+		]
+	}],
+	['lervan uwu', {
+		'meta': {
+			'name': 'Lervan Uwu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			}
+		]
+	}],
+	['nasgoth kavari', {
+		'meta': {
+			'name': 'Nasgoth Kavari'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 49
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 59
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 53
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 118
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 80
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 43
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 125
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 56
+			}
+		]
+	}],
+	['charly mike', {
+		'meta': {
+			'name': 'Charly Mike'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['devianephp', {
+		'meta': {
+			'name': 'Devianephp'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 81
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 73
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 63
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 69
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 144
+			}
+		]
+	}],
+	['unsuree', {
+		'meta': {
+			'name': 'Unsuree'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-05-01',
 				'frags': 83
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 69
+			}
+		]
+	}],
+	['the roman', {
+		'meta': {
+			'name': 'The Roman'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 51
+			}
+		]
+	}],
+	['friendly beggi', {
+		'meta': {
+			'name': 'Friendly Beggi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 38
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 71
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 68
+			}
+		]
+	}],
+	['royal rekee', {
+		'meta': {
+			'name': 'Royal Rekee'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 58
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 67
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 122
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 51
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 61
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 63
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 66
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 73
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 238
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 122
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 50
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 38
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 16
+			}
+		]
+	}],
+	['floodypips', {
+		'meta': {
+			'name': 'Floodypips'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 67
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 62
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 80
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 89
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 86
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 54
+			}
+		]
+	}],
+	['pablo to skyends', {
+		'meta': {
+			'name': 'Pablo to Skyends'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 83
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 217
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 317
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 150
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 1
+			}
+		]
+	}],
+	['lulu medyk', {
+		'meta': {
+			'name': 'Lulu Medyk'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			}
+		]
+	}],
+	['demion alen', {
+		'meta': {
+			'name': 'Demion Alen'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			}
+		]
+	}],
+	['nicolas delgado', {
+		'meta': {
+			'name': 'Nicolas Delgado'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			}
+		]
+	}],
+	['milico bizurado', {
+		'meta': {
+			'name': 'Milico bizurado'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			}
+		]
+	}],
+	['rage san pedro', {
+		'meta': {
+			'name': 'Rage San Pedro'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 15
 			}
 		]
 	}],
@@ -56874,6 +58012,10 @@ export const frags = new Map([
 			'name': 'Kouper habeby'
 		},
 		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 13
+			},
 			{
 				'date': '2026-06-01',
 				'frags': 28
@@ -56958,6 +58100,10 @@ export const frags = new Map([
 		},
 		'fragData': [
 			{
+				'date': '2026-07-01',
+				'frags': 12
+			},
+			{
 				'date': '2026-06-01',
 				'frags': 27
 			},
@@ -56991,14 +58137,1069 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['zibaar', {
+	['klothys', {
 		'meta': {
-			'name': 'Zibaar'
+			'name': 'Klothys'
 		},
 		'fragData': [
 			{
+				'date': '2026-07-01',
+				'frags': 12
+			},
+			{
 				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
 				'frags': 27
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 45
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 67
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 16
+			}
+		]
+	}],
+	['yunusianth lycash', {
+		'meta': {
+			'name': 'Yunusianth Lycash'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 50
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 48
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 62
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 44
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			}
+		]
+	}],
+	['lufficzek dredd', {
+		'meta': {
+			'name': 'Lufficzek Dredd'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 28
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 28
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 69
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 48
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 74
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 27
+			}
+		]
+	}],
+	['stor ed', {
+		'meta': {
+			'name': 'Stor Ed'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			}
+		]
+	}],
+	['shinderi elos', {
+		'meta': {
+			'name': 'Shinderi Elos'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 56
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 21
+			}
+		]
+	}],
+	['darling don', {
+		'meta': {
+			'name': 'Darling Don'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 23
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 66
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 80
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 188
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 132
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 133
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 33
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 127
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 61
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 27
+			}
+		]
+	}],
+	['debonds', {
+		'meta': {
+			'name': 'Debonds'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 42
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 47
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 68
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 66
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 119
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 10
+			}
+		]
+	}],
+	['leo cabulozo', {
+		'meta': {
+			'name': 'Leo Cabulozo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
+			}
+		]
+	}],
+	['vanya hytes', {
+		'meta': {
+			'name': 'Vanya Hytes'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 55
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 51
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 75
+			}
+		]
+	}],
+	['rafinv', {
+		'meta': {
+			'name': 'Rafinv'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['midnight texlord', {
+		'meta': {
+			'name': 'Midnight Texlord'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 66
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 69
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 53
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 58
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 78
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 70
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 17
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 21
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 30
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 57
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 45
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 2
+			}
+		]
+	}],
+	['mad dabbin', {
+		'meta': {
+			'name': 'Mad Dabbin'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 39
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 79
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 33
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 6
+			}
+		]
+	}],
+	['brogolas', {
+		'meta': {
+			'name': 'Brogolas'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 105
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 52
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 50
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 30
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 9
+			}
+		]
+	}],
+	['dem kallarhan sneakarn', {
+		'meta': {
+			'name': 'Dem kallarhan Sneakarn'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 9
+			}
+		]
+	}],
+	['true ludi', {
+		'meta': {
+			'name': 'True Ludi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
+			}
+		]
+	}],
+	['druid claudio', {
+		'meta': {
+			'name': 'Druid Claudio'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 17
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 41
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 20
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 148
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 26
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 52
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 75
+			}
+		]
+	}],
+	['dwum', {
+		'meta': {
+			'name': 'Dwum'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 104
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 113
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 60
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 26
+			}
+		]
+	}],
+	['wielkie jaja', {
+		'meta': {
+			'name': 'Wielkie Jaja'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['elder rikky', {
+		'meta': {
+			'name': 'Elder Rikky'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 45
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 73
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 197
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 146
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 102
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 90
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 53
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 47
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 55
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 83
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 26
+			}
+		]
+	}],
+	['diegowatty', {
+		'meta': {
+			'name': 'Diegowatty'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			}
+		]
+	}],
+	['adbel', {
+		'meta': {
+			'name': 'Adbel'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 39
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 67
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 99
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 38
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 46
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 166
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 124
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 202
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 8
+			}
+		]
+	}],
+	['mestre paulo', {
+		'meta': {
+			'name': 'Mestre Paulo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 10
 			},
 			{
 				'date': '2026-05-01',
@@ -57006,7 +59207,5032 @@ export const frags = new Map([
 			},
 			{
 				'date': '2026-04-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 45
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 44
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 73
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 26
+			}
+		]
+	}],
+	['mysterium tremendum', {
+		'meta': {
+			'name': 'Mysterium tremendum'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 4
+			}
+		]
+	}],
+	['magestuoso', {
+		'meta': {
+			'name': 'Magestuoso'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 55
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 81
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 109
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 7
+			}
+		]
+	}],
+	['kalle balboa', {
+		'meta': {
+			'name': 'Kalle Balboa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 38
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 46
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 87
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 77
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 53
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 13
+			}
+		]
+	}],
+	['mash vino reapers', {
+		'meta': {
+			'name': 'Mash Vino Reapers'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			}
+		]
+	}],
+	['alock rawr', {
+		'meta': {
+			'name': 'Alock Rawr'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			}
+		]
+	}],
+	['earnfari', {
+		'meta': {
+			'name': 'Earnfari'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['zdegustowany kulfon', {
+		'meta': {
+			'name': 'Zdegustowany Kulfon'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			}
+		]
+	}],
+	['oskkek', {
+		'meta': {
+			'name': 'Oskkek'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			}
+		]
+	}],
+	['mexie', {
+		'meta': {
+			'name': 'Mexie'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 52
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 10
+			}
+		]
+	}],
+	['noutito marcin', {
+		'meta': {
+			'name': 'Noutito Marcin'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 58
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 62
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 4
+			}
+		]
+	}],
+	['love paax', {
+		'meta': {
+			'name': 'Love Paax'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 6
+			}
+		]
+	}],
+	['mombalabomba', {
+		'meta': {
+			'name': 'Mombalabomba'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 56
+			}
+		]
+	}],
+	['surgeto', {
+		'meta': {
+			'name': 'Surgeto'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 59
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 85
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 83
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 85
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 66
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 5
+			}
+		]
+	}],
+	['user four', {
+		'meta': {
+			'name': 'User Four'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 85
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 38
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 186
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 143
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 22
+			}
+		]
+	}],
+	['pablo the skyends', {
+		'meta': {
+			'name': 'Pablo the Skyends'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 42
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 60
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 38
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 30
+			}
+		]
+	}],
+	['parapushed south west', {
+		'meta': {
+			'name': 'Parapushed South West'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 23
+			}
+		]
+	}],
+	['menson', {
+		'meta': {
+			'name': 'Menson'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			}
+		]
+	}],
+	['me mio', {
+		'meta': {
+			'name': 'Me Mio'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 49
+			}
+		]
+	}],
+	['solo eles', {
+		'meta': {
+			'name': 'Solo Eles'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 93
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 133
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 114
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 113
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 107
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 111
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 118
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 115
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 4
+			}
+		]
+	}],
+	['diibeck six', {
+		'meta': {
+			'name': 'Diibeck Six'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 73
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 170
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 113
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 87
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 173
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 96
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 159
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 121
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 122
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 214
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 181
+			}
+		]
+	}],
+	['los muerte', {
+		'meta': {
+			'name': 'Los Muerte'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 26
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 50
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 161
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 129
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 221
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 170
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 70
+			}
+		]
+	}],
+	['maxmau', {
+		'meta': {
+			'name': 'Maxmau'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
 				'frags': 36
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 126
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 189
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 65
+			}
+		]
+	}],
+	['toxic rakso', {
+		'meta': {
+			'name': 'Toxic Rakso'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 32
+			}
+		]
+	}],
+	['guari skyends', {
+		'meta': {
+			'name': 'Guari Skyends'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 52
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 39
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 51
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 58
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 50
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 15
+			}
+		]
+	}],
+	['rydon parkea', {
+		'meta': {
+			'name': 'Rydon Parkea'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 44
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 57
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 61
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 19
+			}
+		]
+	}],
+	['esfuerzo nuto', {
+		'meta': {
+			'name': 'Esfuerzo Nuto'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 12
+			}
+		]
+	}],
+	['jimmy zan', {
+		'meta': {
+			'name': 'Jimmy Zan'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 17
+			}
+		]
+	}],
+	['maximoos', {
+		'meta': {
+			'name': 'Maximoos'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 56
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 3
+			}
+		]
+	}],
+	['yolo pescosoloo', {
+		'meta': {
+			'name': 'Yolo Pescosoloo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 58
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 67
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 61
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 267
+			}
+		]
+	}],
+	['druiden shria', {
+		'meta': {
+			'name': 'Druiden shria'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 44
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 65
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 45
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 24
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 126
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 73
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 174
+			}
+		]
+	}],
+	['svolacius', {
+		'meta': {
+			'name': 'Svolacius'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 28
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 27
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 39
+			}
+		]
+	}],
+	['sandriiks', {
+		'meta': {
+			'name': 'Sandriiks'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 86
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 13
+			}
+		]
+	}],
+	['kapitaan boombinha', {
+		'meta': {
+			'name': 'Kapitaan Boombinha'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 49
+			}
+		]
+	}],
+	['lady esdeath', {
+		'meta': {
+			'name': 'Lady Esdeath'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 74
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 69
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 226
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 20
+			}
+		]
+	}],
+	['cassiano limma', {
+		'meta': {
+			'name': 'Cassiano Limma'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 62
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 46
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 68
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 61
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 50
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 2
+			}
+		]
+	}],
+	['junin do sertao', {
+		'meta': {
+			'name': 'Junin do sertao'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			}
+		]
+	}],
+	['ace stark', {
+		'meta': {
+			'name': 'Ace Stark'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 21
+			}
+		]
+	}],
+	['benediiktus', {
+		'meta': {
+			'name': 'Benediiktus'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 106
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 83
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 41
+			}
+		]
+	}],
+	['rekuperator prime', {
+		'meta': {
+			'name': 'Rekuperator Prime'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 46
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 63
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 99
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 21
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 61
+			}
+		]
+	}],
+	['fearless shot', {
+		'meta': {
+			'name': 'Fearless Shot'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			}
+		]
+	}],
+	['mma leo', {
+		'meta': {
+			'name': 'Mma Leo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 129
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 113
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 70
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 76
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 10
+			}
+		]
+	}],
+	['mortoz', {
+		'meta': {
+			'name': 'Mortoz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 34
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			}
+		]
+	}],
+	['cybermork', {
+		'meta': {
+			'name': 'Cybermork'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 52
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 2
+			}
+		]
+	}],
+	['reaper deguh', {
+		'meta': {
+			'name': 'Reaper Deguh'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			}
+		]
+	}],
+	['one half reaper', {
+		'meta': {
+			'name': 'One Half Reaper'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 107
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 49
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 149
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 195
+			}
+		]
+	}],
+	['rekuperatorzx', {
+		'meta': {
+			'name': 'Rekuperatorzx'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 84
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 100
+			}
+		]
+	}],
+	['lovely kakadu', {
+		'meta': {
+			'name': 'Lovely Kakadu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			}
+		]
+	}],
+	['lunisk', {
+		'meta': {
+			'name': 'Lunisk'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			}
+		]
+	}],
+	['ulfus overlord', {
+		'meta': {
+			'name': 'Ulfus Overlord'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 48
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 14
+			}
+		]
+	}],
+	['reapers toxic bombiinha', {
+		'meta': {
+			'name': 'Reapers Toxic Bombiinha'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			}
+		]
+	}],
+	['structural engineer', {
+		'meta': {
+			'name': 'Structural Engineer'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 116
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 161
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 130
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 294
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 276
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 409
+			}
+		]
+	}],
+	['stort namn', {
+		'meta': {
+			'name': 'Stort Namn'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 21
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 20
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 57
+			}
+		]
+	}],
+	['here wego again', {
+		'meta': {
+			'name': 'Here wego again'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 50
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 2
+			}
+		]
+	}],
+	['andzia monk', {
+		'meta': {
+			'name': 'Andzia Monk'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			}
+		]
+	}],
+	['dar gorn', {
+		'meta': {
+			'name': 'Dar Gorn'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 9
+			}
+		]
+	}],
+	['lord youzers', {
+		'meta': {
+			'name': 'Lord Youzers'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			}
+		]
+	}],
+	['alock bomb', {
+		'meta': {
+			'name': 'Alock Bomb'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			}
+		]
+	}],
+	['seletty', {
+		'meta': {
+			'name': 'Seletty'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 3
+			}
+		]
+	}],
+	['bijesaxa', {
+		'meta': {
+			'name': 'Bijesaxa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 18
+			}
+		]
+	}],
+	['positive beggi', {
+		'meta': {
+			'name': 'Positive Beggi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 34
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 51
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 26
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 86
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 60
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 62
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 58
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 54
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 160
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 101
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 20
+			}
+		]
+	}],
+	['softaa', {
+		'meta': {
+			'name': 'Softaa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 13
+			}
+		]
+	}],
+	['szy man ski', {
+		'meta': {
+			'name': 'Szy Man Ski'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 56
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 61
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 2
+			}
+		]
+	}],
+	['eye of winter', {
+		'meta': {
+			'name': 'Eye of Winter'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 62
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			}
+		]
+	}],
+	['jiraiia forever', {
+		'meta': {
+			'name': 'Jiraiia Forever'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 46
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 68
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 12
+			}
+		]
+	}],
+	['miikus', {
+		'meta': {
+			'name': 'Miikus'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 98
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 164
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 213
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 166
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 236
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 178
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 151
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 139
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 117
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 18
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 24
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 114
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 223
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 232
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 163
+			}
+		]
+	}],
+	['gladiathor swag', {
+		'meta': {
+			'name': 'Gladiathor Swag'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 56
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 66
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 74
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 59
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 67
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 28
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 17
+			}
+		]
+	}],
+	['nico pally', {
+		'meta': {
+			'name': 'Nico Pally'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			}
+		]
+	}],
+	['czubaabuza', {
+		'meta': {
+			'name': 'Czubaabuza'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			}
+		]
+	}],
+	['not abdo', {
+		'meta': {
+			'name': 'Not Abdo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 60
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 118
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 105
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 120
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 57
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 88
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 147
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 116
+			}
+		]
+	}],
+	['lufficzek reapers', {
+		'meta': {
+			'name': 'Lufficzek Reapers'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 63
+			}
+		]
+	}],
+	['sleepers robson dominando', {
+		'meta': {
+			'name': 'Sleepers Robson Dominando'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 78
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 40
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 50
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 80
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 63
+			}
+		]
+	}],
+	['xilaz', {
+		'meta': {
+			'name': 'Xilaz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 171
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 256
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 87
+			}
+		]
+	}],
+	['lirryk', {
+		'meta': {
+			'name': 'Lirryk'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['matieuu', {
+		'meta': {
+			'name': 'Matieuu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 28
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 79
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 17
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 37
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 17
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 58
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 22
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 35
+			}
+		]
+	}],
+	['bernita bercoutili', {
+		'meta': {
+			'name': 'Bernita Bercoutili'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			}
+		]
+	}],
+	['valeken dominando', {
+		'meta': {
+			'name': 'Valeken Dominando'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 6
+			}
+		]
+	}],
+	['rehs', {
+		'meta': {
+			'name': 'Rehs'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 49
+			}
+		]
+	}],
+	['crystal fugoso', {
+		'meta': {
+			'name': 'Crystal fugoso'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 32
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 4
+			}
+		]
+	}],
+	['slores maca', {
+		'meta': {
+			'name': 'Slores Maca'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 48
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 64
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 48
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 74
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 41
+			}
+		]
+	}],
+	['mordran', {
+		'meta': {
+			'name': 'Mordran'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 113
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 95
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 84
+			}
+		]
+	}],
+	['tila pass', {
+		'meta': {
+			'name': 'Tila Pass'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 60
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 67
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 23
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 3
+			}
+		]
+	}],
+	['julio dimiscosta', {
+		'meta': {
+			'name': 'Julio Dimiscosta'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 26
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 66
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 42
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 67
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 129
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 34
+			}
+		]
+	}],
+	['broque', {
+		'meta': {
+			'name': 'Broque'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 38
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 90
+			}
+		]
+	}],
+	['skelsurg', {
+		'meta': {
+			'name': 'Skelsurg'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			}
+		]
+	}],
+	['decent axe', {
+		'meta': {
+			'name': 'Decent Axe'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['gogeta ui', {
+		'meta': {
+			'name': 'Gogeta Ui'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 58
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 24
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 23
+			}
+		]
+	}],
+	['nowychar', {
+		'meta': {
+			'name': 'Nowychar'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 47
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 24
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 59
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 57
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 14
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 22
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 47
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 39
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 54
+			}
+		]
+	}],
+	['zane paramax', {
+		'meta': {
+			'name': 'Zane Paramax'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			}
+		]
+	}],
+	['healrush', {
+		'meta': {
+			'name': 'Healrush'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 106
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 49
+			}
+		]
+	}],
+	['unfriendly sanchez', {
+		'meta': {
+			'name': 'Unfriendly Sanchez'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 30
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 93
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 32
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 55
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 220
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 231
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 229
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 78
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 43
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 44
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 86
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 47
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 104
+			}
+		]
+	}],
+	['deuz viini', {
+		'meta': {
+			'name': 'Deuz Viini'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 80
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 37
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 12
+			}
+		]
+	}],
+	['the people', {
+		'meta': {
+			'name': 'The People'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 8
+			}
+		]
+	}],
+	['burrata', {
+		'meta': {
+			'name': 'Burrata'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 60
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 9
+			}
+		]
+	}],
+	['hee eellzzzz', {
+		'meta': {
+			'name': 'Hee eellzzzz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 60
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 55
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 30
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 51
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 99
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 30
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 31
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 43
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 44
+			}
+		]
+	}],
+	['chaos panikeado', {
+		'meta': {
+			'name': 'Chaos Panikeado'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 66
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 106
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 68
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 74
+			}
+		]
+	}],
+	['praguinha jeeh infiel', {
+		'meta': {
+			'name': 'Praguinha Jeeh Infiel'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 37
+			}
+		]
+	}],
+	['smoken old', {
+		'meta': {
+			'name': 'Smoken Old'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			}
+		]
+	}],
+	['elder druidts', {
+		'meta': {
+			'name': 'Elder Druidts'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			}
+		]
+	}],
+	['cocone', {
+		'meta': {
+			'name': 'Cocone'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			}
+		]
+	}],
+	['ashdeth', {
+		'meta': {
+			'name': 'Ashdeth'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 26
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 82
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 83
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 51
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 101
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 83
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 163
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 78
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 26
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 81
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 1
+			}
+		]
+	}],
+	['five ka tici', {
+		'meta': {
+			'name': 'Five Ka Tici'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 52
+			}
+		]
+	}],
+	['liten mentuff', {
+		'meta': {
+			'name': 'Liten Mentuff'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 25
+			}
+		]
+	}],
+	['reaper toxic bombinha', {
+		'meta': {
+			'name': 'Reaper Toxic Bombinha'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			}
+		]
+	}],
+	['benediktuss', {
+		'meta': {
+			'name': 'Benediktuss'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 22
+			}
+		]
+	}],
+	['not inrage', {
+		'meta': {
+			'name': 'Not Inrage'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 39
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 55
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 45
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 8
+			}
+		]
+	}],
+	['gordinxz', {
+		'meta': {
+			'name': 'Gordinxz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			}
+		]
+	}],
+	['quiikiizika', {
+		'meta': {
+			'name': 'Quiikiizika'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 76
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 84
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 67
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 60
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 83
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 89
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 50
+			}
+		]
+	}],
+	['tixaxow', {
+		'meta': {
+			'name': 'Tixaxow'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
+			}
+		]
+	}],
+	['humbertozx', {
+		'meta': {
+			'name': 'Humbertozx'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 34
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 48
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 151
+			}
+		]
+	}],
+	['szymon zabijaka', {
+		'meta': {
+			'name': 'Szymon Zabijaka'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 49
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 82
+			}
+		]
+	}],
+	['full trapando', {
+		'meta': {
+			'name': 'Full Trapando'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 40
+			}
+		]
+	}],
+	['dzik wandal fast', {
+		'meta': {
+			'name': 'Dzik Wandal Fast'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			}
+		]
+	}],
+	['not rikky', {
+		'meta': {
+			'name': 'Not Rikky'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			}
+		]
+	}],
+	['jakob magiker', {
+		'meta': {
+			'name': 'Jakob Magiker'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 45
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 76
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 33
+			}
+		]
+	}],
+	['sazirin', {
+		'meta': {
+			'name': 'Sazirin'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 26
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 48
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 2
+			}
+		]
+	}],
+	['neska erpek', {
+		'meta': {
+			'name': 'Neska Erpek'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 12
+			}
+		]
+	}],
+	['doemoral eelkalm', {
+		'meta': {
+			'name': 'Doemoral Eelkalm'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 4
+			}
+		]
+	}],
+	['bosslover alex', {
+		'meta': {
+			'name': 'Bosslover Alex'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 23
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 76
+			}
+		]
+	}],
+	['king wargott', {
+		'meta': {
+			'name': 'King Wargott'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 3
+			}
+		]
+	}],
+	['red magic arrow', {
+		'meta': {
+			'name': 'Red Magic Arrow'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 37
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 18
+			}
+		]
+	}],
+	['mini paps', {
+		'meta': {
+			'name': 'Mini Paps'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 145
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 133
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 145
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 157
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 176
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 145
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 153
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 133
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 37
+			}
+		]
+	}],
+	['aaron helric', {
+		'meta': {
+			'name': 'Aaron helric'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 27
+			}
+		]
+	}],
+	['samakis', {
+		'meta': {
+			'name': 'Samakis'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 15
+			}
+		]
+	}],
+	['xaron zeth', {
+		'meta': {
+			'name': 'Xaron Zeth'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 23
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 18
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 14
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 20
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 35
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 13
+			}
+		]
+	}],
+	['kamillosky on pelorka', {
+		'meta': {
+			'name': 'Kamillosky on Pelorka'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 2
+			}
+		]
+	}],
+	['tegi paladyn', {
+		'meta': {
+			'name': 'Tegi Paladyn'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 42
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 47
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 29
+			}
+		]
+	}],
+	['dead bomba', {
+		'meta': {
+			'name': 'Dead Bomba'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 48
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 97
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 7
+			}
+		]
+	}],
+	['zhi romanov', {
+		'meta': {
+			'name': 'Zhi Romanov'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 32
+			}
+		]
+	}],
+	['elder maxiimus', {
+		'meta': {
+			'name': 'Elder Maxiimus'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 37
+			}
+		]
+	}],
+	['streng en', {
+		'meta': {
+			'name': 'Streng en'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			}
+		]
+	}],
+	['deathwishx', {
+		'meta': {
+			'name': 'Deathwishx'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 32
 			},
 			{
 				'date': '2026-03-01',
@@ -57014,7 +64240,4379 @@ export const frags = new Map([
 			},
 			{
 				'date': '2026-02-01',
+				'frags': 56
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 47
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 52
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 41
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 27
+			}
+		]
+	}],
+	['perssen', {
+		'meta': {
+			'name': 'Perssen'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 3
+			}
+		]
+	}],
+	['lurde', {
+		'meta': {
+			'name': 'Lurde'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 5
+			}
+		]
+	}],
+	['carpachio', {
+		'meta': {
+			'name': 'Carpachio'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 34
+			}
+		]
+	}],
+	['levato no mana', {
+		'meta': {
+			'name': 'Levato No Mana'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 52
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 83
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 209
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 85
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 39
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 33
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 62
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 80
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 37
+			}
+		]
+	}],
+	['zaki sanguine', {
+		'meta': {
+			'name': 'Zaki Sanguine'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 49
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 116
+			}
+		]
+	}],
+	['itachy return', {
+		'meta': {
+			'name': 'Itachy Return'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 186
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 80
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 66
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 84
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 61
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 83
+			}
+		]
+	}],
+	['king raphazs', {
+		'meta': {
+			'name': 'King Raphazs'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 73
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 20
+			}
+		]
+	}],
+	['cheff agaezsi', {
+		'meta': {
+			'name': 'Cheff Agaezsi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 39
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 59
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 129
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 23
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 80
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 119
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 178
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 84
+			}
+		]
+	}],
+	['yoruichi yagami', {
+		'meta': {
+			'name': 'Yoruichi Yagami'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 85
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 58
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 53
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 69
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 63
+			}
+		]
+	}],
+	['to de farra', {
+		'meta': {
+			'name': 'To de Farra'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 67
+			}
+		]
+	}],
+	['king mardo', {
+		'meta': {
+			'name': 'King Mardo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 14
+			}
+		]
+	}],
+	['cassiano llima', {
+		'meta': {
+			'name': 'Cassiano Llima'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 58
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 260
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 129
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 196
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 149
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 79
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 32
+			}
+		]
+	}],
+	['wampir reapers', {
+		'meta': {
+			'name': 'Wampir Reapers'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 102
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 113
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 240
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 58
+			}
+		]
+	}],
+	['alistair crobwell', {
+		'meta': {
+			'name': 'Alistair Crobwell'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 49
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 21
+			}
+		]
+	}],
+	['trousde', {
+		'meta': {
+			'name': 'Trousde'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['rexvyn bombinha', {
+		'meta': {
+			'name': 'Rexvyn Bombinha'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 6
+			}
+		]
+	}],
+	['kazhidoz', {
+		'meta': {
+			'name': 'Kazhidoz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['darkaynerozx', {
+		'meta': {
+			'name': 'Darkaynerozx'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['escoboar', {
+		'meta': {
+			'name': 'Escoboar'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 58
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 77
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 44
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 7
+			}
+		]
+	}],
+	['colio reapers', {
+		'meta': {
+			'name': 'Colio Reapers'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 69
+			}
+		]
+	}],
+	['reckless mardo', {
+		'meta': {
+			'name': 'Reckless Mardo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['markluz', {
+		'meta': {
+			'name': 'Markluz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['demszi', {
+		'meta': {
+			'name': 'Demszi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 37
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			}
+		]
+	}],
+	['pablo archer', {
+		'meta': {
+			'name': 'Pablo Archer'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			}
+		]
+	}],
+	['skkrimz malvado', {
+		'meta': {
+			'name': 'Skkrimz Malvado'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 117
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 87
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 84
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 61
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 128
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 118
+			}
+		]
+	}],
+	['nomyx disfruton', {
+		'meta': {
+			'name': 'Nomyx Disfruton'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 96
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 5
+			}
+		]
+	}],
+	['noprimal nosoulwarr', {
+		'meta': {
+			'name': 'Noprimal Nosoulwarr'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 18
+			},
+			{
+				'date': '2023-11-01',
+				'frags': 15
+			}
+		]
+	}],
+	['lenoris', {
+		'meta': {
+			'name': 'Lenoris'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 4
+			}
+		]
+	}],
+	['elder darkayn', {
+		'meta': {
+			'name': 'Elder Darkayn'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['elder usmolony', {
+		'meta': {
+			'name': 'Elder Usmolony'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['unfeeled', {
+		'meta': {
+			'name': 'Unfeeled'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 23
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 76
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 78
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 117
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 111
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 8
+			}
+		]
+	}],
+	['patras ed', {
+		'meta': {
+			'name': 'Patras Ed'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 1
+			}
+		]
+	}],
+	['wesoly zavodnik', {
+		'meta': {
+			'name': 'Wesoly Zavodnik'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 2
+			}
+		]
+	}],
+	['alix peloria', {
+		'meta': {
+			'name': 'Alix Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 28
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 3
+			}
+		]
+	}],
+	['choaa', {
+		'meta': {
+			'name': 'Choaa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 5
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 28
+			}
+		]
+	}],
+	['mini dread', {
+		'meta': {
+			'name': 'Mini Dread'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			}
+		]
+	}],
+	['darvan', {
+		'meta': {
+			'name': 'Darvan'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 6
+			}
+		]
+	}],
+	['mad shikre', {
+		'meta': {
+			'name': 'Mad Shikre'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 83
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 59
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 80
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 22
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 98
+			}
+		]
+	}],
+	['lily missed again', {
+		'meta': {
+			'name': 'Lily Missed Again'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['chaosrulerr', {
+		'meta': {
+			'name': 'Chaosrulerr'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 73
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 90
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 64
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 76
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 63
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 176
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 31
+			}
+		]
+	}],
+	['dylandex', {
+		'meta': {
+			'name': 'Dylandex'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['mister kimpan', {
+		'meta': {
+			'name': 'Mister Kimpan'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 51
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 45
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 3
+			}
+		]
+	}],
+	['venrria', {
+		'meta': {
+			'name': 'Venrria'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['cag uamasz', {
+		'meta': {
+			'name': 'Cag uamasz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 23
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 30
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 42
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 65
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 82
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 37
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 53
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 44
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 59
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 20
+			}
+		]
+	}],
+	['diuree', {
+		'meta': {
+			'name': 'Diuree'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 87
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 117
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 137
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 94
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 80
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 77
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 45
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 72
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 16
+			}
+		]
+	}],
+	['xiis te', {
+		'meta': {
+			'name': 'Xiis Te'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 1
+			}
+		]
+	}],
+	['jezzypezzy', {
+		'meta': {
+			'name': 'Jezzypezzy'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 28
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 15
+			}
+		]
+	}],
+	['capital letal', {
+		'meta': {
+			'name': 'Capital letal'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 8
+			}
+		]
+	}],
+	['messy paladin', {
+		'meta': {
+			'name': 'Messy paladin'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 1
+			}
+		]
+	}],
+	['adelo edy', {
+		'meta': {
+			'name': 'Adelo Edy'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['gold legend shakur', {
+		'meta': {
+			'name': 'Gold legend shakur'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 22
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 21
+			}
+		]
+	}],
+	['don epiic', {
+		'meta': {
+			'name': 'Don Epiic'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 6
+			}
+		]
+	}],
+	['bought on bazaar', {
+		'meta': {
+			'name': 'Bought On Bazaar'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 53
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 61
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 67
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 69
+			}
+		]
+	}],
+	['king vonmort', {
+		'meta': {
+			'name': 'King Vonmort'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 60
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 83
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 46
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 58
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 96
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 136
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 54
+			}
+		]
+	}],
+	['wisoxz', {
+		'meta': {
+			'name': 'Wisoxz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			}
+		]
+	}],
+	['pedro gahal', {
+		'meta': {
+			'name': 'Pedro Gahal'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['ren maqueen', {
+		'meta': {
+			'name': 'Ren maqueen'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['yuffek', {
+		'meta': {
+			'name': 'Yuffek'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 56
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 34
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 65
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 46
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 65
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 100
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 35
+			}
+		]
+	}],
+	['mordek macabro', {
+		'meta': {
+			'name': 'Mordek Macabro'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 77
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 28
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 14
+			}
+		]
+	}],
+	['roobzik', {
+		'meta': {
+			'name': 'Roobzik'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 39
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 61
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 51
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 67
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 64
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 54
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 56
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 196
+			}
+		]
+	}],
+	['weroek tetumba', {
+		'meta': {
+			'name': 'Weroek Tetumba'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 59
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 122
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 74
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 68
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 63
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 59
+			}
+		]
+	}],
+	['camaronzito', {
+		'meta': {
+			'name': 'Camaronzito'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['newchar coming', {
+		'meta': {
+			'name': 'Newchar Coming'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 51
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 33
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 23
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 47
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 70
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 52
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 31
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 41
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 36
+			}
+		]
+	}],
+	['warlord gax', {
+		'meta': {
+			'name': 'Warlord Gax'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['lafarga nofake', {
+		'meta': {
+			'name': 'Lafarga Nofake'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 46
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 70
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 23
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 63
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-12-01',
 				'frags': 38
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 89
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 46
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 64
+			}
+		]
+	}],
+	['noprimal norotten andmore', {
+		'meta': {
+			'name': 'Noprimal norotten andmore'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 6
+			}
+		]
+	}],
+	['henrykus', {
+		'meta': {
+			'name': 'Henrykus'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['zkeq', {
+		'meta': {
+			'name': 'Zkeq'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 44
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['take uwu', {
+		'meta': {
+			'name': 'Take Uwu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 96
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 70
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 150
+			}
+		]
+	}],
+	['ironz', {
+		'meta': {
+			'name': 'Ironz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 85
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 27
+			}
+		]
+	}],
+	['fast rash', {
+		'meta': {
+			'name': 'Fast Rash'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['grande observador', {
+		'meta': {
+			'name': 'Grande Observador'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 41
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 56
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 33
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 71
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 27
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 2
+			}
+		]
+	}],
+	['king saez style', {
+		'meta': {
+			'name': 'King Saez Style'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 53
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 69
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 49
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 38
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 48
+			}
+		]
+	}],
+	['adlleer sooffty', {
+		'meta': {
+			'name': 'Adlleer Sooffty'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 7
+			}
+		]
+	}],
+	['sepionix', {
+		'meta': {
+			'name': 'Sepionix'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 24
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 28
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 8
+			}
+		]
+	}],
+	['styg semi retired', {
+		'meta': {
+			'name': 'Styg Semi Retired'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 42
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 46
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 101
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 101
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 56
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 89
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 45
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 70
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 16
+			}
+		]
+	}],
+	['inte arg', {
+		'meta': {
+			'name': 'Inte Arg'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			}
+		]
+	}],
+	['yodams blade', {
+		'meta': {
+			'name': 'Yodams Blade'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 74
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 35
+			}
+		]
+	}],
+	['shadowy arrow', {
+		'meta': {
+			'name': 'Shadowy Arrow'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			}
+		]
+	}],
+	['erkiwi', {
+		'meta': {
+			'name': 'Erkiwi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['inspektor sowa', {
+		'meta': {
+			'name': 'Inspektor Sowa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['dirraan', {
+		'meta': {
+			'name': 'Dirraan'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 34
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 106
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 57
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 48
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 50
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 26
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 27
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 35
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 69
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 48
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 65
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 32
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 15
+			}
+		]
+	}],
+	['meiamo walt', {
+		'meta': {
+			'name': 'Meiamo Walt'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 25
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 64
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			}
+		]
+	}],
+	['kohoj the elementalist', {
+		'meta': {
+			'name': 'Kohoj The Elementalist'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['elder krosh', {
+		'meta': {
+			'name': 'Elder Krosh'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 40
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 42
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 61
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 28
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 38
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 20
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 56
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 40
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 26
+			}
+		]
+	}],
+	['dag hammarskjold baad', {
+		'meta': {
+			'name': 'Dag hammarskjold baad'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 28
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 93
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 57
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 84
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 44
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 142
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 185
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 413
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 330
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 247
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 148
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 31
+			}
+		]
+	}],
+	['pirrigt', {
+		'meta': {
+			'name': 'Pirrigt'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 47
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 62
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 13
+			}
+		]
+	}],
+	['maria toys', {
+		'meta': {
+			'name': 'Maria Toys'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['boltther fly', {
+		'meta': {
+			'name': 'Boltther Fly'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 51
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 65
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 91
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 48
+			}
+		]
+	}],
+	['kaskaader mike', {
+		'meta': {
+			'name': 'Kaskaader Mike'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 37
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 58
+			}
+		]
+	}],
+	['rade nel', {
+		'meta': {
+			'name': 'Rade Nel'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			}
+		]
+	}],
+	['lebex reunion', {
+		'meta': {
+			'name': 'Lebex Reunion'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['alu poderoso', {
+		'meta': {
+			'name': 'Alu Poderoso'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 83
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 58
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 46
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 44
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 29
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 130
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 76
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 119
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 167
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 93
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 70
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 80
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 28
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 54
+			}
+		]
+	}],
+	['gryponheart', {
+		'meta': {
+			'name': 'Gryponheart'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['warrior of moon', {
+		'meta': {
+			'name': 'Warrior of Moon'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['chobby morridnovo', {
+		'meta': {
+			'name': 'Chobby Morridnovo'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 118
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 80
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 37
+			}
+		]
+	}],
+	['vura soth', {
+		'meta': {
+			'name': 'Vura Soth'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 34
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 122
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 218
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 27
+			}
+		]
+	}],
+	['kerberos rook eq', {
+		'meta': {
+			'name': 'Kerberos Rook Eq'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 64
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 151
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 40
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 53
+			}
+		]
+	}],
+	['king diavoley', {
+		'meta': {
+			'name': 'King Diavoley'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 48
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 69
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 44
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 61
+			}
+		]
+	}],
+	['bibbidi', {
+		'meta': {
+			'name': 'Bibbidi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			}
+		]
+	}],
+	['edleri', {
+		'meta': {
+			'name': 'Edleri'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['hollie bolt', {
+		'meta': {
+			'name': 'Hollie Bolt'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 23
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 55
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 20
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 21
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 7
+			}
+		]
+	}],
+	['speeeedda', {
+		'meta': {
+			'name': 'Speeeedda'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['nano grzandi', {
+		'meta': {
+			'name': 'Nano Grzandi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 106
+			}
+		]
+	}],
+	['one nice reaper', {
+		'meta': {
+			'name': 'One Nice Reaper'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 32
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			}
+		]
+	}],
+	['josenzx', {
+		'meta': {
+			'name': 'Josenzx'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 66
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 73
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 1
+			}
+		]
+	}],
+	['sleeperbuilt druid', {
+		'meta': {
+			'name': 'Sleeperbuilt Druid'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['bury espriu', {
+		'meta': {
+			'name': 'Bury Espriu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 5
 			},
 			{
 				'date': '2026-01-01',
@@ -57026,7 +68624,413 @@ export const frags = new Map([
 			},
 			{
 				'date': '2025-11-01',
-				'frags': 21
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 19
+			}
+		]
+	}],
+	['xlance', {
+		'meta': {
+			'name': 'Xlance'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 3
+			}
+		]
+	}],
+	['not salama', {
+		'meta': {
+			'name': 'Not Salama'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 64
+			}
+		]
+	}],
+	['vitex trivial', {
+		'meta': {
+			'name': 'Vitex Trivial'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['de henk', {
+		'meta': {
+			'name': 'De Henk'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['fen ha rel', {
+		'meta': {
+			'name': 'Fen Ha Rel'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 76
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 26
+			}
+		]
+	}],
+	['uwu bombchar', {
+		'meta': {
+			'name': 'Uwu bombchar'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 64
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 23
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 92
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 61
+			}
+		]
+	}],
+	['mathlovebaby', {
+		'meta': {
+			'name': 'Mathlovebaby'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 27
+			}
+		]
+	}],
+	['frostpriest', {
+		'meta': {
+			'name': 'Frostpriest'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['warlord gaxu', {
+		'meta': {
+			'name': 'Warlord Gaxu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['camaronxz', {
+		'meta': {
+			'name': 'Camaronxz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 30
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 38
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 78
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 74
+			}
+		]
+	}],
+	['six seven grzandi', {
+		'meta': {
+			'name': 'Six Seven Grzandi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 4
+			}
+		]
+	}],
+	['troj darkshade', {
+		'meta': {
+			'name': 'Troj Darkshade'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['pikolinha', {
+		'meta': {
+			'name': 'Pikolinha'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 101
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 88
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 73
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 30
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 60
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 59
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 87
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 89
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 87
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			}
+		]
+	}],
+	['narcystyczny maslak', {
+		'meta': {
+			'name': 'Narcystyczny Maslak'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 118
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 135
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 37
 			}
 		]
 	}],
@@ -57035,6 +69039,10 @@ export const frags = new Map([
 			'name': 'Jaumau Tysoka Dedosio'
 		},
 		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
 			{
 				'date': '2026-06-01',
 				'frags': 27
@@ -57082,6 +69090,2624 @@ export const frags = new Map([
 			{
 				'date': '2025-07-01',
 				'frags': 41
+			}
+		]
+	}],
+	['fire cyber', {
+		'meta': {
+			'name': 'Fire Cyber'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			}
+		]
+	}],
+	['zevelena', {
+		'meta': {
+			'name': 'Zevelena'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 4
+			}
+		]
+	}],
+	['xari nolin', {
+		'meta': {
+			'name': 'Xari nolin'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['firewall issue', {
+		'meta': {
+			'name': 'Firewall Issue'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['toxic kaiito', {
+		'meta': {
+			'name': 'Toxic Kaiito'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 85
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 160
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 60
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 188
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 267
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 101
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 73
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 190
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 150
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 126
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 204
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 552
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 586
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 85
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 114
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 269
+			}
+		]
+	}],
+	['twisted yo mate', {
+		'meta': {
+			'name': 'Twisted Yo Mate'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 1
+			}
+		]
+	}],
+	['enfle on peloria', {
+		'meta': {
+			'name': 'Enfle on Peloria'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 21
+			}
+		]
+	}],
+	['alasct spirit', {
+		'meta': {
+			'name': 'Alasct Spirit'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 24
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 69
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 99
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 14
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 16
+			}
+		]
+	}],
+	['fox healing jussi', {
+		'meta': {
+			'name': 'Fox Healing Jussi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 42
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 55
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 39
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 17
+			}
+		]
+	}],
+	['baandyta yebuduu essa', {
+		'meta': {
+			'name': 'Baandyta Yebuduu Essa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 9
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 6
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 38
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 12
+			}
+		]
+	}],
+	['darking mage', {
+		'meta': {
+			'name': 'Darking Mage'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 6
+			}
+		]
+	}],
+	['laddx', {
+		'meta': {
+			'name': 'Laddx'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			}
+		]
+	}],
+	['ofm', {
+		'meta': {
+			'name': 'Ofm'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 1
+			}
+		]
+	}],
+	['unebra onesavage', {
+		'meta': {
+			'name': 'Unebra Onesavage'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['anferz alterado', {
+		'meta': {
+			'name': 'Anferz Alterado'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 74
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 9
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 10
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 30
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 17
+			}
+		]
+	}],
+	['farlopinho', {
+		'meta': {
+			'name': 'Farlopinho'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 43
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 18
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 17
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 25
+			}
+		]
+	}],
+	['saiyan healer', {
+		'meta': {
+			'name': 'Saiyan Healer'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 28
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 61
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 50
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 64
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 43
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 97
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 63
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 30
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 41
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 2
+			}
+		]
+	}],
+	['diego do caminhaopipa', {
+		'meta': {
+			'name': 'Diego do Caminhaopipa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 74
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 41
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 35
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 37
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 62
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 1
+			}
+		]
+	}],
+	['azunakz', {
+		'meta': {
+			'name': 'Azunakz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 3
+			}
+		]
+	}],
+	['kasta en bomb', {
+		'meta': {
+			'name': 'Kasta en bomb'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 126
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 107
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 167
+			}
+		]
+	}],
+	['critica social', {
+		'meta': {
+			'name': 'Critica Social'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 6
+			}
+		]
+	}],
+	['afghun dominator', {
+		'meta': {
+			'name': 'Afghun Dominator'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['frankovski', {
+		'meta': {
+			'name': 'Frankovski'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 105
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 60
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 33
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 31
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 19
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['skun aguero', {
+		'meta': {
+			'name': 'Skun Aguero'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 53
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 78
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 29
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 40
+			}
+		]
+	}],
+	['not mexie', {
+		'meta': {
+			'name': 'Not Mexie'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['ekacito disfruton', {
+		'meta': {
+			'name': 'Ekacito Disfruton'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 64
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 26
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 10
+			}
+		]
+	}],
+	['druiditano', {
+		'meta': {
+			'name': 'Druiditano'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 30
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 48
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 46
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 2
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 40
+			}
+		]
+	}],
+	['azog of moria', {
+		'meta': {
+			'name': 'Azog of Moria'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['selaf szef', {
+		'meta': {
+			'name': 'Selaf Szef'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['nana dret', {
+		'meta': {
+			'name': 'Nana Dret'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 14
+			}
+		]
+	}],
+	['beloryss karigon setaidanal', {
+		'meta': {
+			'name': 'Beloryss Karigon Setaidanal'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 1
+			}
+		]
+	}],
+	['zeroksi', {
+		'meta': {
+			'name': 'Zeroksi'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 13
+			}
+		]
+	}],
+	['cozinheira do pericles', {
+		'meta': {
+			'name': 'Cozinheira do Pericles'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['mastel solcerel', {
+		'meta': {
+			'name': 'Mastel Solcerel'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 74
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 58
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 65
+			}
+		]
+	}],
+	['waifu dezu', {
+		'meta': {
+			'name': 'Waifu Dezu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 40
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 127
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 77
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 6
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 25
+			}
+		]
+	}],
+	['hpand greatergems azzilonacce', {
+		'meta': {
+			'name': 'Hpand greatergems Azzilonacce'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['inversuz', {
+		'meta': {
+			'name': 'Inversuz'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['dorabiam klucze', {
+		'meta': {
+			'name': 'Dorabiam Klucze'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 11
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 8
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 5
+			}
+		]
+	}],
+	['diabolinqa', {
+		'meta': {
+			'name': 'Diabolinqa'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 18
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 13
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['twisted yo pepe', {
+		'meta': {
+			'name': 'Twisted Yo Pepe'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 5
+			}
+		]
+	}],
+	['dwempulas heatostara', {
+		'meta': {
+			'name': 'Dwempulas Heatostara'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 21
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 23
+			}
+		]
+	}],
+	['poison onlywar', {
+		'meta': {
+			'name': 'Poison Onlywar'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 9
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 34
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 6
+			}
+		]
+	}],
+	['suikastin parallyisei', {
+		'meta': {
+			'name': 'Suikastin Parallyisei'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['lidera dell', {
+		'meta': {
+			'name': 'Lidera Dell'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 3
+			}
+		]
+	}],
+	['krasinho sio', {
+		'meta': {
+			'name': 'Krasinho Sio'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 15
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 1
+			}
+		]
+	}],
+	['czar hawk', {
+		'meta': {
+			'name': 'Czar Hawk'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 1
+			}
+		]
+	}],
+	['kenai sheng', {
+		'meta': {
+			'name': 'Kenai Sheng'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['andzia paladin', {
+		'meta': {
+			'name': 'Andzia Paladin'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 1
+			}
+		]
+	}],
+	['saiyano', {
+		'meta': {
+			'name': 'Saiyano'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 29
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 57
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 72
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 34
+			}
+		]
+	}],
+	['one shot killer', {
+		'meta': {
+			'name': 'One Shot Killer'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 39
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 17
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 38
+			}
+		]
+	}],
+	['xend leon', {
+		'meta': {
+			'name': 'Xend Leon'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 4
+			}
+		]
+	}],
+	['reox bobax', {
+		'meta': {
+			'name': 'Reox Bobax'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['ed edor', {
+		'meta': {
+			'name': 'Ed Edor'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			}
+		]
+	}],
+	['kuba deja vu', {
+		'meta': {
+			'name': 'Kuba Deja vu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 18
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 14
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 112
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 37
+			}
+		]
+	}],
+	['blint cuart', {
+		'meta': {
+			'name': 'Blint Cuart'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['pynioo reaperss', {
+		'meta': {
+			'name': 'Pynioo Reaperss'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 16
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 4
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 62
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 48
+			}
+		]
+	}],
+	['ahitomage', {
+		'meta': {
+			'name': 'Ahitomage'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 15
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 18
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 19
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 23
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 34
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 26
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 26
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 65
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 24
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 39
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 15
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 68
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 52
+			}
+		]
+	}],
+	['ciasny waski', {
+		'meta': {
+			'name': 'Ciasny Waski'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 19
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 44
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 8
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 17
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 47
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 2
+			}
+		]
+	}],
+	['reckless bratva', {
+		'meta': {
+			'name': 'Reckless Bratva'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['klawisz po kielichu', {
+		'meta': {
+			'name': 'Klawisz Po Kielichu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 57
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 11
+			}
+		]
+	}],
+	['virez', {
+		'meta': {
+			'name': 'Virez'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 66
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 20
+			}
+		]
+	}],
+	['heitor matacoitado', {
+		'meta': {
+			'name': 'Heitor Matacoitado'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['minavand', {
+		'meta': {
+			'name': 'Minavand'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 28
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 49
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 33
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 2
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 22
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 8
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 5
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 8
+			}
+		]
+	}],
+	['nankazu', {
+		'meta': {
+			'name': 'Nankazu'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 27
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 23
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 39
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 13
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 31
+			}
+		]
+	}],
+	['magic spectre', {
+		'meta': {
+			'name': 'Magic Spectre'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 81
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 21
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-10-01',
+				'frags': 14
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 28
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 25
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-03-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-02-01',
+				'frags': 32
+			},
+			{
+				'date': '2025-01-01',
+				'frags': 51
+			},
+			{
+				'date': '2024-12-01',
+				'frags': 26
+			},
+			{
+				'date': '2024-11-01',
+				'frags': 12
+			},
+			{
+				'date': '2024-10-01',
+				'frags': 101
+			},
+			{
+				'date': '2024-09-01',
+				'frags': 25
+			},
+			{
+				'date': '2024-08-01',
+				'frags': 4
+			},
+			{
+				'date': '2024-07-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-06-01',
+				'frags': 13
+			},
+			{
+				'date': '2024-05-01',
+				'frags': 5
+			},
+			{
+				'date': '2024-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 5
+			},
+			{
+				'date': '2024-02-01',
+				'frags': 14
+			}
+		]
+	}],
+	['bjornez', {
+		'meta': {
+			'name': 'Bjornez'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['helow level', {
+		'meta': {
+			'name': 'Helow level'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['mokusha', {
+		'meta': {
+			'name': 'Mokusha'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['rablat', {
+		'meta': {
+			'name': 'Rablat'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2024-03-01',
+				'frags': 1
+			}
+		]
+	}],
+	['gandalf soul', {
+		'meta': {
+			'name': 'Gandalf Soul'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 35
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 86
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 46
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 12
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 36
+			},
+			{
+				'date': '2025-09-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 12
+			}
+		]
+	}],
+	['not ed', {
+		'meta': {
+			'name': 'Not Ed'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 20
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 12
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 14
+			}
+		]
+	}],
+	['kratos demigod', {
+		'meta': {
+			'name': 'Kratos Demigod'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 1
+			}
+		]
+	}],
+	['mini koupar', {
+		'meta': {
+			'name': 'Mini Koupar'
+		},
+		'fragData': [
+			{
+				'date': '2026-06-01',
+				'frags': 31
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 89
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 54
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 83
+			}
+		]
+	}],
+	['zibaar', {
+		'meta': {
+			'name': 'Zibaar'
+		},
+		'fragData': [
+			{
+				'date': '2026-06-01',
+				'frags': 27
+			},
+			{
+				'date': '2026-05-01',
+				'frags': 22
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 36
+			},
+			{
+				'date': '2026-03-01',
+				'frags': 14
+			},
+			{
+				'date': '2026-02-01',
+				'frags': 38
+			},
+			{
+				'date': '2026-01-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-12-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 21
 			}
 		]
 	}],
@@ -57208,181 +71834,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['liten mentuff', {
-		'meta': {
-			'name': 'Liten Mentuff'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 25
-			}
-		]
-	}],
-	['unsuree', {
-		'meta': {
-			'name': 'Unsuree'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 83
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 69
-			}
-		]
-	}],
-	['kapitaan boombinha', {
-		'meta': {
-			'name': 'Kapitaan Boombinha'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 49
-			}
-		]
-	}],
-	['miikus', {
-		'meta': {
-			'name': 'Miikus'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 98
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 164
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 213
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 166
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 236
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 178
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 151
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 139
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 117
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 18
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 24
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 114
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 223
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 232
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 163
-			}
-		]
-	}],
-	['deuz viini', {
-		'meta': {
-			'name': 'Deuz Viini'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 80
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 37
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 12
-			}
-		]
-	}],
 	['reapers toxic bombinha', {
 		'meta': {
 			'name': 'Reapers Toxic Bombinha'
@@ -57395,112 +71846,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 1
-			}
-		]
-	}],
-	['nasgoth kavari', {
-		'meta': {
-			'name': 'Nasgoth Kavari'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 49
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 59
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 118
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 80
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 43
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 125
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 56
-			}
-		]
-	}],
-	['red magic arrow', {
-		'meta': {
-			'name': 'Red Magic Arrow'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 37
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 18
 			}
 		]
 	}],
@@ -57560,53 +71905,6 @@ export const frags = new Map([
 			{
 				'date': '2025-04-01',
 				'frags': 4
-			}
-		]
-	}],
-	['mini paps', {
-		'meta': {
-			'name': 'Mini Paps'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 145
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 133
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 145
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 157
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 176
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 145
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 153
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 133
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 37
 			}
 		]
 	}],
@@ -57684,178 +71982,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['user four', {
-		'meta': {
-			'name': 'User Four'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 85
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 38
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 186
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 143
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 22
-			}
-		]
-	}],
-	['positive beggi', {
-		'meta': {
-			'name': 'Positive Beggi'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 34
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 51
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 86
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 58
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 54
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 160
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 101
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 20
-			}
-		]
-	}],
-	['zhi romanov', {
-		'meta': {
-			'name': 'Zhi Romanov'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 32
-			}
-		]
-	}],
-	['klawisz po kielichu', {
-		'meta': {
-			'name': 'Klawisz Po Kielichu'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 57
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 11
-			}
-		]
-	}],
 	['shaaliq', {
 		'meta': {
 			'name': 'Shaaliq'
@@ -57880,96 +72006,6 @@ export const frags = new Map([
 			{
 				'date': '2025-11-01',
 				'frags': 12
-			}
-		]
-	}],
-	['hugi dabeast', {
-		'meta': {
-			'name': 'Hugi Dabeast'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 54
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 126
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 11
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 5
-			}
-		]
-	}],
-	['five ka tici', {
-		'meta': {
-			'name': 'Five Ka Tici'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 52
 			}
 		]
 	}],
@@ -58105,132 +72141,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['nico pally', {
-		'meta': {
-			'name': 'Nico Pally'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			}
-		]
-	}],
-	['diibeck six', {
-		'meta': {
-			'name': 'Diibeck Six'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 54
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 73
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 170
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 113
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 87
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 173
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 96
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 159
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 121
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 122
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 214
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 181
-			}
-		]
-	}],
 	['imcr infinytiwar', {
 		'meta': {
 			'name': 'Imcr infinytiwar'
@@ -58318,132 +72228,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['bijesaxa', {
-		'meta': {
-			'name': 'Bijesaxa'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 18
-			}
-		]
-	}],
-	['saiyan healer', {
-		'meta': {
-			'name': 'Saiyan Healer'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 28
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 61
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 50
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 64
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 97
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 63
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 30
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 41
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 2
-			}
-		]
-	}],
 	['florento bozz', {
 		'meta': {
 			'name': 'Florento Bozz'
@@ -58522,33 +72306,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['one half reaper', {
-		'meta': {
-			'name': 'One Half Reaper'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 107
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 49
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 149
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 195
-			}
-		]
-	}],
 	['vitao isbaack', {
 		'meta': {
 			'name': 'Vitao Isbaack'
@@ -58557,76 +72314,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 16
-			}
-		]
-	}],
-	['ironz', {
-		'meta': {
-			'name': 'Ironz'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 85
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 27
-			}
-		]
-	}],
-	['lufficzek reapers', {
-		'meta': {
-			'name': 'Lufficzek Reapers'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 63
 			}
 		]
 	}],
@@ -58654,57 +72341,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 10
-			}
-		]
-	}],
-	['lafarga nofake', {
-		'meta': {
-			'name': 'Lafarga Nofake'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 46
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 70
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 63
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 89
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 46
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 64
 			}
 		]
 	}],
@@ -58822,170 +72458,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['tixaxow', {
-		'meta': {
-			'name': 'Tixaxow'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			}
-		]
-	}],
-	['skkrimz malvado', {
-		'meta': {
-			'name': 'Skkrimz Malvado'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 117
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 87
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 84
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 61
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 128
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 118
-			}
-		]
-	}],
-	['leo cabulozo', {
-		'meta': {
-			'name': 'Leo Cabulozo'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			}
-		]
-	}],
-	['dag hammarskjold baad', {
-		'meta': {
-			'name': 'Dag hammarskjold baad'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 28
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 93
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 57
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 84
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 142
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 185
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 413
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 330
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 247
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 148
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 31
-			}
-		]
-	}],
 	['kewitoo', {
 		'meta': {
 			'name': 'Kewitoo'
@@ -59021,83 +72493,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['bibbidi', {
-		'meta': {
-			'name': 'Bibbidi'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			}
-		]
-	}],
-	['weston reapers', {
-		'meta': {
-			'name': 'Weston Reapers'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 8
-			}
-		]
-	}],
-	['devianephp', {
-		'meta': {
-			'name': 'Devianephp'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 81
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 73
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 63
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 69
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 144
-			}
-		]
-	}],
 	['zariell aler', {
 		'meta': {
 			'name': 'Zariell Aler'
@@ -59110,184 +72505,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 3
-			}
-		]
-	}],
-	['ari rayen', {
-		'meta': {
-			'name': 'Ari Rayen'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 52
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 39
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 1
-			}
-		]
-	}],
-	['ambuzimm', {
-		'meta': {
-			'name': 'Ambuzimm'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 3
-			}
-		]
-	}],
-	['lady esdeath', {
-		'meta': {
-			'name': 'Lady Esdeath'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 74
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 69
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 226
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 20
-			}
-		]
-	}],
-	['shinderi elos', {
-		'meta': {
-			'name': 'Shinderi Elos'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 56
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 21
-			}
-		]
-	}],
-	['krimb', {
-		'meta': {
-			'name': 'Krimb'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			}
-		]
-	}],
-	['pablo the skyends', {
-		'meta': {
-			'name': 'Pablo the Skyends'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 54
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 42
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 60
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 30
 			}
 		]
 	}],
@@ -59358,135 +72575,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['jakob magiker', {
-		'meta': {
-			'name': 'Jakob Magiker'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 45
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 76
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 33
-			}
-		]
-	}],
-	['me mio', {
-		'meta': {
-			'name': 'Me Mio'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 49
-			}
-		]
-	}],
-	['uwu bombchar', {
-		'meta': {
-			'name': 'Uwu bombchar'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 64
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 23
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 92
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 61
-			}
-		]
-	}],
 	['nori el ladron', {
 		'meta': {
 			'name': 'Nori el Ladron'
@@ -59538,134 +72626,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['frankovski', {
-		'meta': {
-			'name': 'Frankovski'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 54
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 105
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 60
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
-			}
-		]
-	}],
-	['rydon parkea', {
-		'meta': {
-			'name': 'Rydon Parkea'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 44
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 57
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 61
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 19
-			}
-		]
-	}],
-	['to de farra', {
-		'meta': {
-			'name': 'To de Farra'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 31
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 67
-			}
-		]
-	}],
-	['softaa', {
-		'meta': {
-			'name': 'Softaa'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 13
-			}
-		]
-	}],
 	['buying new rpez', {
 		'meta': {
 			'name': 'Buying new Rpez'
@@ -59674,29 +72634,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 13
-			}
-		]
-	}],
-	['nano grzandi', {
-		'meta': {
-			'name': 'Nano Grzandi'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 106
 			}
 		]
 	}],
@@ -59712,25 +72649,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 71
-			}
-		]
-	}],
-	['rexvyn bombinha', {
-		'meta': {
-			'name': 'Rexvyn Bombinha'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 6
 			}
 		]
 	}],
@@ -59909,25 +72827,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['one nice reaper', {
-		'meta': {
-			'name': 'One Nice Reaper'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			}
-		]
-	}],
 	['kevi solo', {
 		'meta': {
 			'name': 'Kevi Solo'
@@ -60002,35 +72901,9 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['petynerozx', {
-		'meta': {
-			'name': 'Petynerozx'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 34
-			}
-		]
-	}],
 	['fullmlcharms goodgreatergem', {
 		'meta': {
 			'name': 'Fullmlcharms Goodgreatergem'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			}
-		]
-	}],
-	['elder druidts', {
-		'meta': {
-			'name': 'Elder Druidts'
 		},
 		'fragData': [
 			{
@@ -60087,118 +72960,6 @@ export const frags = new Map([
 			{
 				'date': '2025-08-01',
 				'frags': 26
-			}
-		]
-	}],
-	['pynioo reaperss', {
-		'meta': {
-			'name': 'Pynioo Reaperss'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 48
-			}
-		]
-	}],
-	['take uwu', {
-		'meta': {
-			'name': 'Take Uwu'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 96
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 70
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 150
-			}
-		]
-	}],
-	['mordek macabro', {
-		'meta': {
-			'name': 'Mordek Macabro'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 77
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 28
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 14
-			}
-		]
-	}],
-	['mysterium tremendum', {
-		'meta': {
-			'name': 'Mysterium tremendum'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 4
 			}
 		]
 	}],
@@ -60376,33 +73137,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['healrush', {
-		'meta': {
-			'name': 'Healrush'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 106
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 49
-			}
-		]
-	}],
 	['biggie palls', {
 		'meta': {
 			'name': 'Biggie Palls'
@@ -60462,121 +73196,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 14
-			}
-		]
-	}],
-	['alu poderoso', {
-		'meta': {
-			'name': 'Alu Poderoso'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 83
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 58
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 46
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 130
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 76
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 119
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 167
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 93
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 70
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 80
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 28
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 54
 			}
 		]
 	}],
@@ -60702,112 +73321,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['itachy return', {
-		'meta': {
-			'name': 'Itachy Return'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 54
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 186
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 80
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 66
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 84
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 61
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 83
-			}
-		]
-	}],
-	['cheff agaezsi', {
-		'meta': {
-			'name': 'Cheff Agaezsi'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 39
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 59
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 129
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 23
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 80
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 119
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 178
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 84
-			}
-		]
-	}],
 	['street sharck infernus', {
 		'meta': {
 			'name': 'Street Sharck Infernus'
@@ -60855,25 +73368,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['rekuperatorzx', {
-		'meta': {
-			'name': 'Rekuperatorzx'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 84
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 100
-			}
-		]
-	}],
 	['ludi shaman', {
 		'meta': {
 			'name': 'Ludi Shaman'
@@ -60882,115 +73376,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 11
-			}
-		]
-	}],
-	['cybermork', {
-		'meta': {
-			'name': 'Cybermork'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 52
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 2
-			}
-		]
-	}],
-	['camaronxz', {
-		'meta': {
-			'name': 'Camaronxz'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 38
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 78
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 74
-			}
-		]
-	}],
-	['ekacito disfruton', {
-		'meta': {
-			'name': 'Ekacito Disfruton'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 64
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 10
 			}
 		]
 	}],
@@ -61041,147 +73426,6 @@ export const frags = new Map([
 			{
 				'date': '2025-05-01',
 				'frags': 22
-			}
-		]
-	}],
-	['valeken dominando', {
-		'meta': {
-			'name': 'Valeken Dominando'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 6
-			}
-		]
-	}],
-	['don epiic', {
-		'meta': {
-			'name': 'Don Epiic'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 6
-			}
-		]
-	}],
-	['druiden shria', {
-		'meta': {
-			'name': 'Druiden shria'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 65
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 45
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 14
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 24
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 126
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 73
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 174
 			}
 		]
 	}],
@@ -61256,37 +73500,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 4
-			}
-		]
-	}],
-	['pablo to skyends', {
-		'meta': {
-			'name': 'Pablo to Skyends'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 83
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 217
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 317
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 150
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -61450,124 +73663,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['elder krosh', {
-		'meta': {
-			'name': 'Elder Krosh'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 31
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 40
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 42
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 61
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 28
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 38
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 20
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 56
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 40
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 26
-			}
-		]
-	}],
-	['colio reapers', {
-		'meta': {
-			'name': 'Colio Reapers'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 69
-			}
-		]
-	}],
 	['houssaiini', {
 		'meta': {
 			'name': 'Houssaiini'
@@ -61610,75 +73705,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['not sekus', {
-		'meta': {
-			'name': 'Not Sekus'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			}
-		]
-	}],
-	['benediiktus', {
-		'meta': {
-			'name': 'Benediiktus'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 106
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 83
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 41
-			}
-		]
-	}],
-	['wampir reapers', {
-		'meta': {
-			'name': 'Wampir Reapers'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 102
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 113
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 240
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 58
-			}
-		]
-	}],
 	['fullacces bosshunter', {
 		'meta': {
 			'name': 'Fullacces Bosshunter'
@@ -61690,69 +73716,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['elder rikky', {
-		'meta': {
-			'name': 'Elder Rikky'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 45
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 73
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 197
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 146
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 102
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 90
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 55
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 83
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 26
-			}
-		]
-	}],
 	['not sabry', {
 		'meta': {
 			'name': 'Not Sabry'
@@ -61761,53 +73724,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 10
-			}
-		]
-	}],
-	['structural engineer', {
-		'meta': {
-			'name': 'Structural Engineer'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 116
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 161
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 130
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 294
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 276
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 409
 			}
 		]
 	}],
@@ -61897,56 +73813,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['not salama', {
-		'meta': {
-			'name': 'Not Salama'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 64
-			}
-		]
-	}],
-	['kalle balboa', {
-		'meta': {
-			'name': 'Kalle Balboa'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 38
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 46
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 87
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 77
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 13
-			}
-		]
-	}],
 	['mikeysrc', {
 		'meta': {
 			'name': 'Mikeysrc'
@@ -62005,80 +73871,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['beloryss karigon setaidanal', {
-		'meta': {
-			'name': 'Beloryss Karigon Setaidanal'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 1
-			}
-		]
-	}],
-	['chaosrulerr', {
-		'meta': {
-			'name': 'Chaosrulerr'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 73
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 90
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 64
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 76
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 63
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 176
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 31
-			}
-		]
-	}],
 	['shottaaz', {
 		'meta': {
 			'name': 'Shottaaz'
@@ -62123,159 +73915,6 @@ export const frags = new Map([
 			{
 				'date': '2025-09-01',
 				'frags': 58
-			}
-		]
-	}],
-	['narcystyczny maslak', {
-		'meta': {
-			'name': 'Narcystyczny Maslak'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 118
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 135
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 37
-			}
-		]
-	}],
-	['jiraiia forever', {
-		'meta': {
-			'name': 'Jiraiia Forever'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 46
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 68
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 12
-			}
-		]
-	}],
-	['tegi paladyn', {
-		'meta': {
-			'name': 'Tegi Paladyn'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 42
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 29
 			}
 		]
 	}],
@@ -62368,107 +74007,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 82
-			}
-		]
-	}],
-	['boltther fly', {
-		'meta': {
-			'name': 'Boltther Fly'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 31
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 51
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 65
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 91
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 48
-			}
-		]
-	}],
-	['lervan uwu', {
-		'meta': {
-			'name': 'Lervan Uwu'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			}
-		]
-	}],
-	['not abdo', {
-		'meta': {
-			'name': 'Not Abdo'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 60
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 118
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 105
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 120
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 57
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 88
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 147
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 116
 			}
 		]
 	}],
@@ -62597,124 +74135,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['sepionix', {
-		'meta': {
-			'name': 'Sepionix'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 28
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 8
-			}
-		]
-	}],
-	['milico bizurado', {
-		'meta': {
-			'name': 'Milico bizurado'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			}
-		]
-	}],
 	['super tornado siren', {
 		'meta': {
 			'name': 'Super Tornado Siren'
@@ -62750,102 +74170,9 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['eye of winter', {
-		'meta': {
-			'name': 'Eye of Winter'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 62
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			}
-		]
-	}],
-	['friendly beggi', {
-		'meta': {
-			'name': 'Friendly Beggi'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 71
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 68
-			}
-		]
-	}],
 	['goodbomb', {
 		'meta': {
 			'name': 'Goodbomb'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			}
-		]
-	}],
-	['cocone', {
-		'meta': {
-			'name': 'Cocone'
 		},
 		'fragData': [
 			{
@@ -62914,101 +74241,6 @@ export const frags = new Map([
 			{
 				'date': '2024-11-01',
 				'frags': 47
-			}
-		]
-	}],
-	['hee eellzzzz', {
-		'meta': {
-			'name': 'Hee eellzzzz'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 60
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 55
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 30
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 51
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 99
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 30
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 31
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 43
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 44
 			}
 		]
 	}],
@@ -63113,274 +74345,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['lufficzek dredd', {
-		'meta': {
-			'name': 'Lufficzek Dredd'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 28
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 28
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 69
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 48
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 74
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 27
-			}
-		]
-	}],
-	['surgeto', {
-		'meta': {
-			'name': 'Surgeto'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 59
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 85
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 83
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 85
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 66
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 5
-			}
-		]
-	}],
-	['matieuu', {
-		'meta': {
-			'name': 'Matieuu'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 28
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 54
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 79
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 17
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 37
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 17
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 58
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 35
-			}
-		]
-	}],
-	['baandyta yebuduu essa', {
-		'meta': {
-			'name': 'Baandyta Yebuduu Essa'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 12
-			}
-		]
-	}],
 	['eternal moo', {
 		'meta': {
 			'name': 'Eternal Moo'
@@ -63397,155 +74361,6 @@ export const frags = new Map([
 			{
 				'date': '2026-04-01',
 				'frags': 95
-			}
-		]
-	}],
-	['saiyano', {
-		'meta': {
-			'name': 'Saiyano'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 57
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 72
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 34
-			}
-		]
-	}],
-	['cassiano llima', {
-		'meta': {
-			'name': 'Cassiano Llima'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 58
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 260
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 129
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 196
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 149
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 79
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 32
-			}
-		]
-	}],
-	['vanya hytes', {
-		'meta': {
-			'name': 'Vanya Hytes'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 55
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 75
 			}
 		]
 	}],
@@ -63726,91 +74541,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 20
-			}
-		]
-	}],
-	['bury espriu', {
-		'meta': {
-			'name': 'Bury Espriu'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 19
-			}
-		]
-	}],
-	['paralizebs', {
-		'meta': {
-			'name': 'Paralizebs'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			}
-		]
-	}],
-	['farlopinho', {
-		'meta': {
-			'name': 'Farlopinho'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 18
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 25
 			}
 		]
 	}],
@@ -64095,84 +74825,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['yolo pescosoloo', {
-		'meta': {
-			'name': 'Yolo Pescosoloo'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 58
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 67
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 61
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 267
-			}
-		]
-	}],
-	['floodypips', {
-		'meta': {
-			'name': 'Floodypips'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 67
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 80
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 89
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 86
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 54
-			}
-		]
-	}],
 	['qwsoxqswm qwsoxqswm qawgpgxwe', {
 		'meta': {
 			'name': 'Qwsoxqswm Qwsoxqswm Qawgpgxwe'
@@ -64181,37 +74833,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 8
-			}
-		]
-	}],
-	['rage san pedro', {
-		'meta': {
-			'name': 'Rage San Pedro'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 15
 			}
 		]
 	}],
@@ -64242,29 +74863,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['jezzypezzy', {
-		'meta': {
-			'name': 'Jezzypezzy'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 28
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 15
-			}
-		]
-	}],
 	['buzter mage', {
 		'meta': {
 			'name': 'Buzter Mage'
@@ -64292,140 +74890,6 @@ export const frags = new Map([
 			{
 				'date': '2026-03-01',
 				'frags': 62
-			}
-		]
-	}],
-	['tila pass', {
-		'meta': {
-			'name': 'Tila Pass'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 60
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 67
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 23
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 3
-			}
-		]
-	}],
-	['quiikiizika', {
-		'meta': {
-			'name': 'Quiikiizika'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 76
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 84
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 67
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 83
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 89
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 50
 			}
 		]
 	}],
@@ -64460,21 +74924,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 7
-			}
-		]
-	}],
-	['carpachio', {
-		'meta': {
-			'name': 'Carpachio'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 34
 			}
 		]
 	}],
@@ -64533,25 +74982,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['fen ha rel', {
-		'meta': {
-			'name': 'Fen Ha Rel'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 76
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 26
-			}
-		]
-	}],
 	['vrzka', {
 		'meta': {
 			'name': 'Vrzka'
@@ -64572,96 +75002,6 @@ export const frags = new Map([
 			{
 				'date': '2025-11-01',
 				'frags': 65
-			}
-		]
-	}],
-	['xxbom', {
-		'meta': {
-			'name': 'Xxbom'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 39
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 62
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 42
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 72
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 5
-			}
-		]
-	}],
-	['bernita bercoutili', {
-		'meta': {
-			'name': 'Bernita Bercoutili'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
 			}
 		]
 	}],
@@ -64822,44 +75162,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['reaper deguh', {
-		'meta': {
-			'name': 'Reaper Deguh'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			}
-		]
-	}],
-	['stort namn', {
-		'meta': {
-			'name': 'Stort Namn'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 21
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 20
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 57
-			}
-		]
-	}],
 	['professor mana', {
 		'meta': {
 			'name': 'Professor Mana'
@@ -64872,32 +75174,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 35
-			}
-		]
-	}],
-	['neska erpek', {
-		'meta': {
-			'name': 'Neska Erpek'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 12
-			}
-		]
-	}],
-	['reapers toxic bombiinha', {
-		'meta': {
-			'name': 'Reapers Toxic Bombiinha'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
 			}
 		]
 	}],
@@ -65042,57 +75318,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['slores maca', {
-		'meta': {
-			'name': 'Slores Maca'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 48
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 64
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 74
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 41
-			}
-		]
-	}],
 	['rukuss', {
 		'meta': {
 			'name': 'Rukuss'
@@ -65228,53 +75453,6 @@ export const frags = new Map([
 			{
 				'date': '2026-03-01',
 				'frags': 21
-			}
-		]
-	}],
-	['weroek tetumba', {
-		'meta': {
-			'name': 'Weroek Tetumba'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 59
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 122
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 74
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 68
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 63
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 59
 			}
 		]
 	}],
@@ -65628,183 +75806,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['toxic kaiito', {
-		'meta': {
-			'name': 'Toxic Kaiito'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 85
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 160
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 188
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 267
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 101
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 73
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 190
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 150
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 126
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 204
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 552
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 586
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 85
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 114
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 269
-			}
-		]
-	}],
-	['brogolas', {
-		'meta': {
-			'name': 'Brogolas'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 105
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 52
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 50
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 9
-			}
-		]
-	}],
-	['mash vino reapers', {
-		'meta': {
-			'name': 'Mash Vino Reapers'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			}
-		]
-	}],
 	['makhullu', {
 		'meta': {
 			'name': 'Makhullu'
@@ -65816,69 +75817,6 @@ export const frags = new Map([
 			},
 			{
 				'date': '2025-07-01',
-				'frags': 1
-			}
-		]
-	}],
-	['pikolinha', {
-		'meta': {
-			'name': 'Pikolinha'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 101
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 54
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 88
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 73
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 87
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 89
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 87
-			},
-			{
-				'date': '2025-05-01',
 				'frags': 1
 			}
 		]
@@ -66023,101 +75961,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['darling don', {
-		'meta': {
-			'name': 'Darling Don'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 23
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 66
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 80
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 188
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 132
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 133
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 33
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 127
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 61
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 27
-			}
-		]
-	}],
 	['uchiha kirito', {
 		'meta': {
 			'name': 'Uchiha Kirito'
@@ -66173,81 +76016,6 @@ export const frags = new Map([
 			{
 				'date': '2024-12-01',
 				'frags': 11
-			}
-		]
-	}],
-	['yuffek', {
-		'meta': {
-			'name': 'Yuffek'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 56
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 34
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 65
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 46
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 65
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 100
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 35
 			}
 		]
 	}],
@@ -66587,171 +76355,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['debonds', {
-		'meta': {
-			'name': 'Debonds'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 42
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 68
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 66
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 119
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 10
-			}
-		]
-	}],
-	['yunusianth lycash', {
-		'meta': {
-			'name': 'Yunusianth Lycash'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 50
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 48
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			}
-		]
-	}],
-	['dwum', {
-		'meta': {
-			'name': 'Dwum'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 104
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 113
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 26
-			}
-		]
-	}],
 	['simba vifon', {
 		'meta': {
 			'name': 'Simba vifon'
@@ -66864,69 +76467,6 @@ export const frags = new Map([
 			{
 				'date': '2024-03-01',
 				'frags': 32
-			}
-		]
-	}],
-	['here wego again', {
-		'meta': {
-			'name': 'Here wego again'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 50
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -67055,37 +76595,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['maximoos', {
-		'meta': {
-			'name': 'Maximoos'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 56
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 3
-			}
-		]
-	}],
 	['ewald paralyse', {
 		'meta': {
 			'name': 'Ewald Paralyse'
@@ -67137,80 +76646,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 2
-			}
-		]
-	}],
-	['pirrigt', {
-		'meta': {
-			'name': 'Pirrigt'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 62
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 13
-			}
-		]
-	}],
-	['seletty', {
-		'meta': {
-			'name': 'Seletty'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 3
 			}
 		]
 	}],
@@ -67544,109 +76979,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['midnight texlord', {
-		'meta': {
-			'name': 'Midnight Texlord'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 66
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 69
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 58
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 78
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 70
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 17
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 21
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 30
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 57
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 45
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 11
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 2
-			}
-		]
-	}],
 	['kylia', {
 		'meta': {
 			'name': 'Kylia'
@@ -67663,151 +76995,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 1
-			}
-		]
-	}],
-	['bosslover alex', {
-		'meta': {
-			'name': 'Bosslover Alex'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 23
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 76
-			}
-		]
-	}],
-	['noprimal norotten andmore', {
-		'meta': {
-			'name': 'Noprimal norotten andmore'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			}
-		]
-	}],
-	['hollie bolt', {
-		'meta': {
-			'name': 'Hollie Bolt'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 23
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 55
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 21
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 7
 			}
 		]
 	}],
@@ -67858,21 +77045,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 5
-			}
-		]
-	}],
-	['capital letal', {
-		'meta': {
-			'name': 'Capital letal'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 8
 			}
 		]
 	}],
@@ -68105,17 +77277,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['menson', {
-		'meta': {
-			'name': 'Menson'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			}
-		]
-	}],
 	['igniter of warfull', {
 		'meta': {
 			'name': 'Igniter Of Warfull'
@@ -68225,53 +77386,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['noutito marcin', {
-		'meta': {
-			'name': 'Noutito Marcin'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 58
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 62
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 4
-			}
-		]
-	}],
 	['guzik back', {
 		'meta': {
 			'name': 'Guzik Back'
@@ -68332,77 +77446,6 @@ export const frags = new Map([
 			{
 				'date': '2024-11-01',
 				'frags': 10
-			}
-		]
-	}],
-	['xlance', {
-		'meta': {
-			'name': 'Xlance'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 3
 			}
 		]
 	}],
@@ -68531,96 +77574,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['diegowatty', {
-		'meta': {
-			'name': 'Diegowatty'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			}
-		]
-	}],
-	['royal rekee', {
-		'meta': {
-			'name': 'Royal Rekee'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 58
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 67
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 122
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 61
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 63
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 66
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 73
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 238
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 122
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 50
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 38
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 16
-			}
-		]
-	}],
 	['diegowaty', {
 		'meta': {
 			'name': 'Diegowaty'
@@ -68633,119 +77586,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 16
-			}
-		]
-	}],
-	['mad dabbin', {
-		'meta': {
-			'name': 'Mad Dabbin'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 39
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 79
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 33
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 6
-			}
-		]
-	}],
-	['rade nel', {
-		'meta': {
-			'name': 'Rade Nel'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			}
-		]
-	}],
-	['burrata', {
-		'meta': {
-			'name': 'Burrata'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 9
 			}
 		]
 	}],
@@ -68913,25 +77753,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['critica social', {
-		'meta': {
-			'name': 'Critica Social'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 6
-			}
-		]
-	}],
 	['holy mukiitera', {
 		'meta': {
 			'name': 'Holy Mukiitera'
@@ -69081,17 +77902,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['ahudini', {
-		'meta': {
-			'name': 'Ahudini'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 5
-			}
-		]
-	}],
 	['larvius', {
 		'meta': {
 			'name': 'Larvius'
@@ -69123,124 +77933,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['zkeq', {
-		'meta': {
-			'name': 'Zkeq'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 31
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 44
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 2
-			}
-		]
-	}],
-	['kerberos rook eq', {
-		'meta': {
-			'name': 'Kerberos Rook Eq'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 64
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 151
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 40
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 53
-			}
-		]
-	}],
 	['daimzzz', {
 		'meta': {
 			'name': 'Daimzzz'
@@ -69261,89 +77953,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 36
-			}
-		]
-	}],
-	['druiditano', {
-		'meta': {
-			'name': 'Druiditano'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 40
 			}
 		]
 	}],
@@ -69452,106 +78061,6 @@ export const frags = new Map([
 			{
 				'date': '2026-03-01',
 				'frags': 39
-			}
-		]
-	}],
-	['maxmau', {
-		'meta': {
-			'name': 'Maxmau'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 126
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 189
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 65
-			}
-		]
-	}],
-	['zdegustowany kulfon', {
-		'meta': {
-			'name': 'Zdegustowany Kulfon'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			}
-		]
-	}],
-	['lurde', {
-		'meta': {
-			'name': 'Lurde'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 5
-			}
-		]
-	}],
-	['cassiano limma', {
-		'meta': {
-			'name': 'Cassiano Limma'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 62
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 46
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 68
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 61
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 50
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -69669,96 +78178,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 125
-			}
-		]
-	}],
-	['one shot killer', {
-		'meta': {
-			'name': 'One Shot Killer'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 39
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 38
-			}
-		]
-	}],
-	['bought on bazaar', {
-		'meta': {
-			'name': 'Bought On Bazaar'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 61
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 67
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 69
 			}
 		]
 	}],
@@ -69965,33 +78384,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['lenoris', {
-		'meta': {
-			'name': 'Lenoris'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 4
-			}
-		]
-	}],
 	['war paralize', {
 		'meta': {
 			'name': 'War paralize'
@@ -70050,29 +78442,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['messy paladin', {
-		'meta': {
-			'name': 'Messy paladin'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 1
-			}
-		]
-	}],
 	['kaczy emes', {
 		'meta': {
 			'name': 'Kaczy emes'
@@ -70121,85 +78490,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 7
-			}
-		]
-	}],
-	['deathwishx', {
-		'meta': {
-			'name': 'Deathwishx'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 56
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 52
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 41
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 27
 			}
 		]
 	}],
@@ -70282,21 +78572,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['six seven grzandi', {
-		'meta': {
-			'name': 'Six Seven Grzandi'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			}
-		]
-	}],
 	['bije zy glowy', {
 		'meta': {
 			'name': 'Bije zy glowy'
@@ -70372,17 +78647,6 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 40
-			}
-		]
-	}],
-	['nicolas delgado', {
-		'meta': {
-			'name': 'Nicolas Delgado'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
 			}
 		]
 	}],
@@ -70471,80 +78735,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['humbertozx', {
-		'meta': {
-			'name': 'Humbertozx'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 34
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 48
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 151
-			}
-		]
-	}],
-	['solo eles', {
-		'meta': {
-			'name': 'Solo Eles'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 93
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 133
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 114
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 113
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 107
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 111
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 118
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 115
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 4
-			}
-		]
-	}],
 	['ourji', {
 		'meta': {
 			'name': 'Ourji'
@@ -70569,59 +78759,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 2
-			}
-		]
-	}],
-	['mordran', {
-		'meta': {
-			'name': 'Mordran'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 31
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 113
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 95
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 84
-			}
-		]
-	}],
-	['pablo archer', {
-		'meta': {
-			'name': 'Pablo Archer'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			}
-		]
-	}],
-	['mitoozx', {
-		'meta': {
-			'name': 'Mitoozx'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
 			}
 		]
 	}],
@@ -70780,75 +78917,9 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['alix peloria', {
-		'meta': {
-			'name': 'Alix Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 28
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 3
-			}
-		]
-	}],
 	['suikastin parralyzei', {
 		'meta': {
 			'name': 'Suikastin Parralyzei'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 4
-			}
-		]
-	}],
-	['xend leon', {
-		'meta': {
-			'name': 'Xend Leon'
 		},
 		'fragData': [
 			{
@@ -70953,158 +79024,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['king mardo', {
-		'meta': {
-			'name': 'King Mardo'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 14
-			}
-		]
-	}],
-	['nankazu', {
-		'meta': {
-			'name': 'Nankazu'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 31
-			}
-		]
-	}],
-	['sleepers robson dominando', {
-		'meta': {
-			'name': 'Sleepers Robson Dominando'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 78
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 40
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 50
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 80
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 63
-			}
-		]
-	}],
-	['benediktuss', {
-		'meta': {
-			'name': 'Benediktuss'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 22
-			}
-		]
-	}],
 	['philgoodzx', {
 		'meta': {
 			'name': 'Philgoodzx'
@@ -71199,64 +79118,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 63
-			}
-		]
-	}],
-	['ace stark', {
-		'meta': {
-			'name': 'Ace Stark'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 21
-			}
-		]
-	}],
-	['the people', {
-		'meta': {
-			'name': 'The People'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 8
 			}
 		]
 	}],
@@ -71368,61 +79229,6 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 11
-			}
-		]
-	}],
-	['chaos panikeado', {
-		'meta': {
-			'name': 'Chaos Panikeado'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 66
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 106
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 68
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 74
 			}
 		]
 	}],
@@ -71660,17 +79466,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['fire cyber', {
-		'meta': {
-			'name': 'Fire Cyber'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			}
-		]
-	}],
 	['ghost of guns', {
 		'meta': {
 			'name': 'Ghost of Guns'
@@ -71679,29 +79474,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 3
-			}
-		]
-	}],
-	['love paax', {
-		'meta': {
-			'name': 'Love Paax'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 6
 			}
 		]
 	}],
@@ -71774,125 +79546,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['roobzik', {
-		'meta': {
-			'name': 'Roobzik'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 39
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 61
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 51
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 67
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 64
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 54
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 56
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 196
-			}
-		]
-	}],
 	['lord tanos', {
 		'meta': {
 			'name': 'Lord Tanos'
@@ -71937,51 +79590,6 @@ export const frags = new Map([
 			{
 				'date': '2025-09-01',
 				'frags': 4
-			}
-		]
-	}],
-	['mombalabomba', {
-		'meta': {
-			'name': 'Mombalabomba'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 56
-			}
-		]
-	}],
-	['laddx', {
-		'meta': {
-			'name': 'Laddx'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			}
-		]
-	}],
-	['smoken old', {
-		'meta': {
-			'name': 'Smoken Old'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
 			}
 		]
 	}],
@@ -72467,103 +80075,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['king raphazs', {
-		'meta': {
-			'name': 'King Raphazs'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 47
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 73
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 20
-			}
-		]
-	}],
-	['vura soth', {
-		'meta': {
-			'name': 'Vura Soth'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 34
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 122
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 218
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 27
-			}
-		]
-	}],
-	['yodams blade', {
-		'meta': {
-			'name': 'Yodams Blade'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 74
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 35
-			}
-		]
-	}],
 	['cichoszelescik', {
 		'meta': {
 			'name': 'Cichoszelescik'
@@ -72572,29 +80083,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 3
-			}
-		]
-	}],
-	['kasta en bomb', {
-		'meta': {
-			'name': 'Kasta en bomb'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 126
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 107
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 167
 			}
 		]
 	}],
@@ -72669,21 +80157,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['toxic rakso', {
-		'meta': {
-			'name': 'Toxic Rakso'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 32
-			}
-		]
-	}],
 	['kelosi', {
 		'meta': {
 			'name': 'Kelosi'
@@ -72754,60 +80227,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['praguinha jeeh infiel', {
-		'meta': {
-			'name': 'Praguinha Jeeh Infiel'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 37
-			}
-		]
-	}],
-	['sandriiks', {
-		'meta': {
-			'name': 'Sandriiks'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 86
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 13
-			}
-		]
-	}],
 	['kubul', {
 		'meta': {
 			'name': 'Kubul'
@@ -72840,17 +80259,6 @@ export const frags = new Map([
 			{
 				'date': '2024-04-01',
 				'frags': 1
-			}
-		]
-	}],
-	['not rikky', {
-		'meta': {
-			'name': 'Not Rikky'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -73075,53 +80483,6 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 86
-			}
-		]
-	}],
-	['szy man ski', {
-		'meta': {
-			'name': 'Szy Man Ski'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 56
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 61
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -73386,73 +80747,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['poison onlywar', {
-		'meta': {
-			'name': 'Poison Onlywar'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 6
-			}
-		]
-	}],
 	['riseek prime', {
 		'meta': {
 			'name': 'Riseek Prime'
@@ -73469,29 +80763,6 @@ export const frags = new Map([
 			{
 				'date': '2026-04-01',
 				'frags': 21
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 40
-			}
-		]
-	}],
-	['full trapando', {
-		'meta': {
-			'name': 'Full Trapando'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 14
 			},
 			{
 				'date': '2026-03-01',
@@ -73546,140 +80817,6 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 3
-			}
-		]
-	}],
-	['zaki sanguine', {
-		'meta': {
-			'name': 'Zaki Sanguine'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 49
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 116
-			}
-		]
-	}],
-	['adbel', {
-		'meta': {
-			'name': 'Adbel'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 39
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 67
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 99
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 46
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 166
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 124
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 202
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 8
 			}
 		]
 	}],
@@ -73830,41 +80967,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['krasinho sio', {
-		'meta': {
-			'name': 'Krasinho Sio'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 1
-			}
-		]
-	}],
 	['jumento saurorex', {
 		'meta': {
 			'name': 'Jumento Saurorex'
@@ -74003,25 +81105,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['adlleer sooffty', {
-		'meta': {
-			'name': 'Adlleer Sooffty'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 7
-			}
-		]
-	}],
 	['pensioner doni', {
 		'meta': {
 			'name': 'Pensioner Doni'
@@ -74127,29 +81210,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 2
-			}
-		]
-	}],
-	['xiis te', {
-		'meta': {
-			'name': 'Xiis Te'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -74313,69 +81373,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['klothys', {
-		'meta': {
-			'name': 'Klothys'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 45
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 67
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 16
-			}
-		]
-	}],
 	['ferbas', {
 		'meta': {
 			'name': 'Ferbas'
@@ -74526,40 +81523,6 @@ export const frags = new Map([
 			},
 			{
 				'date': '2024-02-01',
-				'frags': 2
-			}
-		]
-	}],
-	['mastel solcerel', {
-		'meta': {
-			'name': 'Mastel Solcerel'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 74
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 58
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 65
-			}
-		]
-	}],
-	['skelsurg', {
-		'meta': {
-			'name': 'Skelsurg'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
 				'frags': 2
 			}
 		]
@@ -74776,64 +81739,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['wisoxz', {
-		'meta': {
-			'name': 'Wisoxz'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			}
-		]
-	}],
-	['guari skyends', {
-		'meta': {
-			'name': 'Guari Skyends'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 52
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 39
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 58
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 50
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 15
-			}
-		]
-	}],
 	['obollter', {
 		'meta': {
 			'name': 'Obollter'
@@ -74921,21 +81826,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 2
-			}
-		]
-	}],
-	['rehs', {
-		'meta': {
-			'name': 'Rehs'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 49
 			}
 		]
 	}],
@@ -75044,81 +81934,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['julio dimiscosta', {
-		'meta': {
-			'name': 'Julio Dimiscosta'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 26
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 66
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 42
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 67
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 129
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 34
-			}
-		]
-	}],
 	['azazelle', {
 		'meta': {
 			'name': 'Azazelle'
@@ -75207,37 +82022,6 @@ export const frags = new Map([
 			},
 			{
 				'date': '2026-04-01',
-				'frags': 1
-			}
-		]
-	}],
-	['rafinv', {
-		'meta': {
-			'name': 'Rafinv'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-10-01',
 				'frags': 1
 			}
 		]
@@ -75364,45 +82148,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['darking mage', {
-		'meta': {
-			'name': 'Darking Mage'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 6
-			}
-		]
-	}],
 	['etek puno', {
 		'meta': {
 			'name': 'Etek Puno'
@@ -75449,29 +82194,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 2
-			}
-		]
-	}],
-	['meiamo walt', {
-		'meta': {
-			'name': 'Meiamo Walt'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 64
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
 			}
 		]
 	}],
@@ -75583,188 +82305,6 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 197
-			}
-		]
-	}],
-	['newchar coming', {
-		'meta': {
-			'name': 'Newchar Coming'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 33
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 23
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 47
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 70
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 52
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 31
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 41
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 36
-			}
-		]
-	}],
-	['escoboar', {
-		'meta': {
-			'name': 'Escoboar'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 58
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 77
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 7
 			}
 		]
 	}],
@@ -75902,113 +82442,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['dirraan', {
-		'meta': {
-			'name': 'Dirraan'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 34
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 106
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 57
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 50
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 26
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 27
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 35
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 69
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 48
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 65
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 32
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 15
-			}
-		]
-	}],
 	['lara exodus', {
 		'meta': {
 			'name': 'Lara Exodus'
@@ -76021,45 +82454,6 @@ export const frags = new Map([
 			{
 				'date': '2025-07-01',
 				'frags': 2
-			}
-		]
-	}],
-	['mortoz', {
-		'meta': {
-			'name': 'Mortoz'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 34
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
 			}
 		]
 	}],
@@ -76116,72 +82510,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['dead bomba', {
-		'meta': {
-			'name': 'Dead Bomba'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 48
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 97
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 7
-			}
-		]
-	}],
-	['jimmy zan', {
-		'meta': {
-			'name': 'Jimmy Zan'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 17
-			}
-		]
-	}],
 	['lei to', {
 		'meta': {
 			'name': 'Lei To'
@@ -76217,29 +82545,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['alistair crobwell', {
-		'meta': {
-			'name': 'Alistair Crobwell'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 49
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 21
-			}
-		]
-	}],
 	['biellzao', {
 		'meta': {
 			'name': 'Biellzao'
@@ -76259,17 +82564,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['inversuz', {
-		'meta': {
-			'name': 'Inversuz'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
 	['miki monkuje', {
 		'meta': {
 			'name': 'Miki Monkuje'
@@ -76278,29 +82572,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 1
-			}
-		]
-	}],
-	['mathlovebaby', {
-		'meta': {
-			'name': 'Mathlovebaby'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 27
 			}
 		]
 	}],
@@ -76335,33 +82606,6 @@ export const frags = new Map([
 			{
 				'date': '2026-03-01',
 				'frags': 7
-			}
-		]
-	}],
-	['virez', {
-		'meta': {
-			'name': 'Virez'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 66
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 20
 			}
 		]
 	}],
@@ -76448,76 +82692,6 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 26
-			}
-		]
-	}],
-	['gladiathor swag', {
-		'meta': {
-			'name': 'Gladiathor Swag'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 56
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 66
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 74
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 59
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 67
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 28
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 17
-			}
-		]
-	}],
-	['perssen', {
-		'meta': {
-			'name': 'Perssen'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 3
 			}
 		]
 	}],
@@ -76784,45 +82958,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['parapushed south west', {
-		'meta': {
-			'name': 'Parapushed South West'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 23
-			}
-		]
-	}],
 	['toxic mefiu', {
 		'meta': {
 			'name': 'Toxic Mefiu'
@@ -76912,33 +83047,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 7
-			}
-		]
-	}],
-	['doemoral eelkalm', {
-		'meta': {
-			'name': 'Doemoral Eelkalm'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 4
 			}
 		]
 	}],
@@ -77038,53 +83146,6 @@ export const frags = new Map([
 			{
 				'date': '2024-04-01',
 				'frags': 22
-			}
-		]
-	}],
-	['zeroksi', {
-		'meta': {
-			'name': 'Zeroksi'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 31
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 13
 			}
 		]
 	}],
@@ -77220,234 +83281,9 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['not ed', {
-		'meta': {
-			'name': 'Not Ed'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 31
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 14
-			}
-		]
-	}],
-	['czar hawk', {
-		'meta': {
-			'name': 'Czar Hawk'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 1
-			}
-		]
-	}],
-	['dorabiam klucze', {
-		'meta': {
-			'name': 'Dorabiam Klucze'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 11
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 5
-			}
-		]
-	}],
 	['thranduil terrashield', {
 		'meta': {
 			'name': 'Thranduil Terrashield'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
-	['xaron zeth', {
-		'meta': {
-			'name': 'Xaron Zeth'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 23
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 18
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 14
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 16
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 20
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 35
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 13
-			}
-		]
-	}],
-	['wielkie jaja', {
-		'meta': {
-			'name': 'Wielkie Jaja'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
-	['los muerte', {
-		'meta': {
-			'name': 'Los Muerte'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 26
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 50
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 161
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 129
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 221
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 170
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 70
-			}
-		]
-	}],
-	['lebex reunion', {
-		'meta': {
-			'name': 'Lebex Reunion'
 		},
 		'fragData': [
 			{
@@ -77562,53 +83398,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['skun aguero', {
-		'meta': {
-			'name': 'Skun Aguero'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 53
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 78
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 40
-			}
-		]
-	}],
 	['diozes ez raydstrifee', {
 		'meta': {
 			'name': 'Diozes Ez Raydstrifee'
@@ -77711,79 +83500,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['gandalf soul', {
-		'meta': {
-			'name': 'Gandalf Soul'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 35
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 86
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 46
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 12
-			}
-		]
-	}],
-	['lirryk', {
-		'meta': {
-			'name': 'Lirryk'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
-	['mini dread', {
-		'meta': {
-			'name': 'Mini Dread'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			}
-		]
-	}],
 	['shwaha', {
 		'meta': {
 			'name': 'Shwaha'
@@ -77872,108 +83588,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['waifu dezu', {
-		'meta': {
-			'name': 'Waifu Dezu'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 127
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 77
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 25
-			}
-		]
-	}],
-	['lord youzers', {
-		'meta': {
-			'name': 'Lord Youzers'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 16
-			}
-		]
-	}],
 	['miltola', {
 		'meta': {
 			'name': 'Miltola'
@@ -78009,89 +83623,6 @@ export const frags = new Map([
 			{
 				'date': '2026-01-01',
 				'frags': 3
-			}
-		]
-	}],
-	['anferz alterado', {
-		'meta': {
-			'name': 'Anferz Alterado'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 74
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 43
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 5
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 30
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 17
 			}
 		]
 	}],
@@ -78368,17 +83899,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['decent axe', {
-		'meta': {
-			'name': 'Decent Axe'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
 	['gouxak harbour', {
 		'meta': {
 			'name': 'Gouxak Harbour'
@@ -78461,41 +83981,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 1
-			}
-		]
-	}],
-	['sazirin', {
-		'meta': {
-			'name': 'Sazirin'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 26
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 48
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -78887,25 +84372,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['ed edor', {
-		'meta': {
-			'name': 'Ed Edor'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			}
-		]
-	}],
 	['ek edoorek', {
 		'meta': {
 			'name': 'Ek Edoorek'
@@ -78936,17 +84402,6 @@ export const frags = new Map([
 			},
 			{
 				'date': '2026-04-01',
-				'frags': 1
-			}
-		]
-	}],
-	['warrior of moon', {
-		'meta': {
-			'name': 'Warrior of Moon'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
 				'frags': 1
 			}
 		]
@@ -79029,136 +84484,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 1
-			}
-		]
-	}],
-	['levato no mana', {
-		'meta': {
-			'name': 'Levato No Mana'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 52
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 83
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 209
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 85
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 39
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 33
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 62
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 80
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 37
-			}
-		]
-	}],
-	['dwempulas heatostara', {
-		'meta': {
-			'name': 'Dwempulas Heatostara'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 23
 			}
 		]
 	}],
@@ -79257,120 +84582,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['noprimal nosoulwarr', {
-		'meta': {
-			'name': 'Noprimal Nosoulwarr'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 18
-			},
-			{
-				'date': '2023-11-01',
-				'frags': 15
-			}
-		]
-	}],
-	['nomyx disfruton', {
-		'meta': {
-			'name': 'Nomyx Disfruton'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 96
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 5
-			}
-		]
-	}],
 	['foguete bombinha', {
 		'meta': {
 			'name': 'Foguete Bombinha'
@@ -79419,120 +84630,6 @@ export const frags = new Map([
 			{
 				'date': '2025-07-01',
 				'frags': 62
-			}
-		]
-	}],
-	['mexie', {
-		'meta': {
-			'name': 'Mexie'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 52
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 10
-			}
-		]
-	}],
-	['gogeta ui', {
-		'meta': {
-			'name': 'Gogeta Ui'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 40
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 58
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 24
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 23
 			}
 		]
 	}],
@@ -79607,61 +84704,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['yoruichi yagami', {
-		'meta': {
-			'name': 'Yoruichi Yagami'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 85
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 58
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 53
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 69
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 63
-			}
-		]
-	}],
 	['cookie shade', {
 		'meta': {
 			'name': 'Cookie Shade'
@@ -79712,17 +84754,6 @@ export const frags = new Map([
 	['knillas', {
 		'meta': {
 			'name': 'Knillas'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
-	['edleri', {
-		'meta': {
-			'name': 'Edleri'
 		},
 		'fragData': [
 			{
@@ -79928,65 +84959,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['ciasny waski', {
-		'meta': {
-			'name': 'Ciasny Waski'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 47
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 2
-			}
-		]
-	}],
 	['not dragonaids', {
 		'meta': {
 			'name': 'Not Dragonaids'
@@ -80029,67 +85001,6 @@ export const frags = new Map([
 			{
 				'date': '2026-06-01',
 				'frags': 1
-			}
-		]
-	}],
-	['earnfari', {
-		'meta': {
-			'name': 'Earnfari'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
-	['charly mike', {
-		'meta': {
-			'name': 'Charly Mike'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			}
-		]
-	}],
-	['svolacius', {
-		'meta': {
-			'name': 'Svolacius'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 34
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 28
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 39
 			}
 		]
 	}],
@@ -80314,57 +85225,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['diuree', {
-		'meta': {
-			'name': 'Diuree'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 87
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 117
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 137
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 94
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 80
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 77
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 45
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 72
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 16
-			}
-		]
-	}],
 	['don cal', {
 		'meta': {
 			'name': 'Don Cal'
@@ -80572,29 +85432,6 @@ export const frags = new Map([
 			{
 				'date': '2026-01-01',
 				'frags': 7
-			}
-		]
-	}],
-	['xilaz', {
-		'meta': {
-			'name': 'Xilaz'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 54
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 171
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 256
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 87
 			}
 		]
 	}],
@@ -80960,92 +85797,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 118
-			}
-		]
-	}],
-	['styg semi retired', {
-		'meta': {
-			'name': 'Styg Semi Retired'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 42
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 46
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 101
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 101
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 56
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 89
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 45
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 70
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 16
-			}
-		]
-	}],
-	['rekuperator prime', {
-		'meta': {
-			'name': 'Rekuperator Prime'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 46
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 63
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 99
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 21
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 61
 			}
 		]
 	}],
@@ -81905,21 +86656,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['stor ed', {
-		'meta': {
-			'name': 'Stor Ed'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 29
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			}
-		]
-	}],
 	['loto fortera', {
 		'meta': {
 			'name': 'Loto Fortera'
@@ -82078,65 +86814,6 @@ export const frags = new Map([
 			{
 				'date': '2025-01-01',
 				'frags': 15
-			}
-		]
-	}],
-	['minavand', {
-		'meta': {
-			'name': 'Minavand'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 28
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 49
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 8
 			}
 		]
 	}],
@@ -82332,89 +87009,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['ashdeth', {
-		'meta': {
-			'name': 'Ashdeth'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 26
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 82
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 83
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 101
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 83
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 163
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 78
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 26
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 81
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 1
-			}
-		]
-	}],
 	['riicoss', {
 		'meta': {
 			'name': 'Riicoss'
@@ -82504,41 +87098,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['the roman', {
-		'meta': {
-			'name': 'The Roman'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 51
-			}
-		]
-	}],
 	['drapso', {
 		'meta': {
 			'name': 'Drapso'
@@ -82587,57 +87146,6 @@ export const frags = new Map([
 			{
 				'date': '2024-11-01',
 				'frags': 63
-			}
-		]
-	}],
-	['demszi', {
-		'meta': {
-			'name': 'Demszi'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 37
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -82797,101 +87305,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['cag uamasz', {
-		'meta': {
-			'name': 'Cag uamasz'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 23
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 22
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 42
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 65
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 82
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 37
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 53
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 44
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 59
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 20
-			}
-		]
-	}],
 	['sick ed', {
 		'meta': {
 			'name': 'Sick Ed'
@@ -82908,57 +87321,6 @@ export const frags = new Map([
 			{
 				'date': '2026-03-01',
 				'frags': 41
-			}
-		]
-	}],
-	['mestre paulo', {
-		'meta': {
-			'name': 'Mestre Paulo'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 19
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 45
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 44
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 73
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 26
 			}
 		]
 	}],
@@ -83778,53 +88140,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['ulfus overlord', {
-		'meta': {
-			'name': 'Ulfus Overlord'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 17
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 22
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 14
-			}
-		]
-	}],
 	['tokio mage', {
 		'meta': {
 			'name': 'Tokio mage'
@@ -84166,57 +88481,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['gold legend shakur', {
-		'meta': {
-			'name': 'Gold legend shakur'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 59
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 19
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 22
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 21
-			}
-		]
-	}],
 	['lambaal', {
 		'meta': {
 			'name': 'Lambaal'
@@ -84447,61 +88711,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['druid claudio', {
-		'meta': {
-			'name': 'Druid Claudio'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 17
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 41
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 6
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 20
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 148
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 26
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 52
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 75
-			}
-		]
-	}],
 	['tyamatt', {
 		'meta': {
 			'name': 'Tyamatt'
@@ -84648,76 +88857,6 @@ export const frags = new Map([
 			{
 				'date': '2024-06-01',
 				'frags': 55
-			}
-		]
-	}],
-	['shadowy arrow', {
-		'meta': {
-			'name': 'Shadowy Arrow'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			}
-		]
-	}],
-	['choaa', {
-		'meta': {
-			'name': 'Choaa'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 20
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 5
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 28
 			}
 		]
 	}],
@@ -85152,140 +89291,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['wesoly zavodnik', {
-		'meta': {
-			'name': 'Wesoly Zavodnik'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 2
-			}
-		]
-	}],
-	['magic spectre', {
-		'meta': {
-			'name': 'Magic Spectre'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 81
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 51
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 26
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 101
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 5
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 14
-			}
-		]
-	}],
 	['evullzx', {
 		'meta': {
 			'name': 'Evullzx'
@@ -85347,29 +89352,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['josenzx', {
-		'meta': {
-			'name': 'Josenzx'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 66
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 73
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 1
-			}
-		]
-	}],
 	['raksoo bombaa', {
 		'meta': {
 			'name': 'Raksoo Bombaa'
@@ -85421,89 +89403,6 @@ export const frags = new Map([
 			{
 				'date': '2025-09-01',
 				'frags': 79
-			}
-		]
-	}],
-	['grande observador', {
-		'meta': {
-			'name': 'Grande Observador'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 41
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 20
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 56
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 33
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 71
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 27
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -86268,89 +90167,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['fox healing jussi', {
-		'meta': {
-			'name': 'Fox Healing Jussi'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 42
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 25
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 55
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 39
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 17
-			}
-		]
-	}],
 	['mery sinheo', {
 		'meta': {
 			'name': 'Mery Sinheo'
@@ -86422,109 +90238,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 9
-			}
-		]
-	}],
-	['nowychar', {
-		'meta': {
-			'name': 'Nowychar'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 47
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 24
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 59
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 57
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 7
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 14
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 11
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 22
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 47
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 39
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 54
 			}
 		]
 	}],
@@ -87313,37 +91026,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['king saez style', {
-		'meta': {
-			'name': 'King Saez Style'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 53
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 69
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 49
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 48
-			}
-		]
-	}],
 	['the prometheus', {
 		'meta': {
 			'name': 'The Prometheus'
@@ -87513,81 +91195,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['unfeeled', {
-		'meta': {
-			'name': 'Unfeeled'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 23
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 76
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 78
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 117
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 111
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 8
-			}
-		]
-	}],
 	['eqho', {
 		'meta': {
 			'name': 'Eqho'
@@ -87642,57 +91249,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['king wargott', {
-		'meta': {
-			'name': 'King Wargott'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 24
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 36
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 43
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 3
-			}
-		]
-	}],
 	['some other other', {
 		'meta': {
 			'name': 'Some Other Other'
@@ -87744,25 +91300,6 @@ export const frags = new Map([
 			{
 				'date': '2025-06-01',
 				'frags': 2
-			}
-		]
-	}],
-	['szymon zabijaka', {
-		'meta': {
-			'name': 'Szymon Zabijaka'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 49
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 82
 			}
 		]
 	}],
@@ -88230,69 +91767,6 @@ export const frags = new Map([
 			{
 				'date': '2024-12-01',
 				'frags': 1
-			}
-		]
-	}],
-	['broque', {
-		'meta': {
-			'name': 'Broque'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 6
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 33
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 38
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 32
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 90
 			}
 		]
 	}],
@@ -88898,73 +92372,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['mister kimpan', {
-		'meta': {
-			'name': 'Mister Kimpan'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 30
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 10
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 31
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 51
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 13
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 45
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 3
-			}
-		]
-	}],
 	['peka archer', {
 		'meta': {
 			'name': 'Peka Archer'
@@ -89171,69 +92578,6 @@ export const frags = new Map([
 			{
 				'date': '2025-05-01',
 				'frags': 3
-			}
-		]
-	}],
-	['elder maxiimus', {
-		'meta': {
-			'name': 'Elder Maxiimus'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 14
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 12
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 37
 			}
 		]
 	}],
@@ -89601,37 +92945,6 @@ export const frags = new Map([
 			{
 				'date': '2026-03-01',
 				'frags': 70
-			}
-		]
-	}],
-	['twisted yo mate', {
-		'meta': {
-			'name': 'Twisted Yo Mate'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 4
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -90560,53 +93873,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['mma leo', {
-		'meta': {
-			'name': 'Mma Leo'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 129
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 113
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 70
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 76
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 10
-			}
-		]
-	}],
 	['aplastando alianzas', {
 		'meta': {
 			'name': 'Aplastando Alianzas'
@@ -91273,45 +94539,6 @@ export const frags = new Map([
 			{
 				'date': '2026-05-01',
 				'frags': 1
-			}
-		]
-	}],
-	['samakis', {
-		'meta': {
-			'name': 'Samakis'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 15
 			}
 		]
 	}],
@@ -92002,21 +95229,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['twisted yo pepe', {
-		'meta': {
-			'name': 'Twisted Yo Pepe'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 5
-			}
-		]
-	}],
 	['kurzdok leany', {
 		'meta': {
 			'name': 'Kurzdok Leany'
@@ -92491,93 +95703,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['alasct spirit', {
-		'meta': {
-			'name': 'Alasct Spirit'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 12
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 69
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 99
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 46
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 14
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 12
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 16
-			}
-		]
-	}],
 	['lockhartoo', {
 		'meta': {
 			'name': 'Lockhartoo'
@@ -92944,85 +96069,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['unfriendly sanchez', {
-		'meta': {
-			'name': 'Unfriendly Sanchez'
-		},
-		'fragData': [
-			{
-				'date': '2026-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 30
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 93
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 32
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 13
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 55
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 220
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 231
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 229
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 78
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 43
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 44
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 86
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 47
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 104
-			}
-		]
-	}],
 	['lion bomba', {
 		'meta': {
 			'name': 'Lion Bomba'
@@ -93098,61 +96144,6 @@ export const frags = new Map([
 			{
 				'date': '2023-10-01',
 				'frags': 362
-			}
-		]
-	}],
-	['mad shikre', {
-		'meta': {
-			'name': 'Mad Shikre'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 83
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 25
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 59
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 80
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 22
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 29
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 98
 			}
 		]
 	}],
@@ -94213,37 +97204,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['diabolinqa', {
-		'meta': {
-			'name': 'Diabolinqa'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 18
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 13
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			}
-		]
-	}],
 	['doomblaze', {
 		'meta': {
 			'name': 'Doomblaze'
@@ -95237,41 +98197,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['maria toys', {
-		'meta': {
-			'name': 'Maria Toys'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 27
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 32
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			}
-		]
-	}],
 	['xartix emes', {
 		'meta': {
 			'name': 'Xartix emes'
@@ -95328,25 +98253,6 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 30
-			}
-		]
-	}],
-	['patras ed', {
-		'meta': {
-			'name': 'Patras Ed'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 11
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -95490,17 +98396,6 @@ export const frags = new Map([
 			{
 				'date': '2025-12-01',
 				'frags': 13
-			}
-		]
-	}],
-	['dem kallarhan sneakarn', {
-		'meta': {
-			'name': 'Dem kallarhan Sneakarn'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 9
 			}
 		]
 	}],
@@ -96139,37 +99034,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['aaron helric', {
-		'meta': {
-			'name': 'Aaron helric'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 25
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 21
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 27
-			}
-		]
-	}],
 	['kago', {
 		'meta': {
 			'name': 'Kago'
@@ -96416,45 +99280,6 @@ export const frags = new Map([
 			{
 				'date': '2025-08-01',
 				'frags': 34
-			}
-		]
-	}],
-	['kamillosky on pelorka', {
-		'meta': {
-			'name': 'Kamillosky on Pelorka'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -99538,84 +102363,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['darvan', {
-		'meta': {
-			'name': 'Darvan'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 6
-			}
-		]
-	}],
-	['king vonmort', {
-		'meta': {
-			'name': 'King Vonmort'
-		},
-		'fragData': [
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-03-01',
-				'frags': 8
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 60
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 83
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 46
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 58
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 96
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 136
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 23
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 26
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 54
-			}
-		]
-	}],
 	['rojo slayer', {
 		'meta': {
 			'name': 'Rojo Slayer'
@@ -102356,17 +105103,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['nana dret', {
-		'meta': {
-			'name': 'Nana Dret'
-		},
-		'fragData': [
-			{
-				'date': '2026-03-01',
-				'frags': 14
-			}
-		]
-	}],
 	['maria leczy', {
 		'meta': {
 			'name': 'Maria Leczy'
@@ -104157,29 +106893,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['crystal fugoso', {
-		'meta': {
-			'name': 'Crystal fugoso'
-		},
-		'fragData': [
-			{
-				'date': '2026-03-01',
-				'frags': 5
-			},
-			{
-				'date': '2026-02-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 32
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 4
-			}
-		]
-	}],
 	['target maybe', {
 		'meta': {
 			'name': 'Target Maybe'
@@ -104563,45 +107276,6 @@ export const frags = new Map([
 			{
 				'date': '2026-02-01',
 				'frags': 2
-			}
-		]
-	}],
-	['diego do caminhaopipa', {
-		'meta': {
-			'name': 'Diego do Caminhaopipa'
-		},
-		'fragData': [
-			{
-				'date': '2026-03-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 74
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 41
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 35
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 37
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 62
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -105142,25 +107816,6 @@ export const frags = new Map([
 			{
 				'date': '2025-08-01',
 				'frags': 7
-			}
-		]
-	}],
-	['enfle on peloria', {
-		'meta': {
-			'name': 'Enfle on Peloria'
-		},
-		'fragData': [
-			{
-				'date': '2026-03-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 21
 			}
 		]
 	}],
@@ -107582,45 +110237,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['chobby morridnovo', {
-		'meta': {
-			'name': 'Chobby Morridnovo'
-		},
-		'fragData': [
-			{
-				'date': '2026-02-01',
-				'frags': 118
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 80
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 29
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 37
-			}
-		]
-	}],
 	['warlemao', {
 		'meta': {
 			'name': 'Warlemao'
@@ -108861,81 +111477,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['king diavoley', {
-		'meta': {
-			'name': 'King Diavoley'
-		},
-		'fragData': [
-			{
-				'date': '2026-02-01',
-				'frags': 15
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 9
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 5
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 28
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 8
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 48
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 27
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 69
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 9
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 2
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 3
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 44
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 8
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 1
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 61
-			}
-		]
-	}],
 	['bald mamba', {
 		'meta': {
 			'name': 'Bald Mamba'
@@ -109715,45 +112256,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['reckless mardo', {
-		'meta': {
-			'name': 'Reckless Mardo'
-		},
-		'fragData': [
-			{
-				'date': '2026-02-01',
-				'frags': 9
-			},
-			{
-				'date': '2026-01-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-12-01',
-				'frags': 14
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-10-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 39
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 36
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 1
-			}
-		]
-	}],
 	['agob minion recruiton', {
 		'meta': {
 			'name': 'Agob Minion recruiton'
@@ -110461,21 +112963,6 @@ export const frags = new Map([
 			{
 				'date': '2026-01-01',
 				'frags': 10
-			}
-		]
-	}],
-	['inte arg', {
-		'meta': {
-			'name': 'Inte Arg'
-		},
-		'fragData': [
-			{
-				'date': '2026-02-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -115297,17 +117784,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['andzia paladin', {
-		'meta': {
-			'name': 'Andzia Paladin'
-		},
-		'fragData': [
-			{
-				'date': '2026-01-01',
-				'frags': 1
-			}
-		]
-	}],
 	['codename virgin', {
 		'meta': {
 			'name': 'Codename Virgin'
@@ -118127,25 +120603,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['dar gorn', {
-		'meta': {
-			'name': 'Dar Gorn'
-		},
-		'fragData': [
-			{
-				'date': '2025-11-01',
-				'frags': 17
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 9
-			}
-		]
-	}],
 	['deswor', {
 		'meta': {
 			'name': 'Deswor'
@@ -120137,17 +122594,6 @@ export const frags = new Map([
 	['aderz', {
 		'meta': {
 			'name': 'Aderz'
-		},
-		'fragData': [
-			{
-				'date': '2025-11-01',
-				'frags': 1
-			}
-		]
-	}],
-	['ofm', {
-		'meta': {
-			'name': 'Ofm'
 		},
 		'fragData': [
 			{
@@ -123169,29 +125615,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['esfuerzo nuto', {
-		'meta': {
-			'name': 'Esfuerzo Nuto'
-		},
-		'fragData': [
-			{
-				'date': '2025-10-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-09-01',
-				'frags': 24
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 33
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 12
-			}
-		]
-	}],
 	['refractarium', {
 		'meta': {
 			'name': 'Refractarium'
@@ -125274,81 +127697,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['ahitomage', {
-		'meta': {
-			'name': 'Ahitomage'
-		},
-		'fragData': [
-			{
-				'date': '2025-09-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 15
-			},
-			{
-				'date': '2025-02-01',
-				'frags': 18
-			},
-			{
-				'date': '2025-01-01',
-				'frags': 19
-			},
-			{
-				'date': '2024-12-01',
-				'frags': 23
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 34
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 26
-			},
-			{
-				'date': '2024-09-01',
-				'frags': 26
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 65
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 24
-			},
-			{
-				'date': '2024-06-01',
-				'frags': 39
-			},
-			{
-				'date': '2024-05-01',
-				'frags': 15
-			},
-			{
-				'date': '2024-04-01',
-				'frags': 68
-			},
-			{
-				'date': '2024-03-01',
-				'frags': 44
-			},
-			{
-				'date': '2024-02-01',
-				'frags': 52
-			}
-		]
-	}],
 	['jukar hess', {
 		'meta': {
 			'name': 'Jukar Hess'
@@ -125373,29 +127721,6 @@ export const frags = new Map([
 			{
 				'date': '2025-03-01',
 				'frags': 13
-			}
-		]
-	}],
-	['magestuoso', {
-		'meta': {
-			'name': 'Magestuoso'
-		},
-		'fragData': [
-			{
-				'date': '2025-08-01',
-				'frags': 55
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 81
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 109
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 7
 			}
 		]
 	}],
@@ -126795,21 +129120,6 @@ export const frags = new Map([
 			{
 				'date': '2025-07-01',
 				'frags': 9
-			}
-		]
-	}],
-	['zevelena', {
-		'meta': {
-			'name': 'Zevelena'
-		},
-		'fragData': [
-			{
-				'date': '2025-08-01',
-				'frags': 2
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 4
 			}
 		]
 	}],
@@ -129012,21 +131322,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['lidera dell', {
-		'meta': {
-			'name': 'Lidera Dell'
-		},
-		'fragData': [
-			{
-				'date': '2025-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-03-01',
-				'frags': 3
-			}
-		]
-	}],
 	['gaangster', {
 		'meta': {
 			'name': 'Gaangster'
@@ -129398,17 +131693,6 @@ export const frags = new Map([
 			{
 				'date': '2024-05-01',
 				'frags': 2
-			}
-		]
-	}],
-	['azunakz', {
-		'meta': {
-			'name': 'Azunakz'
-		},
-		'fragData': [
-			{
-				'date': '2025-07-01',
-				'frags': 3
 			}
 		]
 	}],
@@ -157074,33 +159358,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['kuba deja vu', {
-		'meta': {
-			'name': 'Kuba Deja vu'
-		},
-		'fragData': [
-			{
-				'date': '2024-12-01',
-				'frags': 4
-			},
-			{
-				'date': '2024-11-01',
-				'frags': 18
-			},
-			{
-				'date': '2024-10-01',
-				'frags': 14
-			},
-			{
-				'date': '2024-08-01',
-				'frags': 112
-			},
-			{
-				'date': '2024-07-01',
-				'frags': 37
-			}
-		]
-	}],
 	['miguelzzerah', {
 		'meta': {
 			'name': 'Miguelzzerah'
@@ -180716,17 +182973,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['rablat', {
-		'meta': {
-			'name': 'Rablat'
-		},
-		'fragData': [
-			{
-				'date': '2024-03-01',
-				'frags': 1
-			}
-		]
-	}],
 	['wellz sider', {
 		'meta': {
 			'name': 'Wellz Sider'
@@ -182220,6 +184466,17 @@ export const frags = new Map([
 			{
 				'date': '2024-02-01',
 				'frags': 1
+			}
+		]
+	}],
+	['hogab', {
+		'meta': {
+			'name': 'Hogab'
+		},
+		'fragData': [
+			{
+				'date': '2026-07-01',
+				'frags': 2
 			}
 		]
 	}],
