@@ -1,4 +1,5 @@
 export const dateIds = new Set([
+	'2026-10-01',
 	'2026-09-01',
 	'2026-08-01',
 	'2026-07-01',
@@ -44,6 +45,239 @@ export const dateIds = new Set([
 ]);
 
 export const frags = new Map([
+	['byoniic', {
+		'meta': {
+			'name': 'Byoniic'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2026-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 10
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 127
+			},
+			{
+				'date': '2023-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2023-04-01',
+				'frags': 3
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			}
+		]
+	}],
+	['elder dasher', {
+		'meta': {
+			'name': 'Elder Dasher'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2023-05-01',
+				'frags': 1
+			},
+			{
+				'date': '2023-04-01',
+				'frags': 2
+			}
+		]
+	}],
+	['shooter scotty', {
+		'meta': {
+			'name': 'Shooter Scotty'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 2
+			}
+		]
+	}],
+	['jow of darkness', {
+		'meta': {
+			'name': 'Jow Of Darkness'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-07-01',
+				'frags': 11
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 6
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 7
+			},
+			{
+				'date': '2025-04-01',
+				'frags': 138
+			},
+			{
+				'date': '2023-05-01',
+				'frags': 15
+			},
+			{
+				'date': '2023-04-01',
+				'frags': 16
+			},
+			{
+				'date': '2025-11-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			}
+		]
+	}],
+	['marco caesar', {
+		'meta': {
+			'name': 'Marco Caesar'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['kael fist', {
+		'meta': {
+			'name': 'Kael Fist'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['infernal fluxen', {
+		'meta': {
+			'name': 'Infernal Fluxen'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['snurixx', {
+		'meta': {
+			'name': 'Snurixx'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['ewaldz', {
+		'meta': {
+			'name': 'Ewaldz'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['freakasaurus rex', {
+		'meta': {
+			'name': 'Freakasaurus Rex'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 1
+			}
+		]
+	}],
+	['berglin', {
+		'meta': {
+			'name': 'Berglin'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-08-01',
+				'frags': 4
+			},
+			{
+				'date': '2025-06-01',
+				'frags': 1
+			},
+			{
+				'date': '2025-05-01',
+				'frags': 2
+			},
+			{
+				'date': '2023-06-01',
+				'frags': 4
+			},
+			{
+				'date': '2023-04-01',
+				'frags': 8
+			}
+		]
+	}],
 	['zadjyk', {
 		'meta': {
 			'name': 'Zadjyk'
@@ -138,49 +372,6 @@ export const frags = new Map([
 			{
 				'date': '2025-01-01',
 				'frags': 187
-			}
-		]
-	}],
-	['byoniic', {
-		'meta': {
-			'name': 'Byoniic'
-		},
-		'fragData': [
-			{
-				'date': '2026-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2026-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-08-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 10
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 127
-			},
-			{
-				'date': '2023-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2023-04-01',
-				'frags': 3
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -2582,33 +2773,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['berglin', {
-		'meta': {
-			'name': 'Berglin'
-		},
-		'fragData': [
-			{
-				'date': '2025-08-01',
-				'frags': 4
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 2
-			},
-			{
-				'date': '2023-06-01',
-				'frags': 4
-			},
-			{
-				'date': '2023-04-01',
-				'frags': 8
-			}
-		]
-	}],
 	['dajy', {
 		'meta': {
 			'name': 'Dajy'
@@ -3850,49 +4014,6 @@ export const frags = new Map([
 			{
 				'date': '2025-06-01',
 				'frags': 2
-			}
-		]
-	}],
-	['jow of darkness', {
-		'meta': {
-			'name': 'Jow Of Darkness'
-		},
-		'fragData': [
-			{
-				'date': '2025-07-01',
-				'frags': 11
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 6
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 7
-			},
-			{
-				'date': '2025-04-01',
-				'frags': 138
-			},
-			{
-				'date': '2023-05-01',
-				'frags': 15
-			},
-			{
-				'date': '2023-04-01',
-				'frags': 16
-			},
-			{
-				'date': '2025-11-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-06-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-05-01',
-				'frags': 1
 			}
 		]
 	}],
@@ -16802,17 +16923,6 @@ export const frags = new Map([
 	['damladyn', {
 		'meta': {
 			'name': 'Damladyn'
-		},
-		'fragData': [
-			{
-				'date': '2025-05-01',
-				'frags': 1
-			}
-		]
-	}],
-	['freakasaurus rex', {
-		'meta': {
-			'name': 'Freakasaurus Rex'
 		},
 		'fragData': [
 			{
@@ -41498,21 +41608,6 @@ export const frags = new Map([
 			}
 		]
 	}],
-	['shooter scotty', {
-		'meta': {
-			'name': 'Shooter Scotty'
-		},
-		'fragData': [
-			{
-				'date': '2025-04-01',
-				'frags': 1
-			},
-			{
-				'date': '2025-07-01',
-				'frags': 2
-			}
-		]
-	}],
 	['vilir', {
 		'meta': {
 			'name': 'Vilir'
@@ -55027,21 +55122,6 @@ export const frags = new Map([
 			{
 				'date': '2023-04-01',
 				'frags': 1
-			}
-		]
-	}],
-	['elder dasher', {
-		'meta': {
-			'name': 'Elder Dasher'
-		},
-		'fragData': [
-			{
-				'date': '2023-05-01',
-				'frags': 1
-			},
-			{
-				'date': '2023-04-01',
-				'frags': 2
 			}
 		]
 	}],
@@ -186212,6 +186292,28 @@ export const frags = new Map([
 		'fragData': [
 			{
 				'date': '2024-02-01',
+				'frags': 1
+			}
+		]
+	}],
+	['daddy cool', {
+		'meta': {
+			'name': 'Daddy Cool'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
+				'frags': 1
+			}
+		]
+	}],
+	['blasted bojack', {
+		'meta': {
+			'name': 'Blasted Bojack'
+		},
+		'fragData': [
+			{
+				'date': '2026-10-01',
 				'frags': 1
 			}
 		]
